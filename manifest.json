@@ -1,0 +1,76 @@
+{
+ "version": 1,
+ "source": "geoBoundaries (www.geoboundaries.org)",
+ "files": {
+  "AU": {
+   "file": "admin2-AU.geopack",
+   "bytes": 1817952,
+   "sha256": "eb11040cd5f869e5fdb9ddda4101f0850b6d8746acdd1a283b2ebd0d1a327bf2",
+   "v": 1,
+   "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+  },
+  "BR": {
+   "file": "admin2-BR.geopack",
+   "bytes": 7257848,
+   "sha256": "1cb155352e08fcd100ad2f6129fb8bead444c69d3cfe420b72ba36c47ee667aa",
+   "v": 1,
+   "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)"
+  },
+  "CA": {
+   "file": "admin2-CA.geopack",
+   "bytes": 5009192,
+   "sha256": "efc656fc6b2e29378c276a252a95703043d0eed9da73101caa20e3a340ed0b8b",
+   "v": 1,
+   "license": "Open Government Canada 2.0"
+  },
+  "DE": {
+   "file": "admin2-DE.geopack",
+   "bytes": 415184,
+   "sha256": "8569b8f045885a3232f598167f57203d42e49be1dd1d02f51de1217563b38f19",
+   "v": 1,
+   "license": "Data license Germany - Attribution - Version 2.0"
+  },
+  "ES": {
+   "file": "admin2-ES.geopack",
+   "bytes": 376512,
+   "sha256": "ddeb688cfe688e84509352a820c4e01a1d2c04f34031e063971de26e276c6e3e",
+   "v": 1,
+   "license": "National Institute of Statistics (INE) Data License"
+  },
+  "FR": {
+   "file": "admin2-FR.geopack",
+   "bytes": 720848,
+   "sha256": "3f1849e323fce987e35c5446866487b29fb7941b490143136c849f77b7f7eeb2",
+   "v": 1,
+   "license": "Etalab Open License 2.0"
+  },
+  "GB": {
+   "file": "admin2-GB.geopack",
+   "bytes": 321888,
+   "sha256": "85b40434ff2503401d78e0257e72bd31c4a376ce4453180622a0edd6eb9301ef",
+   "v": 1,
+   "license": "Open Government Licence v3.0"
+  },
+  "IT": {
+   "file": "admin2-IT.geopack",
+   "bytes": 460432,
+   "sha256": "f7e02cab93c88ca4ebba1c9056e7582b4250fb74a5fc44af3b96691623716ebe",
+   "v": 1,
+   "license": "Creative Commons Attribution 3.0 License"
+  },
+  "JP": {
+   "file": "admin2-JP.geopack",
+   "bytes": 1728272,
+   "sha256": "f5583d46735ae3ac076c3dccbfcff5320467ab41309177519c4cffdb46982f5f",
+   "v": 1,
+   "license": "Creative Commons Attribution-ShareAlike 2.0"
+  },
+  "MX": {
+   "file": "admin2-MX.geopack",
+   "bytes": 2944312,
+   "sha256": "1d80c1d31ac7ff6ed272a9f0f28e357dab90e6c8e6cc5e25721638c3fabe23b5",
+   "v": 1,
+   "license": "Creative Commons Attribution 4.0 (CC BY 4.0)"
+  }
+ }
+}
