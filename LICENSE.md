@@ -21,4 +21,4 @@ Attribution: geoBoundaries, www.geoboundaries.org.
 
 ## Cities
 
-`cities/XX.json` are derived from GeoNames `cities15000` (www.geonames.org), licensed under Creative Commons Attribution 4.0 (CC BY 4.0). The changes made were: places were filtered to towns and cities, sorted by population, and tagged with region codes from the app's own outlines.
+`cities/XX.json` are derived from GeoNames `cities15000` (www.geonames.org), licensed under Creative Commons Attribution 4.0 (CC BY 4.0). The changes made were: places were filtered to cities of 100,000+ people, sorted by population, and tagged with region codes from the app's own outlines.
