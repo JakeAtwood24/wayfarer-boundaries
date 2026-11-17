@@ -1,76 +1,785 @@
 {
- "version": 1,
- "source": "geoBoundaries (www.geoboundaries.org)",
  "files": {
   "AU": {
-   "file": "admin2-AU.geopack",
    "bytes": 1817952,
+   "file": "admin2-AU.geopack",
+   "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
    "sha256": "eb11040cd5f869e5fdb9ddda4101f0850b6d8746acdd1a283b2ebd0d1a327bf2",
-   "v": 1,
-   "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)"
+   "v": 1
   },
   "BR": {
-   "file": "admin2-BR.geopack",
    "bytes": 7257848,
+   "file": "admin2-BR.geopack",
+   "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
    "sha256": "1cb155352e08fcd100ad2f6129fb8bead444c69d3cfe420b72ba36c47ee667aa",
-   "v": 1,
-   "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)"
+   "v": 1
   },
   "CA": {
-   "file": "admin2-CA.geopack",
    "bytes": 5009192,
+   "file": "admin2-CA.geopack",
+   "license": "Open Government Canada 2.0",
    "sha256": "efc656fc6b2e29378c276a252a95703043d0eed9da73101caa20e3a340ed0b8b",
-   "v": 1,
-   "license": "Open Government Canada 2.0"
+   "v": 1
   },
   "DE": {
-   "file": "admin2-DE.geopack",
    "bytes": 415184,
+   "file": "admin2-DE.geopack",
+   "license": "Data license Germany - Attribution - Version 2.0",
    "sha256": "8569b8f045885a3232f598167f57203d42e49be1dd1d02f51de1217563b38f19",
-   "v": 1,
-   "license": "Data license Germany - Attribution - Version 2.0"
+   "v": 1
   },
   "ES": {
-   "file": "admin2-ES.geopack",
    "bytes": 376512,
+   "file": "admin2-ES.geopack",
+   "license": "National Institute of Statistics (INE) Data License",
    "sha256": "ddeb688cfe688e84509352a820c4e01a1d2c04f34031e063971de26e276c6e3e",
-   "v": 1,
-   "license": "National Institute of Statistics (INE) Data License"
+   "v": 1
   },
   "FR": {
-   "file": "admin2-FR.geopack",
    "bytes": 720848,
+   "file": "admin2-FR.geopack",
+   "license": "Etalab Open License 2.0",
    "sha256": "3f1849e323fce987e35c5446866487b29fb7941b490143136c849f77b7f7eeb2",
-   "v": 1,
-   "license": "Etalab Open License 2.0"
+   "v": 1
   },
   "GB": {
-   "file": "admin2-GB.geopack",
    "bytes": 321888,
+   "file": "admin2-GB.geopack",
+   "license": "Open Government Licence v3.0",
    "sha256": "85b40434ff2503401d78e0257e72bd31c4a376ce4453180622a0edd6eb9301ef",
-   "v": 1,
-   "license": "Open Government Licence v3.0"
+   "v": 1
   },
   "IT": {
-   "file": "admin2-IT.geopack",
    "bytes": 460432,
+   "file": "admin2-IT.geopack",
+   "license": "Creative Commons Attribution 3.0 License",
    "sha256": "f7e02cab93c88ca4ebba1c9056e7582b4250fb74a5fc44af3b96691623716ebe",
-   "v": 1,
-   "license": "Creative Commons Attribution 3.0 License"
+   "v": 1
   },
   "JP": {
-   "file": "admin2-JP.geopack",
    "bytes": 1728272,
+   "file": "admin2-JP.geopack",
+   "license": "Creative Commons Attribution-ShareAlike 2.0",
    "sha256": "f5583d46735ae3ac076c3dccbfcff5320467ab41309177519c4cffdb46982f5f",
-   "v": 1,
-   "license": "Creative Commons Attribution-ShareAlike 2.0"
+   "v": 1
   },
   "MX": {
-   "file": "admin2-MX.geopack",
    "bytes": 2944312,
+   "file": "admin2-MX.geopack",
+   "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
    "sha256": "1d80c1d31ac7ff6ed272a9f0f28e357dab90e6c8e6cc5e25721638c3fabe23b5",
-   "v": 1,
-   "license": "Creative Commons Attribution 4.0 (CC BY 4.0)"
+   "v": 1
   }
- }
+ },
+ "flags": {
+  "AD": {
+   "bytes": 29195,
+   "count": 3,
+   "file": "flags/AD.flagpack",
+   "sha256": "ab016b773f8a368cd58337ca9ea34a6f9d6817030d059c5af7abcc9885c64444",
+   "v": 1
+  },
+  "AE": {
+   "bytes": 6180,
+   "count": 7,
+   "file": "flags/AE.flagpack",
+   "sha256": "5c82f6eedfc7d13281fec9c3dccf76416e87a75e06675756e117dc244b84b815",
+   "v": 1
+  },
+  "AL": {
+   "bytes": 171863,
+   "count": 10,
+   "file": "flags/AL.flagpack",
+   "sha256": "1aebf76bbb7e898f963c2b17a0fce22730f93505e6cb217750336447eb21f320",
+   "v": 1
+  },
+  "AM": {
+   "bytes": 5723,
+   "count": 1,
+   "file": "flags/AM.flagpack",
+   "sha256": "26a5de3bb090e80271d05d106440639d02cd0b1862ea8f4bf92ec4be4025c847",
+   "v": 1
+  },
+  "AR": {
+   "bytes": 278037,
+   "count": 23,
+   "file": "flags/AR.flagpack",
+   "sha256": "3740e1f027de4ffb89f39230df29d6b05e85fd98d505c52d15a25289c77e56bb",
+   "v": 1
+  },
+  "AT": {
+   "bytes": 22063,
+   "count": 9,
+   "file": "flags/AT.flagpack",
+   "sha256": "2a0b822bd3d9217fc42284e2039880a21b1bd61dec79c5147e45446768f91dcb",
+   "v": 1
+  },
+  "AU": {
+   "bytes": 44854,
+   "count": 8,
+   "file": "flags/AU.flagpack",
+   "sha256": "d1fb564452921ac10688e34a84c41c21314930c288dd62550d8fd044c6971916",
+   "v": 1
+  },
+  "BE": {
+   "bytes": 34867,
+   "count": 3,
+   "file": "flags/BE.flagpack",
+   "sha256": "fb6b08a9531b0b9fa20535b6a7c60f06d1184e142af1e8acc944fb2e65ab5f37",
+   "v": 1
+  },
+  "BH": {
+   "bytes": 118867,
+   "count": 4,
+   "file": "flags/BH.flagpack",
+   "sha256": "08085beb28e496611c1b0be9c5dbaee58650169c031b16c4d55972efba8fb310",
+   "v": 2
+  },
+  "BO": {
+   "bytes": 18689,
+   "count": 9,
+   "file": "flags/BO.flagpack",
+   "sha256": "a12690b265edae7a23b9daf0599892d054058a38909e0d0b0c0a1c901798b1b9",
+   "v": 1
+  },
+  "BR": {
+   "bytes": 167918,
+   "count": 27,
+   "file": "flags/BR.flagpack",
+   "sha256": "443c379d261b9ca229f0f32ec7379320613018948ec616a9f789030a39660ede",
+   "v": 1
+  },
+  "BS": {
+   "bytes": 4114,
+   "count": 1,
+   "file": "flags/BS.flagpack",
+   "sha256": "bb29fa4e346b27c3b18750e472c9a6042c430d7eb720f50c4c92676795b2c9e8",
+   "v": 1
+  },
+  "BY": {
+   "bytes": 103860,
+   "count": 7,
+   "file": "flags/BY.flagpack",
+   "sha256": "92fcac16e73651503123f121b708ff8cf13d886cfd7b0246e9c47399eee9c003",
+   "v": 1
+  },
+  "CA": {
+   "bytes": 150926,
+   "count": 12,
+   "file": "flags/CA.flagpack",
+   "sha256": "1e786147e726dc6f6f8810136036b12b82c706cd12f8edd7e43a4965a29f180e",
+   "v": 1
+  },
+  "CD": {
+   "bytes": 19649,
+   "count": 1,
+   "file": "flags/CD.flagpack",
+   "sha256": "f3236a0ce4eeec182aafde0c2e9c2175ff64a14eaea7d751fcd42e69d84f7fd4",
+   "v": 1
+  },
+  "CH": {
+   "bytes": 276510,
+   "count": 26,
+   "file": "flags/CH.flagpack",
+   "sha256": "eeba17a71c78350c82d3832e5e0855138afdb78ef558223a59efee76a12ce084",
+   "v": 1
+  },
+  "CO": {
+   "bytes": 88023,
+   "count": 33,
+   "file": "flags/CO.flagpack",
+   "sha256": "2a97d0d09101fa83bc309a0d81ef125ec4e5001b075fe240f7926ca3ed8e6d57",
+   "v": 1
+  },
+  "CR": {
+   "bytes": 38185,
+   "count": 7,
+   "file": "flags/CR.flagpack",
+   "sha256": "71b835fc91055dc856f1718734e41a366fa692437e1d81ac53defc132d044eea",
+   "v": 1
+  },
+  "CV": {
+   "bytes": 124078,
+   "count": 13,
+   "file": "flags/CV.flagpack",
+   "sha256": "7f7909466957dfe7fcfda2904b93d12ebb113e91e906a7e728c6d1957f13822d",
+   "v": 2
+  },
+  "CZ": {
+   "bytes": 319326,
+   "count": 14,
+   "file": "flags/CZ.flagpack",
+   "sha256": "9077288ff9c1a83714d4e27a2fb001b365f8de59bd1a1aec14498797d402aea7",
+   "v": 1
+  },
+  "DE": {
+   "bytes": 63982,
+   "count": 16,
+   "file": "flags/DE.flagpack",
+   "sha256": "ef69cd19757c04ddd511f9500bee422bbdb2c0075c4a4903ae87feb2522497cd",
+   "v": 1
+  },
+  "DK": {
+   "bytes": 33968,
+   "count": 5,
+   "file": "flags/DK.flagpack",
+   "sha256": "b09996abe93cac6e80572c1148785eb677278ac5552313a6f464e2cbecc98f5c",
+   "v": 1
+  },
+  "DO": {
+   "bytes": 402,
+   "count": 1,
+   "file": "flags/DO.flagpack",
+   "sha256": "e19702dbc037dd2b3778853c5ccce0724d8fc20518935b417d5913b15e244953",
+   "v": 1
+  },
+  "EC": {
+   "bytes": 21106,
+   "count": 19,
+   "file": "flags/EC.flagpack",
+   "sha256": "90e97594440210f17a6fca01c2c38d2eb9aebcfddd6620d1e1361ff8f5f6104e",
+   "v": 1
+  },
+  "EE": {
+   "bytes": 18827,
+   "count": 4,
+   "file": "flags/EE.flagpack",
+   "sha256": "215b9463f49d80961371ce7d952e24466ac76fdcd2ff13b2e2f6805f510d646e",
+   "v": 1
+  },
+  "EG": {
+   "bytes": 335668,
+   "count": 25,
+   "file": "flags/EG.flagpack",
+   "sha256": "fb1c03fc839eb687d90457b4bb83da6ab51ca9a4109f2c38cbee0c7fbf074aa9",
+   "v": 2
+  },
+  "ES": {
+   "bytes": 148378,
+   "count": 19,
+   "file": "flags/ES.flagpack",
+   "sha256": "01462892b206ddccbf12d4a29ed2a561de5b610abae540a36218f27e6373b253",
+   "v": 2
+  },
+  "ET": {
+   "bytes": 50049,
+   "count": 10,
+   "file": "flags/ET.flagpack",
+   "sha256": "302d751d0e956c4b1e196f35cdb323567698c3cb4768eedf3b49eca09bc57d23",
+   "v": 1
+  },
+  "FI": {
+   "bytes": 165740,
+   "count": 15,
+   "file": "flags/FI.flagpack",
+   "sha256": "9a0ad4c37f08c08b068935987e624f2393dde7d34527852ecf753c508953e782",
+   "v": 1
+  },
+  "FM": {
+   "bytes": 28441,
+   "count": 4,
+   "file": "flags/FM.flagpack",
+   "sha256": "b169cdea87c85dc90d83a7f7dfba6f627b5210bb555f081ff7e0874d400e185d",
+   "v": 1
+  },
+  "FR": {
+   "bytes": 148917,
+   "count": 12,
+   "file": "flags/FR.flagpack",
+   "sha256": "3932d2233ab99d18f68d3f0b6e3e839921cf20632c56365f72593f571fb751fc",
+   "v": 2
+  },
+  "GA": {
+   "bytes": 16673,
+   "count": 1,
+   "file": "flags/GA.flagpack",
+   "sha256": "613d40e7367cdcd91e09d9ef99a221841302b1eaf2caea9ac408d738f30ea8de",
+   "v": 1
+  },
+  "GB": {
+   "bytes": 24076,
+   "count": 3,
+   "file": "flags/GB.flagpack",
+   "sha256": "56e0939b4e781eeca8f7ba41084f7df8419c41596498f637c74ca154ec5f8b40",
+   "v": 1
+  },
+  "GE": {
+   "bytes": 14355,
+   "count": 3,
+   "file": "flags/GE.flagpack",
+   "sha256": "82b87b0afcbe7cdcfb3ae8288b74bfa5dc3704de6290b6b2f7b1023ca67ae748",
+   "v": 1
+  },
+  "GH": {
+   "bytes": 4650,
+   "count": 4,
+   "file": "flags/GH.flagpack",
+   "sha256": "997108d3ae44cc0670070073e8d3af821ec1241f746bbfe4b877750eb500f7f7",
+   "v": 2
+  },
+  "GL": {
+   "bytes": 12499,
+   "count": 2,
+   "file": "flags/GL.flagpack",
+   "sha256": "1f99c37e0323601cc7051c86ae46f0139e8add0dd534e8e6725e96369f1c54e1",
+   "v": 1
+  },
+  "GM": {
+   "bytes": 11717,
+   "count": 1,
+   "file": "flags/GM.flagpack",
+   "sha256": "391ee12622e277a7f420a3e56824825f531477cb57f30118b6d628a8c7dde256",
+   "v": 1
+  },
+  "GW": {
+   "bytes": 24081,
+   "count": 1,
+   "file": "flags/GW.flagpack",
+   "sha256": "27cc095fb37713c1d2e52357e6705b66b581d2e01903d24c48642e10c037094e",
+   "v": 1
+  },
+  "HN": {
+   "bytes": 41576,
+   "count": 7,
+   "file": "flags/HN.flagpack",
+   "sha256": "c4ee764bc1e0a71ca6dc4b7773ba6a272e378720c8212f3b829b187582cbdc85",
+   "v": 2
+  },
+  "HR": {
+   "bytes": 110187,
+   "count": 21,
+   "file": "flags/HR.flagpack",
+   "sha256": "204f0e02c466ff40aebd48b52bcc90a5494d1e07bc21b15d9ef5735841638ae6",
+   "v": 1
+  },
+  "HU": {
+   "bytes": 337548,
+   "count": 19,
+   "file": "flags/HU.flagpack",
+   "sha256": "a6febb0208bb7ae16d038495f9245232b6cd73016c9d2eca8b5352b958413f94",
+   "v": 1
+  },
+  "ID": {
+   "bytes": 427369,
+   "count": 34,
+   "file": "flags/ID.flagpack",
+   "sha256": "4c948bc3efff8f258ba1c3307240b8a692190ab242526b0b9c47271fab6c1a8e",
+   "v": 1
+  },
+  "IE": {
+   "bytes": 54219,
+   "count": 4,
+   "file": "flags/IE.flagpack",
+   "sha256": "5e743f9c4eb01ee12a0646e9c1783e48bcde0871b0dc3c0de9c4c52b117951bf",
+   "v": 1
+  },
+  "IN": {
+   "bytes": 36740,
+   "count": 2,
+   "file": "flags/IN.flagpack",
+   "sha256": "bb7e6aee2373eb332981175414c090266ed94c11a9bbb94235dbf798dbbc7818",
+   "v": 1
+  },
+  "IT": {
+   "bytes": 184237,
+   "count": 20,
+   "file": "flags/IT.flagpack",
+   "sha256": "656500e7a6ec8a96ee17ad4512b301ba1f207d6d7740a4788f80ff69279cf556",
+   "v": 1
+  },
+  "JP": {
+   "bytes": 160099,
+   "count": 46,
+   "file": "flags/JP.flagpack",
+   "sha256": "4a4c8b36f86bbbb5d9ec37c68c785db3c2c0cf5b8e000f690e69ce1f087451c9",
+   "v": 2
+  },
+  "KE": {
+   "bytes": 452696,
+   "count": 20,
+   "file": "flags/KE.flagpack",
+   "sha256": "919f9b4df8d23973b257666f2300f71d966f9c5ee4a9a2dd906086ce0c9881e5",
+   "v": 2
+  },
+  "KG": {
+   "bytes": 80898,
+   "count": 7,
+   "file": "flags/KG.flagpack",
+   "sha256": "a57e6c7a724dec1fdcc2d0a36df1a6f9e9d92ad474348c2a1fb4012b4c708d2e",
+   "v": 1
+  },
+  "KM": {
+   "bytes": 7380,
+   "count": 3,
+   "file": "flags/KM.flagpack",
+   "sha256": "983fba98dac2e00cfb630e1b3c046bf79ee49596c6491225a1b84baae39d99d1",
+   "v": 1
+  },
+  "KR": {
+   "bytes": 111659,
+   "count": 15,
+   "file": "flags/KR.flagpack",
+   "sha256": "b2f61ff97ebc9d4007a4005fe403719d4ac6508a500e0aff996d8975d20a6a40",
+   "v": 1
+  },
+  "LB": {
+   "bytes": 13952,
+   "count": 1,
+   "file": "flags/LB.flagpack",
+   "sha256": "7d99f62187ba4e786662b358d2fb092e055f40bdea1af35d6564e68a6cc29c2a",
+   "v": 1
+  },
+  "LC": {
+   "bytes": 3481,
+   "count": 1,
+   "file": "flags/LC.flagpack",
+   "sha256": "25f082781032885bfa74ecb930acbada4e442b88025b49deca8709b08f42c343",
+   "v": 1
+  },
+  "LI": {
+   "bytes": 15233,
+   "count": 11,
+   "file": "flags/LI.flagpack",
+   "sha256": "d20366337d3003eb9b45f38f41cf66e6966a46834c0cd631ea23dc7c4bb3376a",
+   "v": 1
+  },
+  "LK": {
+   "bytes": 290525,
+   "count": 9,
+   "file": "flags/LK.flagpack",
+   "sha256": "b7abc7b5e5712bb8533bce9b3c6685fa0cd44be3cb52b100d620fde4d547a8b8",
+   "v": 1
+  },
+  "LR": {
+   "bytes": 73133,
+   "count": 15,
+   "file": "flags/LR.flagpack",
+   "sha256": "616e36a1735ec9b11de134de610b440825d4b097fbc6bfe6d364fcfdef9d5aff",
+   "v": 1
+  },
+  "LT": {
+   "bytes": 186748,
+   "count": 10,
+   "file": "flags/LT.flagpack",
+   "sha256": "4a66943110cacdc751999081a38872d6df59d83033b8edbb055191416c1d049a",
+   "v": 1
+  },
+  "LV": {
+   "bytes": 300486,
+   "count": 38,
+   "file": "flags/LV.flagpack",
+   "sha256": "f64480b622cec65d1efb2e066c271bb63cd7ea4190f61b25dc9d2923888d510c",
+   "v": 2
+  },
+  "MA": {
+   "bytes": 4400,
+   "count": 1,
+   "file": "flags/MA.flagpack",
+   "sha256": "f97823b8f02e89ec863fe88263ceaca645e13b6c17d107ed801d4a17a17b08e3",
+   "v": 1
+  },
+  "MD": {
+   "bytes": 181186,
+   "count": 28,
+   "file": "flags/MD.flagpack",
+   "sha256": "4b6a04c18cee5ac26a6a9097c2ba13cf504caaa4c2b37b24ddf08ef6665b68b5",
+   "v": 2
+  },
+  "ME": {
+   "bytes": 136444,
+   "count": 18,
+   "file": "flags/ME.flagpack",
+   "sha256": "e191c3148e47bb2cc6b6321ce27bc8f499346d3f5fabe752048f6f3c3fab2b55",
+   "v": 2
+  },
+  "MH": {
+   "bytes": 5530,
+   "count": 1,
+   "file": "flags/MH.flagpack",
+   "sha256": "d0284870a35a973827a040e4512da70657e3ee7c042a48b55eef311a098dae56",
+   "v": 1
+  },
+  "MM": {
+   "bytes": 168230,
+   "count": 14,
+   "file": "flags/MM.flagpack",
+   "sha256": "ab0b85e70a02fc95ce64298876ffe7f101b8d60b1503e651c90aeb88a8689777",
+   "v": 1
+  },
+  "MN": {
+   "bytes": 147257,
+   "count": 22,
+   "file": "flags/MN.flagpack",
+   "sha256": "4f816f35bce3f4aab5d43099707ac0f8b9593df4ee6171db7e8539d34eaa27e3",
+   "v": 1
+  },
+  "MT": {
+   "bytes": 435769,
+   "count": 67,
+   "file": "flags/MT.flagpack",
+   "sha256": "88c1ed3d1ded3aecf35970378e062b61ed5749e9338011287e64fa09d23904db",
+   "v": 1
+  },
+  "MU": {
+   "bytes": 28177,
+   "count": 1,
+   "file": "flags/MU.flagpack",
+   "sha256": "91968ecdac09488c79d0a8f0c6abb84c5f1f2eebac78b58ebf667f581148ef46",
+   "v": 1
+  },
+  "MX": {
+   "bytes": 164178,
+   "count": 14,
+   "file": "flags/MX.flagpack",
+   "sha256": "17c5010867417ffcd0fe08c67e7f780d507c109ed9c5ea42d63d47b606c4b288",
+   "v": 1
+  },
+  "MY": {
+   "bytes": 43255,
+   "count": 16,
+   "file": "flags/MY.flagpack",
+   "sha256": "cd9b028f30f0fed75f32383ad9a301d7f4c2fe18e63eac6f2e32174e21c14067",
+   "v": 1
+  },
+  "MZ": {
+   "bytes": 67783,
+   "count": 3,
+   "file": "flags/MZ.flagpack",
+   "sha256": "e2214ee9c8219e8a38f3e122e28353f5aff98ceb4718fc0502889ea35760a710",
+   "v": 1
+  },
+  "NG": {
+   "bytes": 165669,
+   "count": 14,
+   "file": "flags/NG.flagpack",
+   "sha256": "7c3fe526e9fc19fc4a9ca7372e573c33abc21e1ee69f010f13d67e71fd1e1cec",
+   "v": 2
+  },
+  "NI": {
+   "bytes": 87504,
+   "count": 15,
+   "file": "flags/NI.flagpack",
+   "sha256": "b701c1223600774207b0d4d89677f8d65ce03ef2a5339ead98af2607cb4ffe7b",
+   "v": 1
+  },
+  "NL": {
+   "bytes": 64009,
+   "count": 12,
+   "file": "flags/NL.flagpack",
+   "sha256": "5c5892d34378539945a9dc520865505f6a28af2832547000413df2c247dd8eb5",
+   "v": 1
+  },
+  "NO": {
+   "bytes": 75391,
+   "count": 8,
+   "file": "flags/NO.flagpack",
+   "sha256": "efb94cdc1840873eb18f5ae425efac2ba395f98fd86ea2e719822a5bf5f1d387",
+   "v": 1
+  },
+  "NZ": {
+   "bytes": 23244,
+   "count": 3,
+   "file": "flags/NZ.flagpack",
+   "sha256": "8f7c0d7816b4fd488ee055b3a5c1d46ec807a60268f8c751cf0501c0e7eda6bf",
+   "v": 1
+  },
+  "PA": {
+   "bytes": 70478,
+   "count": 12,
+   "file": "flags/PA.flagpack",
+   "sha256": "d1f27b9d3d58d3cd3bca96e73db2fe69d67925c631beb8efa1fb8a29145cd155",
+   "v": 1
+  },
+  "PE": {
+   "bytes": 201194,
+   "count": 25,
+   "file": "flags/PE.flagpack",
+   "sha256": "5df6e50be3c09f8287bc2064aed0c9696d05ac8928ddafb015a93e2ea91fd69f",
+   "v": 1
+  },
+  "PG": {
+   "bytes": 291924,
+   "count": 20,
+   "file": "flags/PG.flagpack",
+   "sha256": "d5709ac08dbdc67ff628bfa76314ef76c24203437e439d59e724bfef77b16f7d",
+   "v": 1
+  },
+  "PK": {
+   "bytes": 72783,
+   "count": 5,
+   "file": "flags/PK.flagpack",
+   "sha256": "5a2ef9e4763e94ae64e86124d7d464598b4bea9b91d9c47845c558541c743ed2",
+   "v": 1
+  },
+  "PT": {
+   "bytes": 9272,
+   "count": 2,
+   "file": "flags/PT.flagpack",
+   "sha256": "ac16e76aef5852f882e4669c29887a59341c144b40c3a080c0b7f636db068086",
+   "v": 1
+  },
+  "PW": {
+   "bytes": 192538,
+   "count": 15,
+   "file": "flags/PW.flagpack",
+   "sha256": "fe353eb2c00e7ed6cdc5f51614bd8c1191ec24ada8b86c07a113e1c8887512cd",
+   "v": 1
+  },
+  "PY": {
+   "bytes": 49708,
+   "count": 18,
+   "file": "flags/PY.flagpack",
+   "sha256": "b471c417b0e98c755aa468a6dc83df2717c8dbe3585cad9304b41c1553f12d5c",
+   "v": 2
+  },
+  "RO": {
+   "bytes": 111519,
+   "count": 9,
+   "file": "flags/RO.flagpack",
+   "sha256": "ac3b77e9e362c2ded8bfe0c39f0728337494901b0b6635de456a6454942c8e8a",
+   "v": 2
+  },
+  "RS": {
+   "bytes": 25383,
+   "count": 1,
+   "file": "flags/RS.flagpack",
+   "sha256": "33f8408ac93f09e7d4723f93bad9025688774e4041fe4c8714a1b45678fb1eaa",
+   "v": 1
+  },
+  "RU": {
+   "bytes": 672723,
+   "count": 83,
+   "file": "flags/RU.flagpack",
+   "sha256": "86e0874fccaa6d1601dc64b13625ec4f853ee0914cf41a20370fef59d1dbbb6f",
+   "v": 1
+  },
+  "SB": {
+   "bytes": 119164,
+   "count": 10,
+   "file": "flags/SB.flagpack",
+   "sha256": "09a74cab8d958cd0a47e271b9e4bebe7352501173eaf64ab5b04e280c24befc2",
+   "v": 1
+  },
+  "SD": {
+   "bytes": 177606,
+   "count": 9,
+   "file": "flags/SD.flagpack",
+   "sha256": "fbb8cb7b2ad57d10c5d666843b68e80cb1c7825d9e230dde9419aa9ea7c6ff91",
+   "v": 1
+  },
+  "SE": {
+   "bytes": 436723,
+   "count": 20,
+   "file": "flags/SE.flagpack",
+   "sha256": "e094f893987bf19d98ba7de73db02512d1af3c3cdfdd6ba956f7b00a471597ef",
+   "v": 1
+  },
+  "SK": {
+   "bytes": 3838,
+   "count": 8,
+   "file": "flags/SK.flagpack",
+   "sha256": "6c776cf29b905784a46e5565009beb023e8e25e383b12b27a16ea8a7329867aa",
+   "v": 1
+  },
+  "SM": {
+   "bytes": 118731,
+   "count": 9,
+   "file": "flags/SM.flagpack",
+   "sha256": "ae2b60918aaf1f3fc06db11fb3f23fae592e00997b4802ab0b9c65d5d5f6f3bb",
+   "v": 1
+  },
+  "SR": {
+   "bytes": 16170,
+   "count": 1,
+   "file": "flags/SR.flagpack",
+   "sha256": "a23c8c0da874dcfd69946fb35e32589cb7c6bfdf935a866175e05b57288dda18",
+   "v": 1
+  },
+  "SS": {
+   "bytes": 187169,
+   "count": 10,
+   "file": "flags/SS.flagpack",
+   "sha256": "115b4b32e30dae9fd7e034dbf6709d81c32343f35325768342db102909383c51",
+   "v": 1
+  },
+  "ST": {
+   "bytes": 5807,
+   "count": 1,
+   "file": "flags/ST.flagpack",
+   "sha256": "fc8b8f071407c4a71705e9f123b154c59d4ce3a0c9955f296e98739edb6c4f78",
+   "v": 1
+  },
+  "TH": {
+   "bytes": 1193291,
+   "count": 66,
+   "file": "flags/TH.flagpack",
+   "sha256": "4a28d7001f7c94416ede6c78046e6fa0eeb45be9c3afc9d0742da9c8322c73c4",
+   "v": 1
+  },
+  "TL": {
+   "bytes": 11641,
+   "count": 1,
+   "file": "flags/TL.flagpack",
+   "sha256": "d7f7b14747f504df6b87dacefb674c77d46888fe7b00c22872bcbf7199ea9b45",
+   "v": 1
+  },
+  "TN": {
+   "bytes": 15076,
+   "count": 1,
+   "file": "flags/TN.flagpack",
+   "sha256": "8a6bf0a0fa31a868f976633eaac8a938b818741695c894b3670af0c73e2affc4",
+   "v": 1
+  },
+  "TW": {
+   "bytes": 293940,
+   "count": 20,
+   "file": "flags/TW.flagpack",
+   "sha256": "21de1a28828f750466508c304c8a414ce1abcfe4055397e30023194dd823e86d",
+   "v": 1
+  },
+  "UA": {
+   "bytes": 291421,
+   "count": 27,
+   "file": "flags/UA.flagpack",
+   "sha256": "f4d5d9c89460e4892cec23ee64f3da73794ece43db27e5fa17cb4af2f8eec855",
+   "v": 1
+  },
+  "UY": {
+   "bytes": 146884,
+   "count": 17,
+   "file": "flags/UY.flagpack",
+   "sha256": "51a19f37d567a454bda9a3c8d1ad42ed1816441852a32e3e4e26afb1ee231e8a",
+   "v": 1
+  },
+  "UZ": {
+   "bytes": 14472,
+   "count": 2,
+   "file": "flags/UZ.flagpack",
+   "sha256": "bf86bd39f9b2c49dbc1cc7bb23b67ae29d9fa68b2972de65de8f81d4c77f6e30",
+   "v": 1
+  },
+  "VE": {
+   "bytes": 186761,
+   "count": 24,
+   "file": "flags/VE.flagpack",
+   "sha256": "e6b35ad6cad5a5248569e4b583b18b4aa38831c4a187c5d40aac1a17b3a92cdb",
+   "v": 1
+  },
+  "VU": {
+   "bytes": 59811,
+   "count": 6,
+   "file": "flags/VU.flagpack",
+   "sha256": "b35f3a1a2108011ed4a3c9248503e53aae2c803db8ffd7ba4c7030f6806c63ca",
+   "v": 1
+  },
+  "ZA": {
+   "bytes": 85679,
+   "count": 6,
+   "file": "flags/ZA.flagpack",
+   "sha256": "ba0bfca8b0ef3fd43aad72cd151176ab1acdb2be54fb66958e0c58122730b530",
+   "v": 1
+  }
+ },
+ "source": "geoBoundaries (www.geoboundaries.org)",
+ "version": 1
 }
