@@ -342,10 +342,16 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Chuuk | FM-TRK | CC BY-SA 3.0 | Froztbyte, & others | [Flag of Chuuk.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Chuuk.svg) |
 | Yap | FM-YAP | Public domain | – | [Flag of Yap.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yap.svg) |
 | Corse | FR-20R | CC0 | Patricia.fidi | [Flag of Corsica.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Corsica.svg) |
+| Guadeloupe | FR-971 | Public domain | Original: Unknown Vector:  SKopp | [Flag of France.svg](https://commons.wikimedia.org/wiki/File:Flag_of_France.svg) |
+| Martinique | FR-972 | Public domain | User:MapGrid/User:HapHaxion/User:Femfem5/User:Triton, based on work by User:Carport | [Flag-of-Martinique.svg](https://commons.wikimedia.org/wiki/File:Flag-of-Martinique.svg) |
+| Guyane | FR-973 | Public domain | Original: Unknown Vector:  SKopp | [Flag of France.svg](https://commons.wikimedia.org/wiki/File:Flag_of_France.svg) |
+| La Réunion | FR-974 | Public domain | Original: Unknown Vector:  SKopp | [Flag of France.svg](https://commons.wikimedia.org/wiki/File:Flag_of_France.svg) |
+| Mayotte | FR-976 | CC0 | Germenfer | [Flag of Mayotte (Local).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Mayotte_(Local).svg) |
 | Auvergne-Rhône-Alpes | FR-ARA | Public domain | Ngagnebin | [Flag of the region Auvergne-Rhône-Alpes.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_region_Auvergne-Rh%C3%B4ne-Alpes.svg) |
 | Bourgogne-Franche-Comté | FR-BFC | CC BY-SA 4.0 | Geraldiker | [Flag of the region Bourgogne-Franche-Comté.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_region_Bourgogne-Franche-Comt%C3%A9.svg) |
 | Bretagne | FR-BRE | CC BY-SA 4.0 | Lexicon and GwenofGwened | [Flag of Brittany.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Brittany.svg) |
 | Centre-Val de Loire | FR-CVL | Public domain | User:Andrwsc | [Flag of Centre-Val de Loire.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Centre-Val_de_Loire.svg) |
+| Grand Est | FR-GES | CC BY 4.0 | Burjkh | [Flag of Grand Est (2022-present).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Grand_Est_(2022-present).svg) |
 | Hauts-de-France | FR-HDF | CC0 | Germenfer | [Flag of the Region of Hauts-de-France.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Region_of_Hauts-de-France.svg) |
 | Île-de-France | FR-IDF | Public domain | Region Île-de-France | [IDF flag.svg](https://commons.wikimedia.org/wiki/File:IDF_flag.svg) |
 | Nouvelle-Aquitaine | FR-NAQ | Public domain | Chabe01 | [Flag of Nouvelle-Aquitaine.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nouvelle-Aquitaine.svg) |
@@ -675,8 +681,14 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Leova | MD-LE | CC BY-SA 4.0 | Consiliul Raional Leova | [Drapel Raionul Leova.png](https://commons.wikimedia.org/wiki/File:Drapel_Raionul_Leova.png) |
 | Nisporeni | MD-NI | Public domain | Unknown authorUnknown author | [Nisporeni rajon flag.gif](https://commons.wikimedia.org/wiki/File:Nisporeni_rajon_flag.gif) |
 | Ocnita | MD-OC | Public domain | Unknown authorUnknown author | [Ocnitar.gif](https://commons.wikimedia.org/wiki/File:Ocnitar.gif) |
+| Orhei | MD-OR | Public domain | Unknown authorUnknown author | [Orhei2.gif](https://commons.wikimedia.org/wiki/File:Orhei2.gif) |
 | Rezina | MD-RE | Public domain | Blackcoffee Wik | [Flag of District Rezina.svg](https://commons.wikimedia.org/wiki/File:Flag_of_District_Rezina.svg) |
+| RIscani | MD-RI | Public domain | Unknown authorUnknown author | [Riscani rajon flag.gif](https://commons.wikimedia.org/wiki/File:Riscani_rajon_flag.gif) |
+| Soldanesti | MD-SD | Public domain | Unknown authorUnknown author | [Soldanesti rajon flag.gif](https://commons.wikimedia.org/wiki/File:Soldanesti_rajon_flag.gif) |
+| SIngerei | MD-SI | Public domain | Unknown authorUnknown author | [Singerei rajon flag.gif](https://commons.wikimedia.org/wiki/File:Singerei_rajon_flag.gif) |
 | Soroca | MD-SO | Public domain | Blackcoffee Wik | [Flag of District Soroca.svg](https://commons.wikimedia.org/wiki/File:Flag_of_District_Soroca.svg) |
+| Straseni | MD-ST | Public domain | Unknown authorUnknown author | [Straseni rajon flag.gif](https://commons.wikimedia.org/wiki/File:Straseni_rajon_flag.gif) |
+| Stefan Voda | MD-SV | Public domain | Unknown authorUnknown author | [Stefan voda rajon flag.gif](https://commons.wikimedia.org/wiki/File:Stefan_voda_rajon_flag.gif) |
 | Taraclia | MD-TA | CC BY-SA 4.0 | Consiliul Raional Taraclia | [Drapel Raionul Taraclia.png](https://commons.wikimedia.org/wiki/File:Drapel_Raionul_Taraclia.png) |
 | Telenesti | MD-TE | Public domain | Authorities of Moldova | [Flag of Telenești District.gif](https://commons.wikimedia.org/wiki/File:Flag_of_Telene%C8%99ti_District.gif) |
 | Ungheni | MD-UN | Public domain | Blackcoffee Wik | [Flag of District Ungheni.svg](https://commons.wikimedia.org/wiki/File:Flag_of_District_Ungheni.svg) |

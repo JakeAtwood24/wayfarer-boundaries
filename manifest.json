@@ -358,11 +358,11 @@
    "v": 2
   },
   "FR": {
-   "bytes": 2496,
-   "count": 51,
+   "bytes": 2597,
+   "count": 53,
    "file": "cities/FR.json",
-   "sha256": "90fa080d10490a91577fed3d8b6a6e8bcac8980622dd633e8660105e13cef045",
-   "v": 2
+   "sha256": "93819ea2b7157de4a24114aa2d0185987f7513d680e67f0e05d9213bda4925c5",
+   "v": 4
   },
   "GA": {
    "bytes": 147,
@@ -903,13 +903,6 @@
    "sha256": "e180b1c3744a611439ffe1624a9d92db25c470b1c1f0f87801aa53dc9a6fc2ed",
    "v": 2
   },
-  "RE": {
-   "bytes": 102,
-   "count": 2,
-   "file": "cities/RE.json",
-   "sha256": "64cb8884a464545d42b2b6b27b231799c1d905db920800cbf8e1bca15501defa",
-   "v": 2
-  },
   "RO": {
    "bytes": 908,
    "count": 20,
@@ -1221,11 +1214,11 @@
    "v": 1
   },
   "FR": {
-   "bytes": 720848,
+   "bytes": 724560,
    "file": "admin2-FR.geopack",
    "license": "Etalab Open License 2.0",
-   "sha256": "3f1849e323fce987e35c5446866487b29fb7941b490143136c849f77b7f7eeb2",
-   "v": 1
+   "sha256": "366d5b3769a255ee9192b6e702040b0305cf74baeaee3ebdbd31a42c4f17ae4e",
+   "v": 2
   },
   "GB": {
    "bytes": 321888,
@@ -1468,11 +1461,11 @@
    "v": 1
   },
   "FR": {
-   "bytes": 148917,
-   "count": 12,
+   "bytes": 182049,
+   "count": 18,
    "file": "flags/FR.flagpack",
-   "sha256": "3932d2233ab99d18f68d3f0b6e3e839921cf20632c56365f72593f571fb751fc",
-   "v": 2
+   "sha256": "16a3513d0299b7d0f6a19d0854553bbc8d82efb76be7381a5d9ce6da71d8524d",
+   "v": 3
   },
   "GA": {
    "bytes": 16673,
@@ -1664,11 +1657,11 @@
    "v": 1
   },
   "MD": {
-   "bytes": 181186,
-   "count": 28,
+   "bytes": 220971,
+   "count": 34,
    "file": "flags/MD.flagpack",
-   "sha256": "4b6a04c18cee5ac26a6a9097c2ba13cf504caaa4c2b37b24ddf08ef6665b68b5",
-   "v": 2
+   "sha256": "7482941f9e62a206a37bb96e68c26f9ffd829c9671a349f510b701efc51c51ef",
+   "v": 3
   },
   "ME": {
    "bytes": 136444,

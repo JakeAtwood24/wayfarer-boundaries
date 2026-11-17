@@ -2358,6 +2358,41 @@
   "name": "Corse",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Corsica.svg"
  },
+ "FR-971": {
+  "author": "Original: Unknown Vector:  SKopp",
+  "file": "Flag of France.svg",
+  "license": "Public domain",
+  "name": "Guadeloupe",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg"
+ },
+ "FR-972": {
+  "author": "User:MapGrid/User:HapHaxion/User:Femfem5/User:Triton, based on work by User:Carport",
+  "file": "Flag-of-Martinique.svg",
+  "license": "Public domain",
+  "name": "Martinique",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag-of-Martinique.svg"
+ },
+ "FR-973": {
+  "author": "Original: Unknown Vector:  SKopp",
+  "file": "Flag of France.svg",
+  "license": "Public domain",
+  "name": "Guyane",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg"
+ },
+ "FR-974": {
+  "author": "Original: Unknown Vector:  SKopp",
+  "file": "Flag of France.svg",
+  "license": "Public domain",
+  "name": "La Réunion",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_France.svg"
+ },
+ "FR-976": {
+  "author": "Germenfer",
+  "file": "Flag of Mayotte (Local).svg",
+  "license": "CC0",
+  "name": "Mayotte",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Mayotte_(Local).svg"
+ },
  "FR-ARA": {
   "author": "Ngagnebin",
   "file": "Flag of the region Auvergne-Rhône-Alpes.svg",
@@ -2385,6 +2420,13 @@
   "license": "Public domain",
   "name": "Centre-Val de Loire",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Centre-Val_de_Loire.svg"
+ },
+ "FR-GES": {
+  "author": "Burjkh",
+  "file": "Flag of Grand Est (2022-present).svg",
+  "license": "CC BY 4.0",
+  "name": "Grand Est",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Grand_Est_(2022-present).svg"
  },
  "FR-HDF": {
   "author": "Germenfer",
@@ -4689,6 +4731,13 @@
   "name": "Ocnita",
   "source": "https://commons.wikimedia.org/wiki/File:Ocnitar.gif"
  },
+ "MD-OR": {
+  "author": "Unknown authorUnknown author",
+  "file": "Orhei2.gif",
+  "license": "Public domain",
+  "name": "Orhei",
+  "source": "https://commons.wikimedia.org/wiki/File:Orhei2.gif"
+ },
  "MD-RE": {
   "author": "Blackcoffee Wik",
   "file": "Flag of District Rezina.svg",
@@ -4696,12 +4745,47 @@
   "name": "Rezina",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_District_Rezina.svg"
  },
+ "MD-RI": {
+  "author": "Unknown authorUnknown author",
+  "file": "Riscani rajon flag.gif",
+  "license": "Public domain",
+  "name": "RIscani",
+  "source": "https://commons.wikimedia.org/wiki/File:Riscani_rajon_flag.gif"
+ },
+ "MD-SD": {
+  "author": "Unknown authorUnknown author",
+  "file": "Soldanesti rajon flag.gif",
+  "license": "Public domain",
+  "name": "Soldanesti",
+  "source": "https://commons.wikimedia.org/wiki/File:Soldanesti_rajon_flag.gif"
+ },
+ "MD-SI": {
+  "author": "Unknown authorUnknown author",
+  "file": "Singerei rajon flag.gif",
+  "license": "Public domain",
+  "name": "SIngerei",
+  "source": "https://commons.wikimedia.org/wiki/File:Singerei_rajon_flag.gif"
+ },
  "MD-SO": {
   "author": "Blackcoffee Wik",
   "file": "Flag of District Soroca.svg",
   "license": "Public domain",
   "name": "Soroca",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_District_Soroca.svg"
+ },
+ "MD-ST": {
+  "author": "Unknown authorUnknown author",
+  "file": "Straseni rajon flag.gif",
+  "license": "Public domain",
+  "name": "Straseni",
+  "source": "https://commons.wikimedia.org/wiki/File:Straseni_rajon_flag.gif"
+ },
+ "MD-SV": {
+  "author": "Unknown authorUnknown author",
+  "file": "Stefan voda rajon flag.gif",
+  "license": "Public domain",
+  "name": "Stefan Voda",
+  "source": "https://commons.wikimedia.org/wiki/File:Stefan_voda_rajon_flag.gif"
  },
  "MD-TA": {
   "author": "Consiliul Raional Taraclia",
