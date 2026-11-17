@@ -18,3 +18,7 @@ Each file is a simplified derivative of the geoBoundaries ADM2 release for its c
 The changes made were: geometry simplification (Douglas-Peucker), reprojection to MapKit map points, and region codes assigned to match ISO 3166-2.
 
 Attribution: geoBoundaries, www.geoboundaries.org.
+
+## Cities
+
+`cities/XX.json` are derived from GeoNames `cities15000` (www.geonames.org), licensed under Creative Commons Attribution 4.0 (CC BY 4.0). The changes made were: places were filtered to towns and cities, sorted by population, and tagged with region codes from the app's own outlines.

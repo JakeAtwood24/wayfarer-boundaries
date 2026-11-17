@@ -1,4 +1,1672 @@
 {
+ "cities": {
+  "AD": {
+   "bytes": 107,
+   "count": 2,
+   "file": "cities/AD.json",
+   "sha256": "5a157dc2647eeeb6692b4c2bf6de18454160f60a0b8258da0e83cf1b38eb8b92",
+   "v": 1
+  },
+  "AE": {
+   "bytes": 1464,
+   "count": 30,
+   "file": "cities/AE.json",
+   "sha256": "f33de627262d901435a9ea83b775d715801b97033556f3f31b2f19046e497b86",
+   "v": 1
+  },
+  "AF": {
+   "bytes": 2590,
+   "count": 55,
+   "file": "cities/AF.json",
+   "sha256": "bc54d65ce65d121c31e8681f1d115b46c96369f50c4cb976439e2b9edfa0642e",
+   "v": 1
+  },
+  "AG": {
+   "bytes": 58,
+   "count": 1,
+   "file": "cities/AG.json",
+   "sha256": "8fd101ebadeebb147d52f6232885d6c45e74ce9cee9ebcf702aa93129fa81449",
+   "v": 1
+  },
+  "AI": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/AI.json",
+   "sha256": "a723c347cae27785f65ef2a8d58b46231384bc92e36130d0595e37c62a0a41a5",
+   "v": 1
+  },
+  "AL": {
+   "bytes": 1075,
+   "count": 24,
+   "file": "cities/AL.json",
+   "sha256": "2c8c01efad1e2be378f8363e78613e31a062b8f2935d22f2ccb8e408a81085f0",
+   "v": 1
+  },
+  "AM": {
+   "bytes": 840,
+   "count": 19,
+   "file": "cities/AM.json",
+   "sha256": "74a5fe2ac43b426afc5e28836837656c302558004e495ee2422f42fa5615d489",
+   "v": 1
+  },
+  "AO": {
+   "bytes": 6105,
+   "count": 132,
+   "file": "cities/AO.json",
+   "sha256": "f15232fe142b5e5b77485e6cea965fb83e608bcdee3aa53ee015e689e9a5cef0",
+   "v": 1
+  },
+  "AR": {
+   "bytes": 15560,
+   "count": 316,
+   "file": "cities/AR.json",
+   "sha256": "a14a0bae5bd467827894008f29ce48f4492bb7eb09c1a253b318a46bfb38fca9",
+   "v": 1
+  },
+  "AT": {
+   "bytes": 1319,
+   "count": 29,
+   "file": "cities/AT.json",
+   "sha256": "dbb2a04aeadfb84111d28fe5aa41c76cf03e3e2e994180013d0ba49df9ca9739",
+   "v": 1
+  },
+  "AU": {
+   "bytes": 4346,
+   "count": 89,
+   "file": "cities/AU.json",
+   "sha256": "c1b452924da423c53b913ccf3464efe33eebb6c57aaf915021bb6d9cac197915",
+   "v": 1
+  },
+  "AW": {
+   "bytes": 184,
+   "count": 4,
+   "file": "cities/AW.json",
+   "sha256": "d3bfe0da5ca7f600cc5b441a0f8884f846b596c5c8ae4f43eb24d9ef441b70b0",
+   "v": 1
+  },
+  "AX": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/AX.json",
+   "sha256": "50c198b672673adb5678db6b9c9b767a0a1295e9574745db434914415d7783ad",
+   "v": 1
+  },
+  "AZ": {
+   "bytes": 3347,
+   "count": 65,
+   "file": "cities/AZ.json",
+   "sha256": "0870f4cfcf1c187917c5a102fc6bd87d0ed80e7ffaef474ac391e98aefa18d39",
+   "v": 1
+  },
+  "BA": {
+   "bytes": 1081,
+   "count": 23,
+   "file": "cities/BA.json",
+   "sha256": "f0efc47cc883a1e321e6b40f4af7fe3d3f2dd18c3221f8bb3df498002ea6938e",
+   "v": 1
+  },
+  "BB": {
+   "bytes": 55,
+   "count": 1,
+   "file": "cities/BB.json",
+   "sha256": "106d33c2fe637d37910cc3ceb8e4914f8296eefb2f9057ab6421f7a52f890c89",
+   "v": 1
+  },
+  "BD": {
+   "bytes": 6579,
+   "count": 145,
+   "file": "cities/BD.json",
+   "sha256": "69038e64c794cf557e9cffc2bea1a87859c1d3162ff0615430a018cbc6339ead",
+   "v": 1
+  },
+  "BE": {
+   "bytes": 10114,
+   "count": 223,
+   "file": "cities/BE.json",
+   "sha256": "e1a6b74f9a47fcb92c883bdb00e0cce79686cfebecd7120add3019a11b2113b4",
+   "v": 1
+  },
+  "BF": {
+   "bytes": 3251,
+   "count": 74,
+   "file": "cities/BF.json",
+   "sha256": "097cfa4584e0e4c40aab0103e7708498ea691f516f3b47b9a8198aadaaac69e6",
+   "v": 1
+  },
+  "BG": {
+   "bytes": 2463,
+   "count": 55,
+   "file": "cities/BG.json",
+   "sha256": "64e402cae0941146195bf902687fc29a28046cdc109f85d54f321f4bdd7e067f",
+   "v": 1
+  },
+  "BH": {
+   "bytes": 394,
+   "count": 8,
+   "file": "cities/BH.json",
+   "sha256": "b31835bf21e26711db2bb474f47a3105e5f01f9f148ccc1d5705fc4e2a2e814e",
+   "v": 1
+  },
+  "BI": {
+   "bytes": 619,
+   "count": 14,
+   "file": "cities/BI.json",
+   "sha256": "0e65d3ad0d07625b58d724326d3755157803c4a432c780ef865ed86a0b2ec64b",
+   "v": 1
+  },
+  "BJ": {
+   "bytes": 2842,
+   "count": 66,
+   "file": "cities/BJ.json",
+   "sha256": "e9e6ec6b7e2444fc3d82c8c373d8efb380c7accdbcec99ef09c043fc438563ba",
+   "v": 1
+  },
+  "BL": {
+   "bytes": 50,
+   "count": 1,
+   "file": "cities/BL.json",
+   "sha256": "3209a28749907321523789266e98e1354b3948bf51b0279666f88b23d2cf3f99",
+   "v": 1
+  },
+  "BM": {
+   "bytes": 48,
+   "count": 1,
+   "file": "cities/BM.json",
+   "sha256": "166653761e7427e48df93c45fd2b110d07d6146312b81f76d037b407c501299c",
+   "v": 1
+  },
+  "BN": {
+   "bytes": 330,
+   "count": 7,
+   "file": "cities/BN.json",
+   "sha256": "81c5ee6f78bf89767d733bd08fcc2f18064ba8884d2fad8ee64e8aa426e0f31d",
+   "v": 1
+  },
+  "BO": {
+   "bytes": 1821,
+   "count": 39,
+   "file": "cities/BO.json",
+   "sha256": "2a580df8c549e31363d5f3d403c8c7ff27adb3730ff4841e0bf223b009be7252",
+   "v": 1
+  },
+  "BQ": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/BQ.json",
+   "sha256": "b5c8afd44ef2fc49939ce9dce6a4b57039a035d9edf48b46d21a1d8ac43ce149",
+   "v": 1
+  },
+  "BR": {
+   "bytes": 113388,
+   "count": 2278,
+   "file": "cities/BR.json",
+   "sha256": "7d4c3fbae914b7b47e0c2cfd59d78c9a0360fc8d50bb96e94448728bc14382be",
+   "v": 1
+  },
+  "BS": {
+   "bytes": 184,
+   "count": 4,
+   "file": "cities/BS.json",
+   "sha256": "06dc236bea38e4b6d9481a346676222cb8c5767a95e0b1160e394d2a33ce4907",
+   "v": 1
+  },
+  "BT": {
+   "bytes": 189,
+   "count": 4,
+   "file": "cities/BT.json",
+   "sha256": "3ac57ec44440182809ad5a4f419e09ad99d3a3b91a16660a5a6882a350798e28",
+   "v": 1
+  },
+  "BW": {
+   "bytes": 1141,
+   "count": 25,
+   "file": "cities/BW.json",
+   "sha256": "04ea48a6533928644fea269f4444b3558c0df023dae426c42b41532e959543e7",
+   "v": 1
+  },
+  "BY": {
+   "bytes": 2542,
+   "count": 56,
+   "file": "cities/BY.json",
+   "sha256": "92a4eaf780472244bba2137d525ffbd933b0d1a6b8fde41b4b976939cbca8be1",
+   "v": 1
+  },
+  "BZ": {
+   "bytes": 245,
+   "count": 5,
+   "file": "cities/BZ.json",
+   "sha256": "8ef37f4ce048b48b04f330fa33df6d182a83ddf4f2c42c447d20e27ea1e68ffa",
+   "v": 1
+  },
+  "CA": {
+   "bytes": 14640,
+   "count": 297,
+   "file": "cities/CA.json",
+   "sha256": "1866fa9aaa9aaacb482dc44d48274659eb75c25d977c086167b7e5e01a79bd07",
+   "v": 1
+  },
+  "CC": {
+   "bytes": 52,
+   "count": 1,
+   "file": "cities/CC.json",
+   "sha256": "1b30490b2fdbbc6d942c983faabedecf1ddf2ab4b2a4223abe63e598cbbb1e1b",
+   "v": 1
+  },
+  "CD": {
+   "bytes": 4992,
+   "count": 114,
+   "file": "cities/CD.json",
+   "sha256": "656a7aee42a7466dbf77b5cccc31812fd9ddeec765b5294b72a083dc4f7ea552",
+   "v": 1
+  },
+  "CF": {
+   "bytes": 1430,
+   "count": 33,
+   "file": "cities/CF.json",
+   "sha256": "1b223b6489e54f7331969d6b3f0e9527b6e3ea1dab3d4fd6111e1307d59b7215",
+   "v": 1
+  },
+  "CG": {
+   "bytes": 1009,
+   "count": 23,
+   "file": "cities/CG.json",
+   "sha256": "50e4535617043206e3cccc6f87925598f4ee2e8c04b1e4c57132bfa564dd1fb2",
+   "v": 1
+  },
+  "CH": {
+   "bytes": 3169,
+   "count": 73,
+   "file": "cities/CH.json",
+   "sha256": "f4977d5f60ad682b705ebd2222752a375a894bb5001c5e3e79bed12755c7e05a",
+   "v": 1
+  },
+  "CI": {
+   "bytes": 9164,
+   "count": 182,
+   "file": "cities/CI.json",
+   "sha256": "3b7e98a36b687278bbc292cd04c6860eb53776d6bf14871ace32d932e85c795f",
+   "v": 1
+  },
+  "CK": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/CK.json",
+   "sha256": "44e1ab6e1f8dc75a41ad9231f034457f367235862cbd0ebbf854a1e2d469117e",
+   "v": 1
+  },
+  "CL": {
+   "bytes": 8707,
+   "count": 139,
+   "file": "cities/CL.json",
+   "sha256": "0eec141783330528dd5a400fa3158bb7d4481549ff328e2f05fcfb990d34b564",
+   "v": 1
+  },
+  "CM": {
+   "bytes": 3661,
+   "count": 87,
+   "file": "cities/CM.json",
+   "sha256": "f3d750a040d9f62f24bf64162c264831a4d10cdd9887c5fc74fbbe9fc2775764",
+   "v": 1
+  },
+  "CN": {
+   "bytes": 95299,
+   "count": 2105,
+   "file": "cities/CN.json",
+   "sha256": "37ed6044d82c463e7df3d00177e812e0d87d4ef4f3adaf4239d120f8ec5113f0",
+   "v": 1
+  },
+  "CO": {
+   "bytes": 15036,
+   "count": 317,
+   "file": "cities/CO.json",
+   "sha256": "2a658b52a0cafd860091c8351b8cc51f3d3bed455ad1e35ba9a50d1a7ddb3e93",
+   "v": 1
+  },
+  "CR": {
+   "bytes": 1660,
+   "count": 36,
+   "file": "cities/CR.json",
+   "sha256": "b190df388aee2aa16a8871606de4148ba7497ced63c10a057d71568dca164b81",
+   "v": 1
+  },
+  "CU": {
+   "bytes": 5924,
+   "count": 123,
+   "file": "cities/CU.json",
+   "sha256": "84e948e206e9f8dc8242b6bcb6bd890054227be470b52b1092875662e43dc5ba",
+   "v": 1
+  },
+  "CV": {
+   "bytes": 185,
+   "count": 4,
+   "file": "cities/CV.json",
+   "sha256": "732b4e04f9b2aa0779c6adfdae64b426d7642fd4ad3959d22d10242d15a4185e",
+   "v": 1
+  },
+  "CW": {
+   "bytes": 99,
+   "count": 2,
+   "file": "cities/CW.json",
+   "sha256": "0c7447e107bea54a01c28cf4cc92a4fd72a34d14b0315d09aae0df02ecd368f3",
+   "v": 1
+  },
+  "CX": {
+   "bytes": 59,
+   "count": 1,
+   "file": "cities/CX.json",
+   "sha256": "f6ddad1c1c0b15a368ef5ec8b97a99c7963ada42b111e09f6c1233ebfce5c02e",
+   "v": 1
+  },
+  "CY": {
+   "bytes": 704,
+   "count": 15,
+   "file": "cities/CY.json",
+   "sha256": "128520e176d1f4a67150c55b3ae80da944717b1165e4f9fc60359ec194b5def3",
+   "v": 1
+  },
+  "CZ": {
+   "bytes": 5453,
+   "count": 117,
+   "file": "cities/CZ.json",
+   "sha256": "10b48c053d2a819565fd2cf1fcc6659b6651a02e82a3665b601df4f7bbc41b5b",
+   "v": 1
+  },
+  "DE": {
+   "bytes": 44220,
+   "count": 963,
+   "file": "cities/DE.json",
+   "sha256": "0cc65acd0a2fcf46f32d99c065ff801a48a9f7dcfe95389a9f2ecfca64487104",
+   "v": 1
+  },
+  "DJ": {
+   "bytes": 313,
+   "count": 7,
+   "file": "cities/DJ.json",
+   "sha256": "a1758a3ca5cd7c012a47516c8ecfc186aa1d750dadf696ac708acdc22b183821",
+   "v": 1
+  },
+  "DK": {
+   "bytes": 2847,
+   "count": 63,
+   "file": "cities/DK.json",
+   "sha256": "57e96cf6bf981d1183640101a63c8476fd7672a3579ce7f024a68bee73ce5f48",
+   "v": 1
+  },
+  "DM": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/DM.json",
+   "sha256": "dfced73040ad6341b43eb8f53ad327d0737119e3e719ae4ff6ba2a8c177f7d8f",
+   "v": 1
+  },
+  "DO": {
+   "bytes": 2300,
+   "count": 45,
+   "file": "cities/DO.json",
+   "sha256": "94f83c4305b0fdebe8f0e2746fb246e812a461460fb0a0b94f66020edab4e72d",
+   "v": 1
+  },
+  "DZ": {
+   "bytes": 13424,
+   "count": 295,
+   "file": "cities/DZ.json",
+   "sha256": "3b02dbdea3d182cd409def969ed3881cd03ec72a03d25af8669e1b723008f169",
+   "v": 1
+  },
+  "EC": {
+   "bytes": 3267,
+   "count": 71,
+   "file": "cities/EC.json",
+   "sha256": "8ea542a05daf25f1ee0f8d8214bc4b81eaf89d928ce634d5d35de09dcd58fc20",
+   "v": 1
+  },
+  "EE": {
+   "bytes": 316,
+   "count": 7,
+   "file": "cities/EE.json",
+   "sha256": "421e389ecabc6ebae6767837cf576dc54706836ad4bd6d66530bfd59a054f614",
+   "v": 1
+  },
+  "EG": {
+   "bytes": 11607,
+   "count": 237,
+   "file": "cities/EG.json",
+   "sha256": "e9e2e497c58269146854b4b0468fc8e6bc1ff65f2b637f38b8fdaaa67dda9e72",
+   "v": 1
+  },
+  "EH": {
+   "bytes": 181,
+   "count": 4,
+   "file": "cities/EH.json",
+   "sha256": "4255ecdc0f73de771194ef83236f520467ff1cf421a27ef1a72b64fc89f0503d",
+   "v": 1
+  },
+  "ER": {
+   "bytes": 357,
+   "count": 8,
+   "file": "cities/ER.json",
+   "sha256": "bf53797ff1cb8cd3787c18dc366dee9846e050b3bc004bdbfe87e5ac596056de",
+   "v": 1
+  },
+  "ES": {
+   "bytes": 25771,
+   "count": 544,
+   "file": "cities/ES.json",
+   "sha256": "7cf5882511954843902b1d665b763cf9e5cec09ec3796c7b7197f4291ce815b6",
+   "v": 1
+  },
+  "ET": {
+   "bytes": 10097,
+   "count": 233,
+   "file": "cities/ET.json",
+   "sha256": "2203255595069cf6310f81cd7505c6053f6fac859ec9b49e87a23511a5e78242",
+   "v": 1
+  },
+  "FI": {
+   "bytes": 3456,
+   "count": 78,
+   "file": "cities/FI.json",
+   "sha256": "1efa6d701ad9b17c1bb2433ff71ccdae01f31f35a25bade6bed6db11bcfc55f6",
+   "v": 1
+  },
+  "FJ": {
+   "bytes": 312,
+   "count": 7,
+   "file": "cities/FJ.json",
+   "sha256": "d0321bdd57fd1ad67f0ba7f1bd2e377e0dc878783752fee7fce81e681af0ded3",
+   "v": 1
+  },
+  "FK": {
+   "bytes": 49,
+   "count": 1,
+   "file": "cities/FK.json",
+   "sha256": "b278693b4fb97138fe9582864275c6659150140e8d45e2bc20767967d05ff6a1",
+   "v": 1
+  },
+  "FM": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/FM.json",
+   "sha256": "0bfcae1fe821e556d4ffe26631e1931d214c7a8664cac8bca6443d8b4f1a4648",
+   "v": 1
+  },
+  "FO": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/FO.json",
+   "sha256": "26a73dddae2ba1203bfe17d84444712efc6bdd30c2a56c77ff7d83a5b1a3ea2f",
+   "v": 1
+  },
+  "FR": {
+   "bytes": 31574,
+   "count": 657,
+   "file": "cities/FR.json",
+   "sha256": "3c3b91a07994a190ea50c308a171cc3532cc2327fd157f6ab935ca59d73b013d",
+   "v": 1
+  },
+  "GA": {
+   "bytes": 644,
+   "count": 15,
+   "file": "cities/GA.json",
+   "sha256": "77bec136b810bed5ff7ebd65545558799d6841cdc5e9d11768b0f226bd8f70e0",
+   "v": 1
+  },
+  "GB": {
+   "bytes": 37455,
+   "count": 803,
+   "file": "cities/GB.json",
+   "sha256": "0afed42f9603cbeeafb03770d425b49bb1b1c1f706db5448443600c87e5a6ce6",
+   "v": 1
+  },
+  "GD": {
+   "bytes": 58,
+   "count": 1,
+   "file": "cities/GD.json",
+   "sha256": "ebc726ae894326f23c08f115b55df57a1669b3267f5cb01a2202fe5adf374e58",
+   "v": 1
+  },
+  "GE": {
+   "bytes": 776,
+   "count": 17,
+   "file": "cities/GE.json",
+   "sha256": "1cce6a1ecb6efb3d0497d65338829d9e1d159c69a61fcbb91252ec6822b6c440",
+   "v": 1
+  },
+  "GF": {
+   "bytes": 241,
+   "count": 5,
+   "file": "cities/GF.json",
+   "sha256": "71b22b6130b2137cb7bea46230b9373ea3d6501b4bbeb2843a1a8e18cf00e93b",
+   "v": 1
+  },
+  "GG": {
+   "bytes": 58,
+   "count": 1,
+   "file": "cities/GG.json",
+   "sha256": "b3a90cd3d15f274092a92726b502cdff1caf754fba02d951ade4d65c3dd687b2",
+   "v": 1
+  },
+  "GH": {
+   "bytes": 4188,
+   "count": 98,
+   "file": "cities/GH.json",
+   "sha256": "fd351182d17b760809eadc032695d0963aff22616fcc43d772d94147477909f5",
+   "v": 1
+  },
+  "GI": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/GI.json",
+   "sha256": "d768c5105315b0a335c042114e11d6c13fc349097b9f5ecadf96ea961e122c68",
+   "v": 1
+  },
+  "GL": {
+   "bytes": 49,
+   "count": 1,
+   "file": "cities/GL.json",
+   "sha256": "49599337000b7bb2620eec8838a0bf3ec6e853785eaef7a74a6ba20d04915203",
+   "v": 1
+  },
+  "GM": {
+   "bytes": 1307,
+   "count": 29,
+   "file": "cities/GM.json",
+   "sha256": "22367d9eb5c1bf578b1128a61789e43e0e16f3dbb54fde5826127af610f2752f",
+   "v": 1
+  },
+  "GN": {
+   "bytes": 2060,
+   "count": 47,
+   "file": "cities/GN.json",
+   "sha256": "9a70dde94116347dac8878109bfdbc8cc35ea3ac8a0910bb6bc2fa7bb5069df0",
+   "v": 1
+  },
+  "GP": {
+   "bytes": 482,
+   "count": 10,
+   "file": "cities/GP.json",
+   "sha256": "07e90965d9725838b95786b347c2887d16453ba550d4460eb4818f48b7594ed7",
+   "v": 1
+  },
+  "GQ": {
+   "bytes": 270,
+   "count": 6,
+   "file": "cities/GQ.json",
+   "sha256": "4c47fdd42444737faf18217d9620830a99b5ce202120bf3c65a8cd0c5d29769d",
+   "v": 1
+  },
+  "GR": {
+   "bytes": 5346,
+   "count": 117,
+   "file": "cities/GR.json",
+   "sha256": "effbaf8eb91113c65e6184ba5c4b2c7f92bb49e1be5e8e316eeb614740a06c23",
+   "v": 1
+  },
+  "GS": {
+   "bytes": 49,
+   "count": 1,
+   "file": "cities/GS.json",
+   "sha256": "dc3d0f17ddfb1e66700afc3e5fc82e25e604ee5f1a31e2c14758b49e7d7fb29c",
+   "v": 1
+  },
+  "GT": {
+   "bytes": 5062,
+   "count": 102,
+   "file": "cities/GT.json",
+   "sha256": "a0ef21315d82c69aaab6a8b4f7747db61294b509988694e8fe6d743beff505b5",
+   "v": 1
+  },
+  "GW": {
+   "bytes": 412,
+   "count": 9,
+   "file": "cities/GW.json",
+   "sha256": "de72a0a73b90aa86291aeac2c13174f876cff65f8f7130c201c324d715509b15",
+   "v": 1
+  },
+  "GY": {
+   "bytes": 148,
+   "count": 3,
+   "file": "cities/GY.json",
+   "sha256": "f1ad0848a92ebbed31cc5dddfeded3dff23fdf20129655da5dea910a2e20bb85",
+   "v": 1
+  },
+  "HK": {
+   "bytes": 6405,
+   "count": 136,
+   "file": "cities/HK.json",
+   "sha256": "613ad4b03961f67b6b7ddcc2faf12e45add1d5202164375452a203b9cfd6f0a6",
+   "v": 1
+  },
+  "HN": {
+   "bytes": 3127,
+   "count": 65,
+   "file": "cities/HN.json",
+   "sha256": "121bf31819096429b91ec345b10a2b731d1756ae8dbd726b2a71c2ff1e112fb0",
+   "v": 1
+  },
+  "HR": {
+   "bytes": 1121,
+   "count": 25,
+   "file": "cities/HR.json",
+   "sha256": "0f049c1badba4fe291710d5b6bf54e6aca0a89c90de9172345dda363a178680f",
+   "v": 1
+  },
+  "HT": {
+   "bytes": 1564,
+   "count": 32,
+   "file": "cities/HT.json",
+   "sha256": "383479b4ef8990b8cced61a8a83156d8e767d0575f5caa68be4b6ccbfae7ee31",
+   "v": 1
+  },
+  "HU": {
+   "bytes": 4099,
+   "count": 89,
+   "file": "cities/HU.json",
+   "sha256": "3617a324f0caa61ebd95ef12d02c0e4a0f4ef124d53d6978494b279f11aff0e6",
+   "v": 1
+  },
+  "ID": {
+   "bytes": 20478,
+   "count": 447,
+   "file": "cities/ID.json",
+   "sha256": "1b6ee803fec2f5539d54989baaf3d05e5e37ce012ca703e58dfaa8c8eb73f61d",
+   "v": 1
+  },
+  "IE": {
+   "bytes": 1774,
+   "count": 40,
+   "file": "cities/IE.json",
+   "sha256": "2bdd619ca504c09b129f5a8579cd4532e56a951ff8b0bd123671f0f4139fe5c1",
+   "v": 1
+  },
+  "IL": {
+   "bytes": 5167,
+   "count": 110,
+   "file": "cities/IL.json",
+   "sha256": "a1293974391d8c2bf7044f2d27311b23664a746b96c429993ee076e3dbbb1f9e",
+   "v": 1
+  },
+  "IM": {
+   "bytes": 47,
+   "count": 1,
+   "file": "cities/IM.json",
+   "sha256": "7ca16d10f33c26127a8bb09d71371977e07cf304f0398eaa7c6704a5e3c9c88c",
+   "v": 1
+  },
+  "IN": {
+   "bytes": 171265,
+   "count": 3742,
+   "file": "cities/IN.json",
+   "sha256": "e278d57ab590aff56edacebed994162a66885eaa1a18ae76532f5955b169f770",
+   "v": 1
+  },
+  "IQ": {
+   "bytes": 4856,
+   "count": 102,
+   "file": "cities/IQ.json",
+   "sha256": "72e58f9e32529471da447a72bde5c7162103318c7bf3474042e48dd9fe866fb2",
+   "v": 1
+  },
+  "IR": {
+   "bytes": 20100,
+   "count": 425,
+   "file": "cities/IR.json",
+   "sha256": "9a09d6c19042e6e6306b1fb1879a349030074792e223987c177c17b46138e33f",
+   "v": 1
+  },
+  "IS": {
+   "bytes": 294,
+   "count": 6,
+   "file": "cities/IS.json",
+   "sha256": "8492243af2996f122b0e75b0664029610d205c3dfcc60fb18797f7434982c7b4",
+   "v": 1
+  },
+  "IT": {
+   "bytes": 27797,
+   "count": 598,
+   "file": "cities/IT.json",
+   "sha256": "1747eb46f2b80e390ab804e605171fd6376c63d4f38388150a4aa89bc0fedb82",
+   "v": 1
+  },
+  "JE": {
+   "bytes": 53,
+   "count": 1,
+   "file": "cities/JE.json",
+   "sha256": "8200ecb1e3993379b56d21d43ac7da81d617238fe55d50d3c79a1a11eb9e503a",
+   "v": 1
+  },
+  "JM": {
+   "bytes": 586,
+   "count": 12,
+   "file": "cities/JM.json",
+   "sha256": "7acfd7949f8a01afedf9e7df178cbae4fea9792959ddb39be42be9e4751cb00c",
+   "v": 1
+  },
+  "JO": {
+   "bytes": 1432,
+   "count": 31,
+   "file": "cities/JO.json",
+   "sha256": "dcb3b1f62fee5a80e7023798c96b1271895244ac11074a9aad545d0c8d8cf908",
+   "v": 1
+  },
+  "JP": {
+   "bytes": 54925,
+   "count": 1216,
+   "file": "cities/JP.json",
+   "sha256": "5a091fb7dd319cb7dc2ada3b59cbf0ed7be05fc48cba37fe5343b53e3b5e6a10",
+   "v": 1
+  },
+  "KE": {
+   "bytes": 5274,
+   "count": 121,
+   "file": "cities/KE.json",
+   "sha256": "36ea7e2e2a111e2f6089a1705a2b72843fedd631bb72f65a395b0226e8ce8467",
+   "v": 1
+  },
+  "KG": {
+   "bytes": 1395,
+   "count": 32,
+   "file": "cities/KG.json",
+   "sha256": "6036ea31b015a0a48ebabc4754570dac39e014444b569c1fb433bda0951dc33b",
+   "v": 1
+  },
+  "KH": {
+   "bytes": 2205,
+   "count": 46,
+   "file": "cities/KH.json",
+   "sha256": "a69b873f643c9c1978c2d53f1fada86336c756d06fe451f178dd1fb3e03757f7",
+   "v": 1
+  },
+  "KI": {
+   "bytes": 48,
+   "count": 1,
+   "file": "cities/KI.json",
+   "sha256": "374adb35de42c846d7fd7024d592f51d44df87662f72714af87b4ed82261969a",
+   "v": 1
+  },
+  "KM": {
+   "bytes": 143,
+   "count": 3,
+   "file": "cities/KM.json",
+   "sha256": "e143122bc32c430563da51cf969d41bb41ac652a316fcb905fa3fdf248f3290f",
+   "v": 1
+  },
+  "KN": {
+   "bytes": 54,
+   "count": 1,
+   "file": "cities/KN.json",
+   "sha256": "64b260b2a04af6cbea3dbd8446c76d3581ba8c3b4effab8cbfb7b7ea84c2751c",
+   "v": 1
+  },
+  "KP": {
+   "bytes": 5305,
+   "count": 97,
+   "file": "cities/KP.json",
+   "sha256": "8ed9d57edd66409fe8f7d3539640f000cc43547ab7eeb8457c44d05ecea0e337",
+   "v": 1
+  },
+  "KR": {
+   "bytes": 6632,
+   "count": 146,
+   "file": "cities/KR.json",
+   "sha256": "eb455ae2c00025904e4d3c543a8e1d6471e91c2d816e557b9f87f01455f4ad86",
+   "v": 1
+  },
+  "KW": {
+   "bytes": 649,
+   "count": 13,
+   "file": "cities/KW.json",
+   "sha256": "9f777a6578aab44cdcca093e249d43b60f6efa3f244d5651742f1051415d0c18",
+   "v": 1
+  },
+  "KY": {
+   "bytes": 97,
+   "count": 2,
+   "file": "cities/KY.json",
+   "sha256": "8a33ccd8de72a47261476a3c91011f952e9f65f3dc200a1eaa7f066d6ebef2b1",
+   "v": 1
+  },
+  "KZ": {
+   "bytes": 3799,
+   "count": 83,
+   "file": "cities/KZ.json",
+   "sha256": "faadf31a7cf91e8a72bacfa2022e87d2da626138a2eb10e9c76db093843953f1",
+   "v": 1
+  },
+  "LA": {
+   "bytes": 858,
+   "count": 18,
+   "file": "cities/LA.json",
+   "sha256": "0b4ed10700c08e7c42050ed2c35550a26074de6806245fb865b44968bf6ecfcc",
+   "v": 1
+  },
+  "LB": {
+   "bytes": 784,
+   "count": 17,
+   "file": "cities/LB.json",
+   "sha256": "da89f3e179ea3f18cae6c5f2054aecb973b4de44d44dc097aed9a408cbf7ad35",
+   "v": 1
+  },
+  "LC": {
+   "bytes": 99,
+   "count": 2,
+   "file": "cities/LC.json",
+   "sha256": "c406fdf9860c42735e995fae8d965976b0cbd84de6ed2024019b2eb5184111cd",
+   "v": 1
+  },
+  "LI": {
+   "bytes": 47,
+   "count": 1,
+   "file": "cities/LI.json",
+   "sha256": "d3bd4db4de4b46c164acdfbf924479124e7251cdf9e3867587750306c54ffa20",
+   "v": 1
+  },
+  "LK": {
+   "bytes": 2655,
+   "count": 60,
+   "file": "cities/LK.json",
+   "sha256": "13595a1273b79c38865b23fe197c62ada84c1b9d3c28cfa9b738de47a2a0c7b3",
+   "v": 1
+  },
+  "LR": {
+   "bytes": 721,
+   "count": 16,
+   "file": "cities/LR.json",
+   "sha256": "f84274d8dcb5cf2e868bda02019de7145359098ae7a55e9ebd62c660cf35ebbc",
+   "v": 1
+  },
+  "LS": {
+   "bytes": 509,
+   "count": 11,
+   "file": "cities/LS.json",
+   "sha256": "433477f1b230d3cde1ac04d0b23ad6f220174b60d27b4bad42fa2921a08d495a",
+   "v": 1
+  },
+  "LT": {
+   "bytes": 905,
+   "count": 20,
+   "file": "cities/LT.json",
+   "sha256": "54b9ff9f0192b6c3303b3057eb8c5b83c442c6de3b5767a435a0ae4c93a1f9bd",
+   "v": 1
+  },
+  "LU": {
+   "bytes": 150,
+   "count": 3,
+   "file": "cities/LU.json",
+   "sha256": "20673e66981933afe0836f98e52977622640215e441333978813c28f64eb3d28",
+   "v": 1
+  },
+  "LV": {
+   "bytes": 636,
+   "count": 14,
+   "file": "cities/LV.json",
+   "sha256": "82e4538da3a2fb77c4711bdbb5fd59de91f14f24c13de4dec28824e447726e38",
+   "v": 1
+  },
+  "LY": {
+   "bytes": 2762,
+   "count": 59,
+   "file": "cities/LY.json",
+   "sha256": "306e2c121311478a8a6ca8eaac53808758681052a17c2390f30af09357e0e69d",
+   "v": 1
+  },
+  "MA": {
+   "bytes": 8177,
+   "count": 176,
+   "file": "cities/MA.json",
+   "sha256": "f8a8d111fbc784632ca9ae3fc6fddf05d90b72ea3066831774185ebb7888429e",
+   "v": 1
+  },
+  "MC": {
+   "bytes": 54,
+   "count": 1,
+   "file": "cities/MC.json",
+   "sha256": "d3d18af2defd3807eda7efba9efe6658897fdc186bbc11d9aa5019e3d7817e6a",
+   "v": 1
+  },
+  "MD": {
+   "bytes": 995,
+   "count": 22,
+   "file": "cities/MD.json",
+   "sha256": "e43f38ebacc834d0ecb3b952b9c18df36de46840352a93caa15bd56109398dda",
+   "v": 1
+  },
+  "ME": {
+   "bytes": 367,
+   "count": 8,
+   "file": "cities/ME.json",
+   "sha256": "943551036e89922d3d3ece76ef7b3062d232c2ff87ed18edd77baa52ff154922",
+   "v": 1
+  },
+  "MF": {
+   "bytes": 48,
+   "count": 1,
+   "file": "cities/MF.json",
+   "sha256": "082ecb71f68b790b3bdf04e18485af43b810dbe4f7d6086202c5bcf71bd3157f",
+   "v": 1
+  },
+  "MG": {
+   "bytes": 5611,
+   "count": 106,
+   "file": "cities/MG.json",
+   "sha256": "e20ec340eae0b629a67f47097075e51d52bbb4eed703fd52eab6d0d6d3786f41",
+   "v": 1
+  },
+  "MH": {
+   "bytes": 105,
+   "count": 2,
+   "file": "cities/MH.json",
+   "sha256": "6bd4339a38179efe5fc597ad9626351511cea46fa2330169bc09cf5e196fdcb2",
+   "v": 1
+  },
+  "MK": {
+   "bytes": 1790,
+   "count": 36,
+   "file": "cities/MK.json",
+   "sha256": "425e8cee79caf915f904ef4f217c53a6104f0053040b15bd7d140b795f51f7b2",
+   "v": 1
+  },
+  "ML": {
+   "bytes": 2523,
+   "count": 58,
+   "file": "cities/ML.json",
+   "sha256": "eda7a5a7652927d14d25c9f5d937c4f088fbe9db981be3c26f5f5519971385f5",
+   "v": 1
+  },
+  "MM": {
+   "bytes": 7246,
+   "count": 163,
+   "file": "cities/MM.json",
+   "sha256": "5da4d34bd122316593b4002022e805b5c8dfcd87fb6036a12044ff8db7208e24",
+   "v": 1
+  },
+  "MN": {
+   "bytes": 1128,
+   "count": 24,
+   "file": "cities/MN.json",
+   "sha256": "bdfcf9e40470501c9fa4084fdb8ba9d80368487eaf4d82bd36132b3c3b391ecd",
+   "v": 1
+  },
+  "MO": {
+   "bytes": 265,
+   "count": 6,
+   "file": "cities/MO.json",
+   "sha256": "1fce23a803ca0fe411e6c2e05c6f52e5b2976f3a3fa07fd8ddc6706a7b365aea",
+   "v": 1
+  },
+  "MQ": {
+   "bytes": 380,
+   "count": 8,
+   "file": "cities/MQ.json",
+   "sha256": "d1a90209c77f9659fc8362bb9dfccdffb251a629708231ab47d5706a94a9882c",
+   "v": 1
+  },
+  "MR": {
+   "bytes": 1204,
+   "count": 26,
+   "file": "cities/MR.json",
+   "sha256": "d2194896a205ffa2f559e2e29cd9ad0b0d475ad0290005dfb7d8c96ed622d616",
+   "v": 1
+  },
+  "MS": {
+   "bytes": 88,
+   "count": 2,
+   "file": "cities/MS.json",
+   "sha256": "1225a4047ae8625bd988700fe5653737c5fc3d68f0a7ddf3eb6c4cd88640d76c",
+   "v": 1
+  },
+  "MT": {
+   "bytes": 322,
+   "count": 7,
+   "file": "cities/MT.json",
+   "sha256": "733d60e288dac8acb657f4a020a110d9e97efa1c1c7077b5fdf9047ced2d0248",
+   "v": 1
+  },
+  "MU": {
+   "bytes": 704,
+   "count": 14,
+   "file": "cities/MU.json",
+   "sha256": "064bdfbf1606fe80f8fbb2f5c839d7ae4204f8613f0c3fb60751e8bde9b74463",
+   "v": 1
+  },
+  "MV": {
+   "bytes": 49,
+   "count": 1,
+   "file": "cities/MV.json",
+   "sha256": "d3208ed8e2678080bbf57207d8439fc4c66718fdc5b9198e71531cfee5e4e038",
+   "v": 1
+  },
+  "MW": {
+   "bytes": 1006,
+   "count": 23,
+   "file": "cities/MW.json",
+   "sha256": "1b30a553ce3c701ef644647255d275fe2d97699b94ba2ae048b786c1c1d1fe71",
+   "v": 1
+  },
+  "MX": {
+   "bytes": 33358,
+   "count": 624,
+   "file": "cities/MX.json",
+   "sha256": "457905029e5618d582770ceb8bcbde39f052d94cd054d967e3affa5b9bbf2f4a",
+   "v": 1
+  },
+  "MY": {
+   "bytes": 16680,
+   "count": 350,
+   "file": "cities/MY.json",
+   "sha256": "e470775fa34d271326720e74e74e9f18c54d54c4d9e2988fcde757ac31e667a9",
+   "v": 1
+  },
+  "MZ": {
+   "bytes": 2952,
+   "count": 66,
+   "file": "cities/MZ.json",
+   "sha256": "b5c94ebdce71f5d3e8bb2af8edeb891a1755ab127ea5207a5c5d5ec213de8456",
+   "v": 1
+  },
+  "NA": {
+   "bytes": 851,
+   "count": 18,
+   "file": "cities/NA.json",
+   "sha256": "ff2ff0c78c4f76c471df01e2c1863bfe59bd6dcf742485a9c73f80c4e0c22c3a",
+   "v": 1
+  },
+  "NC": {
+   "bytes": 141,
+   "count": 3,
+   "file": "cities/NC.json",
+   "sha256": "0e1c1aed30f480c626dafea4fbab4c017870b21d5d1870e03e9ba74be5d65d10",
+   "v": 1
+  },
+  "NE": {
+   "bytes": 1798,
+   "count": 42,
+   "file": "cities/NE.json",
+   "sha256": "b162a280f700a8030cc38fbb35dc1596e8c09cfd84c37f6f5f0eac96638404d7",
+   "v": 1
+  },
+  "NF": {
+   "bytes": 50,
+   "count": 1,
+   "file": "cities/NF.json",
+   "sha256": "e5b90c6d8360909dec7b10539e75d42ffa7a33fbfccc3f4a952eec0813bdda49",
+   "v": 1
+  },
+  "NG": {
+   "bytes": 11377,
+   "count": 270,
+   "file": "cities/NG.json",
+   "sha256": "e9ff6e8ae7dd2d45bc05be866db4012dd5d6d762ea19c716591ad82c4082346a",
+   "v": 1
+  },
+  "NI": {
+   "bytes": 1724,
+   "count": 37,
+   "file": "cities/NI.json",
+   "sha256": "ed81d550af52cd1f862726a9a58f938dcfb6e76a12ba2f21dbe409ac05b066e6",
+   "v": 1
+  },
+  "NL": {
+   "bytes": 10388,
+   "count": 234,
+   "file": "cities/NL.json",
+   "sha256": "87cb6e91aa11baa8bdb09767fa3b11616ffcbff27f2b5b8e7db383ca33b03ed2",
+   "v": 1
+  },
+  "NO": {
+   "bytes": 1815,
+   "count": 41,
+   "file": "cities/NO.json",
+   "sha256": "8c061a0296b6fdbf452ced5fc3244745507143384b33808ca1802d01874ca9fe",
+   "v": 1
+  },
+  "NP": {
+   "bytes": 2133,
+   "count": 46,
+   "file": "cities/NP.json",
+   "sha256": "cec69eb9d4eb9b9aaa3b9b32b99d790286f88a2ea26fd52fe773ad360423480f",
+   "v": 1
+  },
+  "NR": {
+   "bytes": 49,
+   "count": 1,
+   "file": "cities/NR.json",
+   "sha256": "7610d62d258c080fdc9d239b97f40116b10f19b0240cc199528802f3dadf6b31",
+   "v": 1
+  },
+  "NU": {
+   "bytes": 57,
+   "count": 1,
+   "file": "cities/NU.json",
+   "sha256": "2b0a2d7641b38cb2398c77ce35eb089c3fd119970b29885c3e5eabed5394d3dc",
+   "v": 1
+  },
+  "NZ": {
+   "bytes": 2274,
+   "count": 47,
+   "file": "cities/NZ.json",
+   "sha256": "29888ee98dfb30946c673b9695997c152e4952d31f8b4a36bde6f32da1c215e5",
+   "v": 1
+  },
+  "OM": {
+   "bytes": 1392,
+   "count": 27,
+   "file": "cities/OM.json",
+   "sha256": "05ab121d15b83ad1e971e1486f6b0a61d5c430ea30348b9c13c83d1d5863a76a",
+   "v": 1
+  },
+  "PA": {
+   "bytes": 917,
+   "count": 20,
+   "file": "cities/PA.json",
+   "sha256": "585e908d0f6dc00540ddaf2850a16522e3154cb1de5e28a61fb42244c7f9dd2c",
+   "v": 1
+  },
+  "PE": {
+   "bytes": 6611,
+   "count": 136,
+   "file": "cities/PE.json",
+   "sha256": "78dd8e5c783c88c0b2c5433a468ef635e22fcefb618d0bf898b91134be4d850e",
+   "v": 1
+  },
+  "PF": {
+   "bytes": 137,
+   "count": 3,
+   "file": "cities/PF.json",
+   "sha256": "ac3afc422dd6d59aeea2726c38cd7db53f3a9e9e1e88d38953d57b2cb40f5747",
+   "v": 1
+  },
+  "PG": {
+   "bytes": 597,
+   "count": 13,
+   "file": "cities/PG.json",
+   "sha256": "c2f3ba428509b0ea1b3d04adc7ea4eb04e4667aec50ee8261b65dccacdf0665a",
+   "v": 1
+  },
+  "PH": {
+   "bytes": 23755,
+   "count": 518,
+   "file": "cities/PH.json",
+   "sha256": "3de509d675a10cf11d14a789dd557ec574e883098eadd0df8c3d383858c093bf",
+   "v": 1
+  },
+  "PK": {
+   "bytes": 16831,
+   "count": 366,
+   "file": "cities/PK.json",
+   "sha256": "738456e2fc8229eec000544f03bb3ddcd5d6c844419c7ac23aaca434661d1028",
+   "v": 1
+  },
+  "PL": {
+   "bytes": 16070,
+   "count": 344,
+   "file": "cities/PL.json",
+   "sha256": "eeaefb22c59b22ea50f8dde954b65f36b7e85910600e31d6ac857308cc2e5665",
+   "v": 1
+  },
+  "PM": {
+   "bytes": 54,
+   "count": 1,
+   "file": "cities/PM.json",
+   "sha256": "a57624298eed629e555f822a0b13c77377bf50147010c86847406c2d1a0f3a82",
+   "v": 1
+  },
+  "PN": {
+   "bytes": 50,
+   "count": 1,
+   "file": "cities/PN.json",
+   "sha256": "bf3c2e70327be1c00ecf69f151d321343c508a9661ed0d2b7b83bcb78f435b8c",
+   "v": 1
+  },
+  "PS": {
+   "bytes": 2111,
+   "count": 43,
+   "file": "cities/PS.json",
+   "sha256": "33c8893f264f85291c715350b8f9c8940ffbc5f8b8727ed4643abff885ba0bf8",
+   "v": 1
+  },
+  "PT": {
+   "bytes": 8140,
+   "count": 174,
+   "file": "cities/PT.json",
+   "sha256": "7bfff7d964304511ff2f15742d63dc8fc69bf581439272f564e589699581a56a",
+   "v": 1
+  },
+  "PW": {
+   "bytes": 50,
+   "count": 1,
+   "file": "cities/PW.json",
+   "sha256": "d80b66bb0f8fb252b816123dcf98c2754d2114b0ce396e4b38b4e110cbeeec75",
+   "v": 1
+  },
+  "PY": {
+   "bytes": 1513,
+   "count": 30,
+   "file": "cities/PY.json",
+   "sha256": "73a2ff9af8678b92c4858c5416d60c700eb583e246224a0f63411082f12909da",
+   "v": 1
+  },
+  "QA": {
+   "bytes": 509,
+   "count": 10,
+   "file": "cities/QA.json",
+   "sha256": "bb13f4fa600db581b0cd15189676ba5c7926dce8f84a42bbdf9b0b1d952ea010",
+   "v": 1
+  },
+  "RE": {
+   "bytes": 673,
+   "count": 14,
+   "file": "cities/RE.json",
+   "sha256": "2af8f2fcea3119ac0edfb64c465d437d518fe0c85e6f2f1d10398a3bc7085d98",
+   "v": 1
+  },
+  "RO": {
+   "bytes": 5649,
+   "count": 126,
+   "file": "cities/RO.json",
+   "sha256": "416c65ace5d27f8cff27623fa4ba96953783bd5c6a09e16790cdfc021763ba56",
+   "v": 1
+  },
+  "RS": {
+   "bytes": 2315,
+   "count": 51,
+   "file": "cities/RS.json",
+   "sha256": "267e4390d23693a029a489c89232ab2d7f403d0639daefa2a2390f3f9a6c5aa6",
+   "v": 1
+  },
+  "RU": {
+   "bytes": 46148,
+   "count": 980,
+   "file": "cities/RU.json",
+   "sha256": "61f0ae0a285df3c755b0a035546587519d615dc5aa8e8fedf57227d4e02b87b3",
+   "v": 1
+  },
+  "RW": {
+   "bytes": 2002,
+   "count": 45,
+   "file": "cities/RW.json",
+   "sha256": "1fef8499d4281b993341639325d72f0ef2171af50fe9376c2533a146da41a509",
+   "v": 1
+  },
+  "SA": {
+   "bytes": 4486,
+   "count": 96,
+   "file": "cities/SA.json",
+   "sha256": "f0362a469ecde2dfddfc29b861e71d639b182406ab135d99d26e976cdcfa98a1",
+   "v": 1
+  },
+  "SB": {
+   "bytes": 138,
+   "count": 3,
+   "file": "cities/SB.json",
+   "sha256": "eaeb865dc9e9a90dd9222452918589c987bc7c040fce048bd6d150643e35de89",
+   "v": 1
+  },
+  "SC": {
+   "bytes": 54,
+   "count": 1,
+   "file": "cities/SC.json",
+   "sha256": "06404a2576550bbd84e3222daa1bc74b8e0a96e1471378ddf288ad1ca930346b",
+   "v": 1
+  },
+  "SD": {
+   "bytes": 3455,
+   "count": 76,
+   "file": "cities/SD.json",
+   "sha256": "17fffcfc773b667103653b93a7040a6dcc008d054fbd76697d74f9ab80785275",
+   "v": 1
+  },
+  "SE": {
+   "bytes": 4440,
+   "count": 99,
+   "file": "cities/SE.json",
+   "sha256": "8541b498ee58ef22135c1e5105757380814bc77d1add3f01a1473f498da5c69e",
+   "v": 1
+  },
+  "SG": {
+   "bytes": 1764,
+   "count": 31,
+   "file": "cities/SG.json",
+   "sha256": "bd5aa42fb3f965742813d81c08b942c650a4f12d42ff89acd19ea2246db1110a",
+   "v": 1
+  },
+  "SH": {
+   "bytes": 50,
+   "count": 1,
+   "file": "cities/SH.json",
+   "sha256": "ec922f979da5474d360d54b8257c5e084ada208e0f1f6cdf93bf57ab6cf4aad6",
+   "v": 1
+  },
+  "SI": {
+   "bytes": 457,
+   "count": 9,
+   "file": "cities/SI.json",
+   "sha256": "5a90e861a56bb39712253f517f0c60e47b8b7d186821d9d93697cd2fbfe462e0",
+   "v": 1
+  },
+  "SJ": {
+   "bytes": 53,
+   "count": 1,
+   "file": "cities/SJ.json",
+   "sha256": "9175f76f02053ea2cff22fc9e70e43d5ba9eac1716fe5caab47db237591a5fd7",
+   "v": 1
+  },
+  "SK": {
+   "bytes": 2798,
+   "count": 59,
+   "file": "cities/SK.json",
+   "sha256": "82d40e55a4be195452842da4714725b89f0ac102ec6b4944e1c918c80c4d371c",
+   "v": 1
+  },
+  "SL": {
+   "bytes": 556,
+   "count": 13,
+   "file": "cities/SL.json",
+   "sha256": "658a6f7f0ba871649786e671ac32526fbd60d08d61b5d071bff4f11ebdc8bee6",
+   "v": 1
+  },
+  "SM": {
+   "bytes": 53,
+   "count": 1,
+   "file": "cities/SM.json",
+   "sha256": "a07a7a6d8c365d2ba8e407311de4eb58da4b8e135f3e2c879196182e7c3e0c50",
+   "v": 1
+  },
+  "SN": {
+   "bytes": 3064,
+   "count": 66,
+   "file": "cities/SN.json",
+   "sha256": "e169753a1c75bb2fee1b3a5aacad9ebabaeb94d5cf520a5f55bc7892395f4b2c",
+   "v": 1
+  },
+  "SO": {
+   "bytes": 1836,
+   "count": 42,
+   "file": "cities/SO.json",
+   "sha256": "53158f4c4cb1dc24f6859fa6f80368663a2d9bbe54b9649c4e690759413ad3e8",
+   "v": 1
+  },
+  "SR": {
+   "bytes": 97,
+   "count": 2,
+   "file": "cities/SR.json",
+   "sha256": "d966e055e9dd5cbbebe922064544f1568831d388875793686d175b48eefd1a38",
+   "v": 1
+  },
+  "SS": {
+   "bytes": 672,
+   "count": 16,
+   "file": "cities/SS.json",
+   "sha256": "3495b2009fd92e4dac97f1552ea16e42cd2c9ceb70aad19a8aeea422cb62ae4a",
+   "v": 1
+  },
+  "ST": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/ST.json",
+   "sha256": "4ea84278ba8a3b47ee1edf9116c97a777c2f0bd02a98e4f8514c1463208a6b05",
+   "v": 1
+  },
+  "SV": {
+   "bytes": 2147,
+   "count": 35,
+   "file": "cities/SV.json",
+   "sha256": "578173be8b0dae8e43526b36c50ff62e48ece9730202221853131477ddfb41a4",
+   "v": 1
+  },
+  "SX": {
+   "bytes": 52,
+   "count": 1,
+   "file": "cities/SX.json",
+   "sha256": "277194ab2f6f1c62dfc9e0502619d558658c3249fce9d47b78ef52ec738e4246",
+   "v": 1
+  },
+  "SY": {
+   "bytes": 4673,
+   "count": 90,
+   "file": "cities/SY.json",
+   "sha256": "013e3476e145acb931d05a0da9c7ce906c444bee36b57c0986ba6c087b119e4c",
+   "v": 1
+  },
+  "SZ": {
+   "bytes": 137,
+   "count": 3,
+   "file": "cities/SZ.json",
+   "sha256": "5aba368ea6344e875cf8d3e239e92162335084b739545e07a2bd878d06e58e41",
+   "v": 1
+  },
+  "TC": {
+   "bytes": 105,
+   "count": 2,
+   "file": "cities/TC.json",
+   "sha256": "9706596df281ac00c6f26f5376b44f1d7bf38a16a4b630322ceed6e2dcb9ff2f",
+   "v": 1
+  },
+  "TD": {
+   "bytes": 2007,
+   "count": 46,
+   "file": "cities/TD.json",
+   "sha256": "164cc600ace5d0c2b24ed5e1082ac9c28efbb34b7680d5421e2f09d6fd94e762",
+   "v": 1
+  },
+  "TF": {
+   "bytes": 58,
+   "count": 1,
+   "file": "cities/TF.json",
+   "sha256": "cd28fdf6ee64fbf16039153426da5db9f12685ffbbaed8dcab7e1edfca41ed93",
+   "v": 1
+  },
+  "TG": {
+   "bytes": 809,
+   "count": 20,
+   "file": "cities/TG.json",
+   "sha256": "5a72f62ea5f7191f409e2c7cd46c005cd4f0d81fa31fd93364a4e6439661314c",
+   "v": 1
+  },
+  "TH": {
+   "bytes": 14150,
+   "count": 297,
+   "file": "cities/TH.json",
+   "sha256": "e6d957fb2069881704e1f6d11750b71956aa4c1a1080407bbd0a4148434b46d3",
+   "v": 1
+  },
+  "TJ": {
+   "bytes": 1397,
+   "count": 31,
+   "file": "cities/TJ.json",
+   "sha256": "ae0085017f2da0d96aced0cedb0521cc51091a720a02c30634e404c4f7df7c8c",
+   "v": 1
+  },
+  "TL": {
+   "bytes": 449,
+   "count": 10,
+   "file": "cities/TL.json",
+   "sha256": "3372140e310d7c838962d77b480b02a94f771e5f704d1f7698f5c3cb8a3f3a6d",
+   "v": 1
+  },
+  "TM": {
+   "bytes": 1627,
+   "count": 37,
+   "file": "cities/TM.json",
+   "sha256": "accd580c040adaa76e08b2094ad25df2022f61778204339dd7520353b01d19d6",
+   "v": 1
+  },
+  "TN": {
+   "bytes": 5722,
+   "count": 126,
+   "file": "cities/TN.json",
+   "sha256": "6899874ee8b493bf49267af0bcf5dfdcabc14ef06b37f7a47e35bc53eccd0c78",
+   "v": 1
+  },
+  "TO": {
+   "bytes": 59,
+   "count": 1,
+   "file": "cities/TO.json",
+   "sha256": "4f64ebdbf5ab010f4eb623fb98ca1ff6b8d3bd4e311468a637ab26d4d35d6587",
+   "v": 1
+  },
+  "TR": {
+   "bytes": 18647,
+   "count": 417,
+   "file": "cities/TR.json",
+   "sha256": "6754a3fc0cdb111c1f7cdfbf153b1940ef3d0e3c74ebf4f44288a4fd99afb2bf",
+   "v": 1
+  },
+  "TT": {
+   "bytes": 690,
+   "count": 14,
+   "file": "cities/TT.json",
+   "sha256": "7c9c45419d1c3ac271eb9129678b1de67177b9b46d16cb15fb8976a6def5c978",
+   "v": 1
+  },
+  "TV": {
+   "bytes": 53,
+   "count": 1,
+   "file": "cities/TV.json",
+   "sha256": "aad760578eeed12b9dd77984a6a5dcc2a0cb77236fc5232ff25b90c17547e6ff",
+   "v": 1
+  },
+  "TW": {
+   "bytes": 3093,
+   "count": 67,
+   "file": "cities/TW.json",
+   "sha256": "8c0d7706d32c5a2915c48a94ac7f1577fbf9886725e009834d54d7362e524cd2",
+   "v": 1
+  },
+  "TZ": {
+   "bytes": 9718,
+   "count": 227,
+   "file": "cities/TZ.json",
+   "sha256": "09f9ef90d1364b05eb861dc1bb73488e5e14f8048c1e7ddabcb95a83f841bdce",
+   "v": 1
+  },
+  "UA": {
+   "bytes": 12408,
+   "count": 271,
+   "file": "cities/UA.json",
+   "sha256": "6eea86d947fd9301c0b98c0836a5a307af47acd38bcc988a492c642b85d20226",
+   "v": 1
+  },
+  "UG": {
+   "bytes": 5962,
+   "count": 141,
+   "file": "cities/UG.json",
+   "sha256": "8d872b4e74c23a21bb93ca2e4863482f369eb3373c202f8b39a083f045b3a8d6",
+   "v": 1
+  },
+  "UY": {
+   "bytes": 1504,
+   "count": 31,
+   "file": "cities/UY.json",
+   "sha256": "f543f4b23573867f8cc39c05a48817b01cf3ed043af1123488f95ee713e684ab",
+   "v": 1
+  },
+  "UZ": {
+   "bytes": 5021,
+   "count": 109,
+   "file": "cities/UZ.json",
+   "sha256": "bb177185f201d3db584593197375322642d931964c33cb3411b6df22ec315c65",
+   "v": 1
+  },
+  "VA": {
+   "bytes": 52,
+   "count": 1,
+   "file": "cities/VA.json",
+   "sha256": "be7415d410bd68404abc4e385502060ea1f0784c3a89677bc8eb344a2d49635d",
+   "v": 1
+  },
+  "VC": {
+   "bytes": 101,
+   "count": 2,
+   "file": "cities/VC.json",
+   "sha256": "149445e28708875bc2ea4aae830edada88a259b7ae83710167a873f8b2d1152b",
+   "v": 1
+  },
+  "VE": {
+   "bytes": 10026,
+   "count": 214,
+   "file": "cities/VE.json",
+   "sha256": "b8f09ca4ee0c7c3b641ce0031dc8ca07bfc311276c58ecbada0116130f391322",
+   "v": 1
+  },
+  "VG": {
+   "bytes": 51,
+   "count": 1,
+   "file": "cities/VG.json",
+   "sha256": "dc85a7eaed45fbcfdc7acb32d144c261b1b981a33a0e6daf25ef2a01513292a2",
+   "v": 1
+  },
+  "VN": {
+   "bytes": 15282,
+   "count": 309,
+   "file": "cities/VN.json",
+   "sha256": "8feea8edcd82f539f24c53532679edb433087ec661fdcb6e7817af15fbb30f78",
+   "v": 1
+  },
+  "VU": {
+   "bytes": 56,
+   "count": 1,
+   "file": "cities/VU.json",
+   "sha256": "b01576794cec0948677defd21c8e02f0cbf89b2a575f2c5b8e330e38dc7cdb7f",
+   "v": 1
+  },
+  "WF": {
+   "bytes": 52,
+   "count": 1,
+   "file": "cities/WF.json",
+   "sha256": "9ee53d33e6a08cdaadcf9c26b92aa9ebda2995d8700adb1f58d197c7c14377d3",
+   "v": 1
+  },
+  "WS": {
+   "bytes": 58,
+   "count": 1,
+   "file": "cities/WS.json",
+   "sha256": "784c847aeb8b6417ca44c17921f9316e7d0e52a22bc22434bf8819f902b75e0a",
+   "v": 1
+  },
+  "XK": {
+   "bytes": 1149,
+   "count": 21,
+   "file": "cities/XK.json",
+   "sha256": "91a7e5c66f3a752865c00ae9a01a4182d3917100364392659833d8dd207292ad",
+   "v": 1
+  },
+  "YE": {
+   "bytes": 1129,
+   "count": 25,
+   "file": "cities/YE.json",
+   "sha256": "4949fe97dfd1d10efb8e2c00c806b1c410b8d148e8b3edc9d42d3b240517a11f",
+   "v": 1
+  },
+  "YT": {
+   "bytes": 227,
+   "count": 5,
+   "file": "cities/YT.json",
+   "sha256": "e256db97c65a6a7ea6f0f1db00549095cd53614e11f443e22759895a089c90fc",
+   "v": 1
+  },
+  "ZA": {
+   "bytes": 13972,
+   "count": 297,
+   "file": "cities/ZA.json",
+   "sha256": "26c34c42b7929b06164b8c8d82e4623bd7d9d2f48e1cdadc1ebecfe707566c2c",
+   "v": 1
+  },
+  "ZM": {
+   "bytes": 3495,
+   "count": 77,
+   "file": "cities/ZM.json",
+   "sha256": "4cc8c52f9defaa0b0303429fe63d347780ac46c462273ae25fe75e6071474147",
+   "v": 1
+  },
+  "ZW": {
+   "bytes": 1538,
+   "count": 29,
+   "file": "cities/ZW.json",
+   "sha256": "17ed84667801cadfe2a3071c747ed64f70b682c6b9045d9a465d0fa6aa9868f7",
+   "v": 1
+  }
+ },
  "files": {
   "AU": {
    "bytes": 1817952,
