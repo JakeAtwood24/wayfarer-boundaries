@@ -414,11 +414,11 @@
    "v": 2
   },
   "GR": {
-   "bytes": 374,
+   "bytes": 366,
    "count": 8,
    "file": "cities/GR.json",
-   "sha256": "095a7df87626d99ed3c2872d19e34a31539e9bd22e45a10e289987297696a096",
-   "v": 2
+   "sha256": "50529a028c5f4f4eb21cd9b7ffcf1760fd25f9144f9bde7393b512a2cb9f672f",
+   "v": 3
   },
   "GT": {
    "bytes": 916,
@@ -750,11 +750,11 @@
    "v": 2
   },
   "MX": {
-   "bytes": 7578,
+   "bytes": 7557,
    "count": 141,
    "file": "cities/MX.json",
-   "sha256": "d4b8523391dc4ef5911ac6e7e0030ec15cb0417119ac03a7fefaa0be0e1e6678",
-   "v": 2
+   "sha256": "5b6b015bf87693cf4a0386d64a6052d8f61c285b90478846352a3a39662d16ea",
+   "v": 3
   },
   "MY": {
    "bytes": 3965,
@@ -1113,6 +1113,13 @@
    "sha256": "08b402dfd854235287fe52b1e0b30af0d57f83dfd731eb75ccf84657b4185d2c",
    "v": 2
   },
+  "US": {
+   "bytes": 14590,
+   "count": 323,
+   "file": "cities/US.json",
+   "sha256": "c54a6438bcb8768f4ba4a8bc6523cf87c63fe2e992b52b3180e48b7b07bae049",
+   "v": 2
+  },
   "UY": {
    "bytes": 152,
    "count": 3,
@@ -1178,75 +1185,117 @@
   }
  },
  "files": {
-  "AU": {
-   "bytes": 1817952,
-   "file": "admin2-AU.geopack",
-   "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
-   "sha256": "eb11040cd5f869e5fdb9ddda4101f0850b6d8746acdd1a283b2ebd0d1a327bf2",
+  "AT": {
+   "bytes": 241200,
+   "file": "admin2-AT.geopack",
+   "license": "Creative Commons Attribution-ShareAlike 2.0",
+   "sha256": "f30bcffa282e1c154aeeeb87565a6e3cfca4ec660dc0ec64baca45f55b120ca1",
    "v": 1
   },
+  "AU": {
+   "bytes": 1817984,
+   "file": "admin2-AU.geopack",
+   "license": "Creative Commons Attribution 4.0 International (CC BY 4.0)",
+   "sha256": "2bfd7d336b618e2e31be1ca07110e3091804f3ab37432013fe49c1bf1a8651a5",
+   "v": 2
+  },
   "BR": {
-   "bytes": 7257848,
+   "bytes": 7258152,
    "file": "admin2-BR.geopack",
    "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
-   "sha256": "1cb155352e08fcd100ad2f6129fb8bead444c69d3cfe420b72ba36c47ee667aa",
-   "v": 1
+   "sha256": "317df58beff7a35fe21fa029736a895cc3842e5b965e005048eef5ce8a8b9f9f",
+   "v": 2
   },
   "CA": {
    "bytes": 5009192,
    "file": "admin2-CA.geopack",
    "license": "Open Government Canada 2.0",
-   "sha256": "efc656fc6b2e29378c276a252a95703043d0eed9da73101caa20e3a340ed0b8b",
-   "v": 1
+   "sha256": "6d0a68037ac5a9aefca7898de69b05976e478cab23e3408800f3e1326c093234",
+   "v": 2
   },
   "DE": {
    "bytes": 415184,
    "file": "admin2-DE.geopack",
    "license": "Data license Germany - Attribution - Version 2.0",
-   "sha256": "8569b8f045885a3232f598167f57203d42e49be1dd1d02f51de1217563b38f19",
-   "v": 1
+   "sha256": "f115f1c62410cbd36a4ed1982d05c16ed32199f8391489530d9eb2898e60fb57",
+   "v": 2
   },
   "ES": {
    "bytes": 376512,
    "file": "admin2-ES.geopack",
    "license": "National Institute of Statistics (INE) Data License",
-   "sha256": "ddeb688cfe688e84509352a820c4e01a1d2c04f34031e063971de26e276c6e3e",
-   "v": 1
+   "sha256": "6b3bd141ebe30262e675465e6ac9e6746221ba7ce30de42716858661a38ed7be",
+   "v": 2
   },
   "FR": {
    "bytes": 724560,
    "file": "admin2-FR.geopack",
    "license": "Etalab Open License 2.0",
-   "sha256": "366d5b3769a255ee9192b6e702040b0305cf74baeaee3ebdbd31a42c4f17ae4e",
-   "v": 2
+   "sha256": "14a863f3fc554ac33ade5e6b6f7df78cb1a32a08371acefd8aa84956e9965758",
+   "v": 3
   },
   "GB": {
-   "bytes": 321888,
+   "bytes": 321912,
    "file": "admin2-GB.geopack",
    "license": "Open Government Licence v3.0",
-   "sha256": "85b40434ff2503401d78e0257e72bd31c4a376ce4453180622a0edd6eb9301ef",
-   "v": 1
+   "sha256": "4750ea9bd1f28aa4fef960f82d1632d68c0b153a131c049c6e1f6c693e158db6",
+   "v": 2
+  },
+  "GR": {
+   "bytes": 297944,
+   "file": "admin2-GR.geopack",
+   "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+   "sha256": "d120927fb3a0a2909c8dd81f17b4984eab59c7b260ac330e051ae3140db05b0c",
+   "v": 2
   },
   "IT": {
-   "bytes": 460432,
+   "bytes": 460440,
    "file": "admin2-IT.geopack",
    "license": "Creative Commons Attribution 3.0 License",
-   "sha256": "f7e02cab93c88ca4ebba1c9056e7582b4250fb74a5fc44af3b96691623716ebe",
-   "v": 1
+   "sha256": "cd799a854341b54a804662cb0ef5d4b6067dddf307f68c0280150313b064f47c",
+   "v": 2
   },
   "JP": {
-   "bytes": 1728272,
+   "bytes": 1728336,
    "file": "admin2-JP.geopack",
    "license": "Creative Commons Attribution-ShareAlike 2.0",
-   "sha256": "f5583d46735ae3ac076c3dccbfcff5320467ab41309177519c4cffdb46982f5f",
-   "v": 1
+   "sha256": "6aabc936ef519020536ae715dbdaee7b7ef008ec373f4e2743c706e0c04d47fc",
+   "v": 2
   },
   "MX": {
-   "bytes": 2944312,
+   "bytes": 2944144,
    "file": "admin2-MX.geopack",
    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
-   "sha256": "1d80c1d31ac7ff6ed272a9f0f28e357dab90e6c8e6cc5e25721638c3fabe23b5",
+   "sha256": "202ced196ac7a5b7c63f508060cbab87bcd7b919bcb23a2504388eb7c4059e15",
+   "v": 3
+  },
+  "PT": {
+   "bytes": 129952,
+   "file": "admin2-PT.geopack",
+   "license": "CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+   "sha256": "dc760089abf7ebeec6411c9e9eb6010536d3fc22c0bc95a0b9799bc4c9fb0ec3",
+   "v": 2
+  },
+  "SA": {
+   "bytes": 438152,
+   "file": "admin2-SA.geopack",
+   "license": "Creative Commons Attribution-ShareAlike 2.0",
+   "sha256": "1dc0ee34f7045f9cbf83cf6ec049c417631dc4d459227912ab8a7d155f0c092e",
    "v": 1
+  },
+  "TH": {
+   "bytes": 1192496,
+   "file": "admin2-TH.geopack",
+   "license": "Creative Commons Attribution 3.0 Intergovernmental Organisations (CC BY 3.0 IGO)",
+   "sha256": "1959be644c73f391b7531c3cb6db488d978ba07bcb1ceaeaf894d251c1959ebf",
+   "v": 2
+  },
+  "TR": {
+   "bytes": 1255264,
+   "file": "admin2-TR.geopack",
+   "license": "Open Data Commons Open Database License 1.0",
+   "sha256": "b131f4289be0649989a20ede8631098378250d98e32353bfb398de02e9c3567c",
+   "v": 2
   }
  },
  "flags": {
@@ -1479,7 +1528,7 @@
    "count": 3,
    "file": "flags/GB.flagpack",
    "sha256": "56e0939b4e781eeca8f7ba41084f7df8419c41596498f637c74ca154ec5f8b40",
-   "v": 1
+   "v": 3
   },
   "GE": {
    "bytes": 14355,
@@ -1508,6 +1557,13 @@
    "file": "flags/GM.flagpack",
    "sha256": "391ee12622e277a7f420a3e56824825f531477cb57f30118b6d628a8c7dde256",
    "v": 1
+  },
+  "GR": {
+   "bytes": 58296,
+   "count": 4,
+   "file": "flags/GR.flagpack",
+   "sha256": "a3b32c309e8f295c6d850eb8aae1db1044b0e4fbc41c940207e954594d2037e8",
+   "v": 4
   },
   "GW": {
    "bytes": 24081,
@@ -1706,11 +1762,11 @@
    "v": 1
   },
   "MX": {
-   "bytes": 164178,
-   "count": 14,
+   "bytes": 378799,
+   "count": 28,
    "file": "flags/MX.flagpack",
-   "sha256": "17c5010867417ffcd0fe08c67e7f780d507c109ed9c5ea42d63d47b606c4b288",
-   "v": 1
+   "sha256": "1597c3476c2b3bebcaa7dd51437129f020b1d8267a9bc073d3d0882af568be70",
+   "v": 5
   },
   "MY": {
    "bytes": 43255,
@@ -1794,7 +1850,7 @@
    "count": 2,
    "file": "flags/PT.flagpack",
    "sha256": "ac16e76aef5852f882e4669c29887a59341c144b40c3a080c0b7f636db068086",
-   "v": 1
+   "v": 3
   },
   "PW": {
    "bytes": 192538,
@@ -1829,6 +1885,13 @@
    "count": 83,
    "file": "flags/RU.flagpack",
    "sha256": "86e0874fccaa6d1601dc64b13625ec4f853ee0914cf41a20370fef59d1dbbb6f",
+   "v": 1
+  },
+  "SA": {
+   "bytes": 44131,
+   "count": 2,
+   "file": "flags/SA.flagpack",
+   "sha256": "0577d53842cfec7301fe7db798c57892252dcb88c649123a9e1e10877e86ed48",
    "v": 1
   },
   "SB": {
@@ -1888,11 +1951,11 @@
    "v": 1
   },
   "TH": {
-   "bytes": 1193291,
-   "count": 66,
+   "bytes": 1273771,
+   "count": 70,
    "file": "flags/TH.flagpack",
-   "sha256": "4a28d7001f7c94416ede6c78046e6fa0eeb45be9c3afc9d0742da9c8322c73c4",
-   "v": 1
+   "sha256": "512a89a4d9b7358e1608be91d0e0eb3be811d9161fc8627f625156b3bcd04d28",
+   "v": 5
   },
   "TL": {
    "bytes": 11641,
@@ -1906,6 +1969,13 @@
    "count": 1,
    "file": "flags/TN.flagpack",
    "sha256": "8a6bf0a0fa31a868f976633eaac8a938b818741695c894b3670af0c73e2affc4",
+   "v": 1
+  },
+  "TR": {
+   "bytes": 4695,
+   "count": 1,
+   "file": "flags/TR.flagpack",
+   "sha256": "ef0ca7304ff65446717cc2a366442aacb3de628da66382d433df57092c2c0e0b",
    "v": 1
   },
   "TW": {

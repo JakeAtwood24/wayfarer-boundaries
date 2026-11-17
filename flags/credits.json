@@ -2575,6 +2575,34 @@
   "name": "Banjul",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Banjul,_The_Gambia.svg"
  },
+ "GR-69": {
+  "author": "F l a n k e r",
+  "file": "Flag of Mount Athos.svg",
+  "license": "Public domain",
+  "name": "Mount Athos",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Greek_Orthodox_Church.svg"
+ },
+ "GR-B": {
+  "author": "Mysid",
+  "file": "Flag of Greek Macedonia.svg",
+  "license": "Public domain",
+  "name": "Central Macedonia",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Greek_Macedonia.svg"
+ },
+ "GR-E": {
+  "author": "GaelVector",
+  "file": "Flag of Thessaly.svg",
+  "license": "CC0",
+  "name": "Thessaly",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Thessaly.svg"
+ },
+ "GR-G": {
+  "author": "Region of Western Greece",
+  "file": "Western Greece logo.png",
+  "license": "CC BY-SA 3.0 gr",
+  "name": "Western Greece",
+  "source": "https://commons.wikimedia.org/wiki/File:Western_Greece_logo.png"
+ },
  "GW-BS": {
   "author": "Aml-401",
   "file": "Bissau City Flag.png",
@@ -5669,6 +5697,20 @@
   "name": "Rodrigues",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Rodrigues.svg"
  },
+ "MX-AGU": {
+  "author": "Heraldry",
+  "file": "Flag of Aguascalientes.svg",
+  "license": "Public domain",
+  "name": "Aguascalientes",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Aguascalientes.svg"
+ },
+ "MX-BCN": {
+  "author": "Heraldry",
+  "file": "Flag of Baja California.svg",
+  "license": "Public domain",
+  "name": "Baja California",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Baja_California.svg"
+ },
  "MX-BCS": {
   "author": "Gobierno de Baja California Sur",
   "file": "Flag of Baja California Sur.svg",
@@ -5676,12 +5718,40 @@
   "name": "Baja California Sur",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Baja_California_Sur.svg"
  },
+ "MX-CAM": {
+  "author": "Heraldry",
+  "file": "Flag of Campeche.svg",
+  "license": "Public domain",
+  "name": "Campeche",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Campeche.svg"
+ },
  "MX-CHH": {
   "author": "Heraldry",
   "file": "Flag of Chihuahua.svg",
   "license": "Public domain",
   "name": "Chihuahua",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Chihuahua.svg"
+ },
+ "MX-CHP": {
+  "author": "Heraldry",
+  "file": "Flag of Chiapas.svg",
+  "license": "Public domain",
+  "name": "Chiapas",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Chiapas.svg"
+ },
+ "MX-CMX": {
+  "author": "Flagvisioner",
+  "file": "Flag of Mexico City (variant).svg",
+  "license": "Public domain",
+  "name": "Ciudad de México",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Mexico_City_(variant).svg"
+ },
+ "MX-COA": {
+  "author": "Heraldry",
+  "file": "Flag of Coahuila de Zaragoza.svg",
+  "license": "Public domain",
+  "name": "Coahuila de Zaragoza",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Coahuila.svg"
  },
  "MX-COL": {
   "author": "Heraldry",
@@ -5711,12 +5781,33 @@
   "name": "Guanajuato",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Guanajuato.svg"
  },
+ "MX-HID": {
+  "author": "Heraldry",
+  "file": "Flag of Hidalgo.svg",
+  "license": "Public domain",
+  "name": "Hidalgo",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Hidalgo.svg"
+ },
  "MX-JAL": {
   "author": "Gobierno de Jalisco",
   "file": "Flag of Jalisco.svg",
   "license": "Public domain",
   "name": "Jalisco",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Jalisco.svg"
+ },
+ "MX-MOR": {
+  "author": "Heraldry",
+  "file": "Flag of Morelos.svg",
+  "license": "Public domain",
+  "name": "Morelos",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Morelos.svg"
+ },
+ "MX-NAY": {
+  "author": "Heraldry",
+  "file": "Flag of Nayarit.svg",
+  "license": "Public domain",
+  "name": "Nayarit",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Nayarit.svg"
  },
  "MX-OAX": {
   "author": "Heraldry",
@@ -5725,11 +5816,18 @@
   "name": "Oaxaca",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Oaxaca.svg"
  },
+ "MX-PUE": {
+  "author": "Heraldry",
+  "file": "Flag of Puebla.svg",
+  "license": "Public domain",
+  "name": "Puebla",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Puebla.svg"
+ },
  "MX-QUE": {
   "author": "Heraldry",
   "file": "Flag of Queretaro.svg",
   "license": "Public domain",
-  "name": "Queretaro de Arteaga",
+  "name": "Querétaro",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Queretaro.svg"
  },
  "MX-ROO": {
@@ -5739,12 +5837,33 @@
   "name": "Quintana Roo",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Quintana_Roo.svg"
  },
+ "MX-SIN": {
+  "author": "Heraldry",
+  "file": "Flag of Sinaloa.svg",
+  "license": "Public domain",
+  "name": "Sinaloa",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Sinaloa.svg"
+ },
+ "MX-SON": {
+  "author": "Heraldry",
+  "file": "Flag of Sonora.svg",
+  "license": "Public domain",
+  "name": "Sonora",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Sonora.svg"
+ },
  "MX-TAB": {
   "author": "Heraldry",
   "file": "Flag of Tabasco.svg",
   "license": "Public domain",
   "name": "Tabasco",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Tabasco.svg"
+ },
+ "MX-TAM": {
+  "author": "Heraldry",
+  "file": "Flag of Tamaulipas.svg",
+  "license": "Public domain",
+  "name": "Tamaulipas",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Tamaulipas.svg"
  },
  "MX-TLA": {
   "author": "Javitomad",
@@ -5764,8 +5883,15 @@
   "author": "Heraldry",
   "file": "Flag of Yucatan.svg",
   "license": "Public domain",
-  "name": "Yucatan",
+  "name": "Yucatán",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Yucatan.svg"
+ },
+ "MX-ZAC": {
+  "author": "Keepscases",
+  "file": "Flag of Zacatecas.svg",
+  "license": "Public domain",
+  "name": "Zacatecas",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Zacatecas.svg"
  },
  "MY-01": {
   "author": "Mrmw, Mike Rohsopht",
@@ -8105,6 +8231,13 @@
   "name": "Phra Nakhon Si Ayutthaya Province",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Phra_Nakhon_Si_Ayutthaya_Province.svg"
  },
+ "TH-15": {
+  "author": "RWN38",
+  "file": "Flag of Ang Thong Province.svg",
+  "license": "Public domain",
+  "name": "Ang Thong Province",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Ang_Thong_Province.svg"
+ },
  "TH-17": {
   "author": "RWN38",
   "file": "Flag of Sing Buri.svg",
@@ -8153,6 +8286,13 @@
   "license": "Public domain",
   "name": "Trat Province",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Trat_Province.svg"
+ },
+ "TH-24": {
+  "author": "PP2014",
+  "file": "Flag of Chachoengsao Province.png",
+  "license": "CC BY-SA 4.0",
+  "name": "Chachoengsao Province",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Chachoengsao_Province.png"
  },
  "TH-25": {
   "author": "Th Flag, uploaded by RWN38",
@@ -8259,6 +8399,13 @@
   "name": "Nong Khai Province",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Nong_Khai_Province.svg"
  },
+ "TH-44": {
+  "author": "Bbritteethewise, vectorized by RWN38",
+  "file": "Flag of Maha Sarakham Province.svg",
+  "license": "Public domain",
+  "name": "Maha Sarakham Province",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Maha_Sarakham_Province.svg"
+ },
  "TH-45": {
   "author": "HaeKN",
   "file": "Flag of Roi Et.svg",
@@ -8307,6 +8454,13 @@
   "license": "Public domain",
   "name": "Lamphun Province",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Lamphun.svg"
+ },
+ "TH-52": {
+  "author": "TorChannel1",
+  "file": "Flag of Lampang Province.png",
+  "license": "CC0",
+  "name": "Lampang Province",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Lampang_Province.png"
  },
  "TH-53": {
   "author": "HaeKN",

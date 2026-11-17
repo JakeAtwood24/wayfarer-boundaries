@@ -373,6 +373,10 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Kujalleq | GL-KU | CC BY 3.0 | derivative work: Flagvisioner (talk) Kujalleq coa.PNG: Domaleixo and Kujalleq-coat-of-arms.svg: Algkalv | [Flag of Kujalleq Municipality, Greenland.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kujalleq_Municipality,_Greenland.svg) |
 | Qeqqata | GL-QE | CC0 | Flagvisioner | [Flag of Qeqqata.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Qeqqata.svg) |
 | Banjul | GM-B | CC0 | Flagvisioner | [Flag of Banjul, The Gambia.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Banjul,_The_Gambia.svg) |
+| Mount Athos | GR-69 | Public domain | F l a n k e r | [Flag of Mount Athos.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Greek_Orthodox_Church.svg) |
+| Central Macedonia | GR-B | Public domain | Mysid | [Flag of Greek Macedonia.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Greek_Macedonia.svg) |
+| Thessaly | GR-E | CC0 | GaelVector | [Flag of Thessaly.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Thessaly.svg) |
+| Western Greece | GR-G | CC BY-SA 3.0 gr | Region of Western Greece | [Western Greece logo.png](https://commons.wikimedia.org/wiki/File:Western_Greece_logo.png) |
 | Bissau | GW-BS | Public domain | Aml-401 | [Bissau City Flag.png](https://commons.wikimedia.org/wiki/File:Bissau_City_Flag.png) |
 | Colón | HN-CL | CC BY-SA 3.0 | Jaume Olle | [Flag of Colon Department (Honduras).gif](https://commons.wikimedia.org/wiki/File:Flag_of_Colon_Department_(Honduras).gif) |
 | Comayagua | HN-CM | CC BY-SA 4.0 | Dwn2022 | [Bandera del departamento de Comayagua.png](https://commons.wikimedia.org/wiki/File:Bandera_del_departamento_de_Comayagua.png) |
@@ -815,20 +819,34 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Żejtun | MT-67 | CC BY-SA 3.0 | Rehua | [Flag of Żejtun.svg](https://commons.wikimedia.org/wiki/File:Flag_of_%C5%BBejtun.svg) |
 | Żurrieq | MT-68 | CC BY-SA 3.0 | NikNaks93 | [Flag of Żurrieq.svg](https://commons.wikimedia.org/wiki/File:Flag_of_%C5%BBurrieq.svg) |
 | Rodrigues | MU-RO | CC BY-SA 4.0 | John emil hernandez | [Flag of Rodrigues.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Rodrigues.svg) |
+| Aguascalientes | MX-AGU | Public domain | Heraldry | [Flag of Aguascalientes.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Aguascalientes.svg) |
+| Baja California | MX-BCN | Public domain | Heraldry | [Flag of Baja California.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Baja_California.svg) |
 | Baja California Sur | MX-BCS | Public domain | Gobierno de Baja California Sur | [Flag of Baja California Sur.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Baja_California_Sur.svg) |
+| Campeche | MX-CAM | Public domain | Heraldry | [Flag of Campeche.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Campeche.svg) |
 | Chihuahua | MX-CHH | Public domain | Heraldry | [Flag of Chihuahua.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Chihuahua.svg) |
+| Chiapas | MX-CHP | Public domain | Heraldry | [Flag of Chiapas.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Chiapas.svg) |
+| Ciudad de México | MX-CMX | Public domain | Flagvisioner | [Flag of Mexico City (variant).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Mexico_City_(variant).svg) |
+| Coahuila de Zaragoza | MX-COA | Public domain | Heraldry | [Flag of Coahuila de Zaragoza.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Coahuila.svg) |
 | Colima | MX-COL | Public domain | Heraldry | [Flag of Colima.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Colima.svg) |
 | Durango | MX-DUR | Public domain | Heraldry | [Flag of Durango.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Durango.svg) |
 | Guerrero | MX-GRO | Public domain | Heraldry | [Flag of Guerrero.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Guerrero.svg) |
 | Guanajuato | MX-GUA | Public domain | Alexis Rojas, VegaMex  Derivative work : Giggette, VegaMex | [Flag of Guanajuato.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Guanajuato.svg) |
+| Hidalgo | MX-HID | Public domain | Heraldry | [Flag of Hidalgo.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Hidalgo.svg) |
 | Jalisco | MX-JAL | Public domain | Gobierno de Jalisco | [Flag of Jalisco.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Jalisco.svg) |
+| Morelos | MX-MOR | Public domain | Heraldry | [Flag of Morelos.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Morelos.svg) |
+| Nayarit | MX-NAY | Public domain | Heraldry | [Flag of Nayarit.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nayarit.svg) |
 | Oaxaca | MX-OAX | Public domain | Heraldry | [Flag of Oaxaca.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Oaxaca.svg) |
-| Queretaro de Arteaga | MX-QUE | Public domain | Heraldry | [Flag of Queretaro.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Queretaro.svg) |
+| Puebla | MX-PUE | Public domain | Heraldry | [Flag of Puebla.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Puebla.svg) |
+| Querétaro | MX-QUE | Public domain | Heraldry | [Flag of Queretaro.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Queretaro.svg) |
 | Quintana Roo | MX-ROO | Public domain | Heraldry | [Flag of Quintana Roo.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Quintana_Roo.svg) |
+| Sinaloa | MX-SIN | Public domain | Heraldry | [Flag of Sinaloa.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Sinaloa.svg) |
+| Sonora | MX-SON | Public domain | Heraldry | [Flag of Sonora.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Sonora.svg) |
 | Tabasco | MX-TAB | Public domain | Heraldry | [Flag of Tabasco.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tabasco.svg) |
+| Tamaulipas | MX-TAM | Public domain | Heraldry | [Flag of Tamaulipas.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tamaulipas.svg) |
 | Tlaxcala | MX-TLA | Public domain | Javitomad | [Flag of Tlaxcala.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tlaxcala.svg) |
 | Veracruz de Ignacio de la Llave | MX-VER | Public domain | ManuelContreras1996 | [Bandera del Gobierno de Veracruz de Ignacio de la Llave.svg](https://commons.wikimedia.org/wiki/File:Bandera_del_Gobierno_de_Veracruz_de_Ignacio_de_la_Llave.svg) |
-| Yucatan | MX-YUC | Public domain | Heraldry | [Flag of Yucatan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yucatan.svg) |
+| Yucatán | MX-YUC | Public domain | Heraldry | [Flag of Yucatan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yucatan.svg) |
+| Zacatecas | MX-ZAC | Public domain | Keepscases | [Flag of Zacatecas.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Zacatecas.svg) |
 | Johor | MY-01 | Public domain | Mrmw, Mike Rohsopht | [Flag of Johor.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Johor.svg) |
 | Kedah | MY-02 | Public domain | Bukhrin at English Wikipedia | [Flag of Kedah.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kedah.svg) |
 | Kelantan | MY-03 | CC BY-SA 3.0 | Mysid | [Flag of Kelantan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kelantan.svg) |
@@ -1163,6 +1181,7 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Nonthaburi Province | TH-12 | Public domain | RWN38, Bbritteethewise | [ธงจังหวัดนนทบุรี.svg](https://commons.wikimedia.org/wiki/File:%E0%B8%98%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B8%99%E0%B8%97%E0%B8%9A%E0%B8%B8%E0%B8%A3%E0%B8%B5.svg) |
 | Pathum Thani Province | TH-13 | Public domain | HaeKN | [Flag of Pathum Thani.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Pathum_Thani.svg) |
 | Phra Nakhon Si Ayutthaya Province | TH-14 | CC BY-SA 4.0 | Xiengyod~commonswiki | [Flag of Phra Nakhon Si Ayutthaya Province.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Phra_Nakhon_Si_Ayutthaya_Province.svg) |
+| Ang Thong Province | TH-15 | Public domain | RWN38 | [Flag of Ang Thong Province.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Ang_Thong_Province.svg) |
 | Sing Buri Province | TH-17 | CC0 | RWN38 | [Flag of Sing Buri.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Sing_Buri.svg) |
 | Chai Nat Province | TH-18 | Public domain | HaeKN | [Flag of Chai Nat province.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Chai_Nat_province.svg) |
 | Saraburi Province | TH-19 | Public domain | Th flag | [Provincial Flag of Saraburi.svg](https://commons.wikimedia.org/wiki/File:Provincial_Flag_of_Saraburi.svg) |
@@ -1170,6 +1189,7 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Rayong Province | TH-21 | Public domain | HaeKN | [Flag of Rayong.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Rayong.svg) |
 | Chanthaburi Province | TH-22 | Public domain | HaeKN | [Flag of Chanthaburi.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Chanthaburi.svg) |
 | Trat Province | TH-23 | Public domain | Th Flag, uploaded by RWN38 | [Flag of Trat Province.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Trat_Province.svg) |
+| Chachoengsao Province | TH-24 | CC BY-SA 4.0 | PP2014 | [Flag of Chachoengsao Province.png](https://commons.wikimedia.org/wiki/File:Flag_of_Chachoengsao_Province.png) |
 | Prachin Buri Province | TH-25 | Public domain | Th Flag, uploaded by RWN38 | [Flag of Prachin Buri Province.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Prachin_Buri_Province.svg) |
 | Nakhon Nayok Province | TH-26 | Public domain | HaeKN | [Flag of Nakhon Nayok.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nakhon_Nayok.svg) |
 | Sa Kaeo Province | TH-27 | Public domain | HaeKN | [Flag of Sa Kaeo.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Sa_Kaeo.svg) |
@@ -1185,6 +1205,7 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Udon Thani Province | TH-41 | Public domain | RWN38 | [Flag of UdonThani province.svg](https://commons.wikimedia.org/wiki/File:Flag_of_UdonThani_province.svg) |
 | Loei Province | TH-42 | Public domain | HaeKN | [Flag of Loei.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Loei.svg) |
 | Nong Khai Province | TH-43 | Public domain | RWN38 | [Flag of Nong Khai Province.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nong_Khai_Province.svg) |
+| Maha Sarakham Province | TH-44 | Public domain | Bbritteethewise, vectorized by RWN38 | [Flag of Maha Sarakham Province.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Maha_Sarakham_Province.svg) |
 | Roi Et Province | TH-45 | Public domain | HaeKN | [Flag of Roi Et.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Roi_Et.svg) |
 | Kalasin | TH-46 | Public domain | HaeKN, colors modification by Bbritteethewise | [Flag of Kalasin.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kalasin.svg) |
 | Sakon Nakhon Province | TH-47 | Public domain | RWN38 | [Flag of Sakon Nakhon.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Sakon_Nakhon.svg) |
@@ -1192,6 +1213,7 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Mukdahan Province | TH-49 | Public domain | RWN38 | [Flag of Mokdahan Province.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Mokdahan_Province.svg) |
 | Chiang Mai Province | TH-50 | Public domain | HaeKN | [Flag of Chiang Mai.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Chiang_Mai.svg) |
 | Lamphun Province | TH-51 | Public domain | HaeKN | [Flag of Lamphun.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Lamphun.svg) |
+| Lampang Province | TH-52 | CC0 | TorChannel1 | [Flag of Lampang Province.png](https://commons.wikimedia.org/wiki/File:Flag_of_Lampang_Province.png) |
 | Uttaradit Province | TH-53 | Public domain | HaeKN | [Flag of Uttaradit.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Uttaradit.svg) |
 | Phrae Province | TH-54 | CC BY-SA 4.0 | Me.tammalak.nU | [Phrae flag.svg](https://commons.wikimedia.org/wiki/File:Phrae_flag.svg) |
 | Nan Province | TH-55 | Public domain | Th flag | [ธงประจำจังหวัดน่าน.svg](https://commons.wikimedia.org/wiki/File:%E0%B8%98%E0%B8%87%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B3%E0%B8%88%E0%B8%B1%E0%B8%87%E0%B8%AB%E0%B8%A7%E0%B8%B1%E0%B8%94%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%99.svg) |
