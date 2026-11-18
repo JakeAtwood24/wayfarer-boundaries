@@ -481,7 +481,7 @@
    "count": 169,
    "file": "cities/ID.json",
    "sha256": "a2fd869c81fad237a1cd6709b891b2486c778fb0278ada90f9507d250706479c",
-   "v": 2
+   "v": 4
   },
   "IE": {
    "bytes": 136,
@@ -1114,11 +1114,11 @@
    "v": 2
   },
   "US": {
-   "bytes": 14590,
-   "count": 323,
+   "bytes": 14440,
+   "count": 320,
    "file": "cities/US.json",
-   "sha256": "c54a6438bcb8768f4ba4a8bc6523cf87c63fe2e992b52b3180e48b7b07bae049",
-   "v": 2
+   "sha256": "ce343ee54a0e800f6a7799b5bc654b168860f314732f6531b9257c153111a63c",
+   "v": 4
   },
   "UY": {
    "bytes": 152,
