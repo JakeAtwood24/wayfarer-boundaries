@@ -106,7 +106,7 @@ Watch the commas: every entry but the last ends with one.
 | [Estonia](EE/) | 15 | 4 | 11 |  |
 | [Egypt](EG/) | 27 | 25 | 2 |  |
 | [Eritrea](ER/) | 6 | 0 | 6 |  |
-| [Spain](ES/) | 19 | 19 |  |  |
+| [Spain](ES/) | 19 | 19 |  | 2 |
 | [Ethiopia](ET/) | 11 | 10 | 1 |  |
 | [Finland](FI/) | 18 | 15 | 3 |  |
 | [Fiji](FJ/) | 4 | 0 | 4 |  |

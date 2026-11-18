@@ -1,14 +1,9 @@
 # Spain (ES)
 
-19 regions · 19 with flags · 0 missing · 0 renamed
+19 regions · 19 with flags · 0 missing · 2 renamed
 
 Edit [`regions.json`](regions.json) to change names and flags; how-to in [regions/README.md](../README.md).
 This page is rebuilt automatically, so don't edit it.
-
-## To do
-
-- [ ] **Cataluña/Catalunya** (`ES-CT`): check the name
-- [ ] **País Vasco/Euskadi** (`ES-PV`): check the name
 
 ## All regions
 
@@ -20,7 +15,7 @@ This page is rebuilt automatically, so don't edit it.
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Cantabria_%28Official%29.svg?width=48" height="20"> | `ES-CB` | Cantabria | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Castile_and_Le%C3%B3n.svg?width=48" height="20"> | `ES-CL` | Castilla y León | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Castile-La_Mancha.svg?width=48" height="20"> | `ES-CM` | Castilla-La Mancha | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Catalonia.svg?width=48" height="20"> | `ES-CT` | Cataluña/Catalunya | Automatic (Wikidata) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Catalonia.svg?width=48" height="20"> | `ES-CT` | Catalunya <sub>was Cataluña/Catalunya</sub> | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ceuta.svg?width=48" height="20"> | `ES-CE` | Ciudad Autónoma de Ceuta | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Melilla.svg?width=48" height="20"> | `ES-ML` | Ciudad Autónoma de Melilla | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Community_of_Madrid.svg?width=48" height="20"> | `ES-MD` | Comunidad de Madrid | Automatic (Wikidata) |
@@ -30,6 +25,6 @@ This page is rebuilt automatically, so don't edit it.
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Galicia.svg?width=48" height="20"> | `ES-GA` | Galicia | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Balearic_Islands.svg?width=48" height="20"> | `ES-IB` | Illes Balears | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_La_Rioja_%28with_coat_of_arms%29.svg?width=48" height="20"> | `ES-RI` | La Rioja | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Basque_Country.svg?width=48" height="20"> | `ES-PV` | País Vasco/Euskadi | Automatic (Wikidata) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Basque_Country.svg?width=48" height="20"> | `ES-PV` | Euskadi <sub>was País Vasco/Euskadi</sub> | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Asturias_%28gala%29.svg?width=48" height="20"> | `ES-AS` | Principado de Asturias | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Region_of_Murcia.svg?width=48" height="20"> | `ES-MC` | Región de Murcia | Automatic (Wikidata) |

@@ -302,7 +302,7 @@ The PNGs are scaled-down copies of the originals.
 | Castilla y León | ES-CL | CC BY 3.0 | Rastrojo (D•ES) | [Flag of Castile and León.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Castile_and_Le%C3%B3n.svg) |
 | Castilla-La Mancha | ES-CM | Public domain | Xinese-v | [Flag of Castile-La Mancha.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Castile-La_Mancha.svg) |
 | Canarias | ES-CN | Public domain | No machine-readable author provided. Zirland assumed (based on copyright claims). | [Flag of the Canary Islands (simple).svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Canary_Islands_(simple).svg) |
-| Cataluña/Catalunya | ES-CT | Public domain | Motoroil | [Flag of Catalonia.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Catalonia.svg) |
+| Catalunya | ES-CT | Public domain | Motoroil | [Flag of Catalonia.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Catalonia.svg) |
 | Extremadura | ES-EX | Public domain | BetacommandBot | [Flag of Extremadura, Spain (with coat of arms).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Extremadura,_Spain_(with_coat_of_arms).svg) |
 | Galicia | ES-GA | Public domain | Pedro A. Gracia Fajardo | [Flag of Galicia.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Galicia.svg) |
 | Illes Balears | ES-IB | CC0 | – | [Flag of the Balearic Islands.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Balearic_Islands.svg) |
@@ -310,7 +310,7 @@ The PNGs are scaled-down copies of the originals.
 | Comunidad de Madrid | ES-MD | CC0 | See file history | [Flag of the Community of Madrid.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Community_of_Madrid.svg) |
 | Ciudad Autónoma de Melilla | ES-ML | CC BY-SA 3.0 | – | [Flag of Melilla.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Melilla.svg) |
 | Comunidad Foral de Navarra | ES-NC | Public domain | Miguillen | [Bandera de Navarra.svg](https://commons.wikimedia.org/wiki/File:Bandera_de_Navarra.svg) |
-| País Vasco/Euskadi | ES-PV | CC BY-SA 2.5 | Daniele Schirmo aka Frankie688 | [Flag of the Basque Country.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Basque_Country.svg) |
+| Euskadi | ES-PV | CC BY-SA 2.5 | Daniele Schirmo aka Frankie688 | [Flag of the Basque Country.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Basque_Country.svg) |
 | La Rioja | ES-RI | CC BY 2.5 | jynus | [Flag of La Rioja (with coat of arms).svg](https://commons.wikimedia.org/wiki/File:Flag_of_La_Rioja_(with_coat_of_arms).svg) |
 | Comunitat Valenciana | ES-VC | Public domain | Mutxamel | [Flag of the Land of Valencia (official).svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Land_of_Valencia_(official).svg) |
 | Addis Ababa | ET-AA | Public domain | Addis Ababa City Administration | [Flag of Addis Ababa.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Addis_Ababa.svg) |
