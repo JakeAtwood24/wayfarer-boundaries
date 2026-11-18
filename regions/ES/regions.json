@@ -5,7 +5,7 @@
   "ES-CB": {"name": "Cantabria"},
   "ES-CL": {"name": "Castilla y León"},
   "ES-CM": {"name": "Castilla-La Mancha"},
-  "ES-CT": {"name": "Cataluña/Catalunya"},
+  "ES-CT": {"name": "Catalunya"},
   "ES-CE": {"name": "Ciudad Autónoma de Ceuta"},
   "ES-ML": {"name": "Ciudad Autónoma de Melilla"},
   "ES-MD": {"name": "Comunidad de Madrid"},
@@ -15,7 +15,7 @@
   "ES-GA": {"name": "Galicia"},
   "ES-IB": {"name": "Illes Balears"},
   "ES-RI": {"name": "La Rioja"},
-  "ES-PV": {"name": "País Vasco/Euskadi"},
+  "ES-PV": {"name": "Euskadi"},
   "ES-AS": {"name": "Principado de Asturias"},
   "ES-MC": {"name": "Región de Murcia"}
 }
