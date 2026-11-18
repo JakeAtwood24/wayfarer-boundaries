@@ -1,0 +1,18 @@
+{
+  "GH-AF": {"name": "Ahafo Region"},
+  "GH-AH": {"name": "Ashanti Region"},
+  "GH-BE": {"name": "Bono East Region"},
+  "GH-BO": {"name": "Bono Region"},
+  "GH-CP": {"name": "Central Region"},
+  "GH-EP": {"name": "Eastern Region"},
+  "GH-AA": {"name": "Greater Accra Region"},
+  "GH-NE": {"name": "North East Region"},
+  "GH-NP": {"name": "Northern Region"},
+  "GH-OT": {"name": "Oti Region"},
+  "GH-SV": {"name": "Savannah Region"},
+  "GH-UE": {"name": "Upper East Region"},
+  "GH-UW": {"name": "Upper West Region"},
+  "GH-TV": {"name": "Volta Region"},
+  "GH-WN": {"name": "Western North Region"},
+  "GH-WP": {"name": "Western Region"}
+}

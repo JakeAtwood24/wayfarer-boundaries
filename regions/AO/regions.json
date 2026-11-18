@@ -1,0 +1,20 @@
+{
+  "AO-BGO": {"name": "Bengo"},
+  "AO-BGU": {"name": "Benguela"},
+  "AO-BIE": {"name": "Bié"},
+  "AO-CAB": {"name": "Cabinda"},
+  "AO-CCU": {"name": "Cuando Cubango"},
+  "AO-CNO": {"name": "Cuanza Norte"},
+  "AO-CUS": {"name": "Cuanza Sul"},
+  "AO-CNN": {"name": "Cunene"},
+  "AO-HUA": {"name": "Huambo"},
+  "AO-HUI": {"name": "Huíla"},
+  "AO-LUA": {"name": "Luanda"},
+  "AO-LNO": {"name": "Lunda Norte"},
+  "AO-LSU": {"name": "Lunda Sul"},
+  "AO-MAL": {"name": "Malanje"},
+  "AO-MOX": {"name": "Moxico"},
+  "AO-NAM": {"name": "Namibe"},
+  "AO-UIG": {"name": "Uíge"},
+  "AO-ZAI": {"name": "Zaire"}
+}

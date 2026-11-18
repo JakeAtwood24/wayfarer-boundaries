@@ -1,0 +1,16 @@
+{
+  "GR-I": {"name": "Attica"},
+  "GR-H": {"name": "Central Greece"},
+  "GR-B": {"name": "Central Macedonia"},
+  "GR-M": {"name": "Crete"},
+  "GR-A": {"name": "Eastern Macedonia and Thrace"},
+  "GR-D": {"name": "Epirus"},
+  "GR-F": {"name": "Ionian Islands"},
+  "GR-69": {"name": "Mount Athos"},
+  "GR-K": {"name": "North Aegean"},
+  "GR-J": {"name": "Peloponnese"},
+  "GR-L": {"name": "South Aegean"},
+  "GR-E": {"name": "Thessaly"},
+  "GR-G": {"name": "Western Greece"},
+  "GR-C": {"name": "Western Macedonia"}
+}

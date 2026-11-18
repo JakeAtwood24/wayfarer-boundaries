@@ -1,0 +1,14 @@
+{
+  "LU-CA": {"name": "Canton Capellen"},
+  "LU-CL": {"name": "Canton Clervaux"},
+  "LU-DI": {"name": "Canton Diekirch"},
+  "LU-EC": {"name": "Canton Echternach"},
+  "LU-ES": {"name": "Canton Esch-sur-Alzette"},
+  "LU-GR": {"name": "Canton Grevenmacher"},
+  "LU-LU": {"name": "Canton Luxembourg"},
+  "LU-ME": {"name": "Canton Mersch"},
+  "LU-RD": {"name": "Canton Redange"},
+  "LU-RM": {"name": "Canton Remich"},
+  "LU-VD": {"name": "Canton Vianden"},
+  "LU-WI": {"name": "Canton Wiltz"}
+}

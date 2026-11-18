@@ -1,0 +1,15 @@
+{
+  "MR-AD": {"name": "Adrar"},
+  "MR-AS": {"name": "Assaba"},
+  "MR-BR": {"name": "Brakna"},
+  "MR-DN": {"name": "Dakhlet Nouadhibou"},
+  "MR-GO": {"name": "Gorgol"},
+  "MR-GD": {"name": "Guidimaka"},
+  "MR-HC": {"name": "Hodh ech Chargui"},
+  "MR-HG": {"name": "Hodh el Gharbi"},
+  "MR-IN": {"name": "Inchiri"},
+  "MR-NO": {"name": "Nouakchott"},
+  "MR-TG": {"name": "Tagant"},
+  "MR-TZ": {"name": "Tiris Zemmour"},
+  "MR-TR": {"name": "Trarza"}
+}

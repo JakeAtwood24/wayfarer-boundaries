@@ -1,0 +1,19 @@
+{
+  "NZ-AUK": {"name": "Auckland Region"},
+  "NZ-BOP": {"name": "Bay of Plenty Region"},
+  "NZ-CAN": {"name": "Canterbury Region"},
+  "NZ-CIT": {"name": "Chatham Islands Territory"},
+  "NZ-GIS": {"name": "Gisborne Region"},
+  "NZ-HKB": {"name": "Hawke's Bay Region"},
+  "NZ-MWT": {"name": "Manawatu-Wanganui Region"},
+  "NZ-MBH": {"name": "Marlborough Region"},
+  "NZ-NLS": {"name": "Nelson Region"},
+  "NZ-NTL": {"name": "Northland Region"},
+  "NZ-OTA": {"name": "Otago Region"},
+  "NZ-STL": {"name": "Southland Region"},
+  "NZ-TKI": {"name": "Taranaki Region"},
+  "NZ-TAS": {"name": "Tasman Region"},
+  "NZ-WKO": {"name": "Waikato Region"},
+  "NZ-WGN": {"name": "Wellington Region"},
+  "NZ-WTC": {"name": "West Coast Region"}
+}

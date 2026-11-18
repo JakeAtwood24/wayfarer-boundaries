@@ -1,0 +1,18 @@
+{
+  "KZ-AKM": {"name": "Akmola Region"},
+  "KZ-AKT": {"name": "Aktobe Region"},
+  "KZ-ALA": {"name": "Almaty"},
+  "KZ-ALM": {"name": "Almaty Region"},
+  "KZ-AST": {"name": "Astana"},
+  "KZ-ATY": {"name": "Atyrau Region"},
+  "KZ-VOS": {"name": "East Kazakhstan Region"},
+  "KZ-ZHA": {"name": "Jambyl Region"},
+  "KZ-KAR": {"name": "Karaganda Region"},
+  "KZ-KUS": {"name": "Kostanay Region"},
+  "KZ-KZY": {"name": "Kyzylorda Region"},
+  "KZ-MAN": {"name": "Mangystau Region"},
+  "KZ-SEV": {"name": "North Kazakhstan Region"},
+  "KZ-PAV": {"name": "Pavlodar Region"},
+  "KZ-YUZ": {"name": "South Kazakhstan Region"},
+  "KZ-ZAP": {"name": "West Kazakhstan Region"}
+}

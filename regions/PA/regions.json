@@ -1,0 +1,15 @@
+{
+  "PA-3": {"name": "Colón Province"},
+  "PA-EM": {"name": "Comarca Emberá-Wounaan"},
+  "PA-KY": {"name": "Comarca Guna Yala"},
+  "PA-NB": {"name": "Comarca Ngäbe-Buglé"},
+  "PA-1": {"name": "Provincia de Bocas del Toro"},
+  "PA-4": {"name": "Provincia de Chiriquí"},
+  "PA-2": {"name": "Provincia de Coclé"},
+  "PA-5": {"name": "Provincia de Darién"},
+  "PA-6": {"name": "Provincia de Herrera"},
+  "PA-7": {"name": "Provincia de Los Santos"},
+  "PA-8": {"name": "Provincia de Panamá"},
+  "PA-10": {"name": "Provincia de Panamá Oeste"},
+  "PA-9": {"name": "Provincia de Veraguas"}
+}

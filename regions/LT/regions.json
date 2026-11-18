@@ -1,0 +1,12 @@
+{
+  "LT-AL": {"name": "Alytus County"},
+  "LT-KU": {"name": "Kaunas County"},
+  "LT-KL": {"name": "Klaipeda County"},
+  "LT-MR": {"name": "Marijampole County"},
+  "LT-PN": {"name": "Panevezys County"},
+  "LT-SA": {"name": "Siauliai County"},
+  "LT-TA": {"name": "Taurage County"},
+  "LT-TE": {"name": "Telsiai County"},
+  "LT-UT": {"name": "Utena County"},
+  "LT-VL": {"name": "Vilnius County"}
+}

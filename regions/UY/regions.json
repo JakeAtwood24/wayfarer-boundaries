@@ -1,0 +1,21 @@
+{
+  "UY-AR": {"name": "Artigas"},
+  "UY-CA": {"name": "Canelones"},
+  "UY-CL": {"name": "Cerro Largo"},
+  "UY-CO": {"name": "Colonia"},
+  "UY-DU": {"name": "Durazno"},
+  "UY-FS": {"name": "Flores"},
+  "UY-FD": {"name": "Florida"},
+  "UY-LA": {"name": "Lavalleja"},
+  "UY-MA": {"name": "Maldonado"},
+  "UY-MO": {"name": "Montevideo"},
+  "UY-PA": {"name": "Paysandú"},
+  "UY-RV": {"name": "Rivera"},
+  "UY-RO": {"name": "Rocha"},
+  "UY-RN": {"name": "Río Negro"},
+  "UY-SA": {"name": "Salto"},
+  "UY-SJ": {"name": "San José"},
+  "UY-SO": {"name": "Soriano"},
+  "UY-TA": {"name": "Tacuarembó"},
+  "UY-TT": {"name": "Treinta y Tres"}
+}

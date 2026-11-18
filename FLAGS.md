@@ -1,7 +1,8 @@
 # Region flag credits
 
-Flags come from Wikimedia Commons, via Wikidata's "flag image" (P41) for each ISO 3166-2 region.
-Each image keeps its own license, listed below. The PNGs are scaled-down copies of the originals.
+Most flags come from Wikimedia Commons, via Wikidata's "flag image" (P41) for each ISO 3166-2 region;
+others were picked by hand in [regions/](regions/). Each image keeps its own license, listed below.
+The PNGs are scaled-down copies of the originals.
 
 | Region | Code | License | Author | Source |
 |---|---|---|---|---|
@@ -1108,6 +1109,8 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Yaroslavl Oblast | RU-YAR | Public domain | Mikhail Medvedev, Dmitry Ivanov | [Flag of Yaroslavl Oblast.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yaroslavl_Oblast.svg) |
 | Jewish Autonomous Oblast | RU-YEV | Public domain | Manually edited by Philippe Verdy (fr:User:Verdy_p on Wikipedia or verdy_p on Commons) and optimized without using any SVG editor. (this image was originally loaded on Commons in FlagofJewish-Russian. | [Flag of the Jewish Autonomous Oblast.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Jewish_Autonomous_Oblast.svg) |
 | Zabaykalsky Krai | RU-ZAB | Public domain | Unknown authorUnknown author | [Flag of Zabaykalsky Krai.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Zabaykalsky_Krai.svg) |
+| Tabuk Region | SA-07 |  | – |  |
+| 'Asir Region | SA-14 |  | – |  |
 | Central | SB-CE | Public domain | Juergen Krause | [Flag of Central Province Solomon Islands.png](https://commons.wikimedia.org/wiki/File:Flag_of_Central_Province_Solomon_Islands.png) |
 | Choiseul | SB-CH | Public domain | Juergen Krause | [Flag of Choiseul.png](https://commons.wikimedia.org/wiki/File:Flag_of_Choiseul.png) |
 | Capital Territory (Honiara) | SB-CT | Public domain | Raster image: Juergen KrauseVector image: SiBr4 | [Flag of Honiara.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Honiara.svg) |
@@ -1248,6 +1251,7 @@ Each image keeps its own license, listed below. The PNGs are scaled-down copies 
 | Narathiwat Province | TH-96 | Public domain | HaeKN | [Flag of Narathiwat.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Narathiwat.svg) |
 | Oecusse | TL-OE | CC0 | GuterresTL | [Flag of Oecusse.png](https://commons.wikimedia.org/wiki/File:Flag_of_Oecusse.png) |
 | Gafsa | TN-71 | CC0 | GiongUGV | [Flag of Gafsa Governorate.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Gafsa_Governorate.svg) |
+| Hatay | TR-31 |  | – |  |
 | Changhua County | TW-CHA | Public domain | Original: zh:彰化縣政府 Vector:  Akira123 | [Flag of Changhua County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Changhua_County.svg) |
 | Chiayi | TW-CYI | Public domain | 嘉義市政府 Chiayi City Government | [Flag of Chiayi City.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Chiayi_City.svg) |
 | Chiayi County | TW-CYQ | Public domain | 嘉義縣政府 Chiayi County Government | [Flag of Chiayi County.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Chiayi_County.svg) |

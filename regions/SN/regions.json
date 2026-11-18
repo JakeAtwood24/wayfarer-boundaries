@@ -1,0 +1,16 @@
+{
+  "SN-DK": {"name": "Dakar"},
+  "SN-DB": {"name": "Diourbel"},
+  "SN-FK": {"name": "Fatick"},
+  "SN-KA": {"name": "Kaffrine"},
+  "SN-KL": {"name": "Kaolack"},
+  "SN-KE": {"name": "Kedougou"},
+  "SN-KD": {"name": "Kolda"},
+  "SN-LG": {"name": "Louga"},
+  "SN-MT": {"name": "Matam"},
+  "SN-SL": {"name": "Saint Louis"},
+  "SN-SE": {"name": "Sedhiou"},
+  "SN-TC": {"name": "Tambacounda"},
+  "SN-TH": {"name": "Thies"},
+  "SN-ZG": {"name": "Ziguinchor"}
+}

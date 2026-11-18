@@ -1,0 +1,18 @@
+{
+  "CL-XREGIONDE": {"name": "Región de Antofagasta"},
+  "CL-XREGIONDE2": {"name": "Región de Arica y Parinacota"},
+  "CL-XREGIONDE22": {"name": "Región de Atacama"},
+  "CL-XREGIONDE222": {"name": "Región de Aysén del Gral.Ibañez del Campo"},
+  "CL-XREGIONDE2222": {"name": "Región de Coquimbo"},
+  "CL-XREGIONDE22222": {"name": "Región de La Araucanía"},
+  "CL-XREGIONDE222222": {"name": "Región de Los Lagos"},
+  "CL-XREGIONDE2222222": {"name": "Región de Los Ríos"},
+  "CL-XREGIONDE22222222": {"name": "Región de Magallanes y Antártica Chilena"},
+  "CL-XREGIONDE2222222222": {"name": "Región de Tarapacá"},
+  "CL-XREGIONDE22222222222": {"name": "Región de Valparaíso"},
+  "CL-XREGIONDE222222222": {"name": "Región de Ñuble"},
+  "CL-XREGIONDE222222222222": {"name": "Región del Bío-Bío"},
+  "CL-XREGIONDE2222222222222": {"name": "Región del Libertador Bernardo O'Higgins"},
+  "CL-XREGIONDE22222222222222": {"name": "Región del Maule"},
+  "CL-XREGIONME": {"name": "Región Metropolitana de Santiago"}
+}

@@ -1,0 +1,18 @@
+{
+  "PL-WP": {"name": "Greater Poland Voivodeship"},
+  "PL-KP": {"name": "Kuyavian-Pomeranian Voivodeship"},
+  "PL-MA": {"name": "Lesser Poland Voivodeship"},
+  "PL-DS": {"name": "Lower Silesian Voivodeship"},
+  "PL-LU": {"name": "Lublin Voivodeship"},
+  "PL-LB": {"name": "Lubusz Voivodeship"},
+  "PL-MZ": {"name": "Masovian Voivodeship"},
+  "PL-OP": {"name": "Opole Voivodeship"},
+  "PL-PD": {"name": "Podlaskie Voivodeship"},
+  "PL-PM": {"name": "Pomeranian Voivodeship"},
+  "PL-SL": {"name": "Silesian Voivodeship"},
+  "PL-PK": {"name": "Subcarpathian Voivodeship"},
+  "PL-WN": {"name": "Warmian-Masurian Voivodeship"},
+  "PL-ZP": {"name": "West Pomeranian Voivodeship"},
+  "PL-LD": {"name": "Łódź Voivodeship"},
+  "PL-SK": {"name": "Świętokrzyskie Voivodeship"}
+}

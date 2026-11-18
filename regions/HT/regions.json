@@ -1,0 +1,12 @@
+{
+  "HT-AR": {"name": "Artibonite Department"},
+  "HT-CE": {"name": "Centre Department"},
+  "HT-OU": {"name": "Département de l'Ouest"},
+  "HT-GA": {"name": "Département de la Grande-Anse"},
+  "HT-NI": {"name": "Département des Nippes"},
+  "HT-ND": {"name": "Département du Nord"},
+  "HT-SE": {"name": "Département du Sud-Est"},
+  "HT-NE": {"name": "Nord-Est Department"},
+  "HT-NO": {"name": "Nord-Ouest Department"},
+  "HT-SD": {"name": "Sud Department"}
+}

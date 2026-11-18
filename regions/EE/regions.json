@@ -1,0 +1,17 @@
+{
+  "EE-37": {"name": "Harju maakond"},
+  "EE-39": {"name": "Hiiu maakond"},
+  "EE-44": {"name": "Ida-Viru maakond"},
+  "EE-51": {"name": "Järva maakond"},
+  "EE-49": {"name": "Jõgeva maakond"},
+  "EE-57": {"name": "Lääne maakond"},
+  "EE-59": {"name": "Lääne-Viru maakond"},
+  "EE-67": {"name": "Pärnu maakond"},
+  "EE-65": {"name": "Põlva maakond"},
+  "EE-70": {"name": "Rapla maakond"},
+  "EE-74": {"name": "Saare maakond"},
+  "EE-78": {"name": "Tartu maakond"},
+  "EE-82": {"name": "Valga maakond"},
+  "EE-84": {"name": "Viljandi maakond"},
+  "EE-86": {"name": "Võru maakond"}
+}

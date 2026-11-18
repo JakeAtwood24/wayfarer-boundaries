@@ -1,0 +1,16 @@
+{
+  "SY-XALHASAKE": {"name": "Al-Hasakeh"},
+  "SY-XALEPPO": {"name": "Aleppo"},
+  "SY-XARRAQQA": {"name": "Ar-Raqqa"},
+  "SY-XASSWEIDA": {"name": "As-Sweida"},
+  "SY-XDAMASCUS": {"name": "Damascus"},
+  "SY-XDARA": {"name": "Dar'a"},
+  "SY-XDEIREZZO": {"name": "Deir-ez-Zor"},
+  "SY-XHAMA": {"name": "Hama"},
+  "SY-XHOMS": {"name": "Homs"},
+  "SY-XIDLEB": {"name": "Idleb"},
+  "SY-XLATTAKIA": {"name": "Lattakia"},
+  "SY-XQUNEITRA": {"name": "Quneitra"},
+  "SY-XRURALDAM": {"name": "Rural Damascus"},
+  "SY-XTARTOUS": {"name": "Tartous"}
+}

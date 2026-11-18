@@ -1,0 +1,15 @@
+{
+  "CA-AB": {"name": "Alberta"},
+  "CA-BC": {"name": "British Columbia"},
+  "CA-MB": {"name": "Manitoba"},
+  "CA-NB": {"name": "New Brunswick"},
+  "CA-NL": {"name": "Newfoundland and Labrador"},
+  "CA-NT": {"name": "Northwest Territories"},
+  "CA-NS": {"name": "Nova Scotia"},
+  "CA-NU": {"name": "Nunavut"},
+  "CA-ON": {"name": "Ontario"},
+  "CA-PE": {"name": "Prince Edward Island"},
+  "CA-QB": {"name": "Quebec"},
+  "CA-SK": {"name": "Saskatchewan"},
+  "CA-YT": {"name": "Yukon"}
+}

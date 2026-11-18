@@ -1,0 +1,16 @@
+{
+  "NA-CA": {"name": "Caprivi"},
+  "NA-XCUNENE": {"name": "Cunene"},
+  "NA-ER": {"name": "Erongo"},
+  "NA-HA": {"name": "Hardap"},
+  "NA-KA": {"name": "Karas"},
+  "NA-OK": {"name": "Kavango"},
+  "NA-KH": {"name": "Khomas"},
+  "NA-KU": {"name": "Kunene"},
+  "NA-OW": {"name": "Ohangwena"},
+  "NA-OH": {"name": "Omaheke"},
+  "NA-OS": {"name": "Omusati"},
+  "NA-ON": {"name": "Oshana"},
+  "NA-OT": {"name": "Oshikoto"},
+  "NA-OD": {"name": "Otjozondjupa"}
+}

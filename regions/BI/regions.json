@@ -1,0 +1,20 @@
+{
+  "BI-BB": {"name": "Bubanza"},
+  "BI-BM": {"name": "Bujumbura Mairie"},
+  "BI-BL": {"name": "Bujumbura Rural"},
+  "BI-BR": {"name": "Bururi"},
+  "BI-CA": {"name": "Cankuzo"},
+  "BI-CI": {"name": "Cibitoke"},
+  "BI-GI": {"name": "Gitega"},
+  "BI-KR": {"name": "Karuzi"},
+  "BI-KY": {"name": "Kayanza"},
+  "BI-KI": {"name": "Kirundo"},
+  "BI-MA": {"name": "Makamba"},
+  "BI-MU": {"name": "Muramvya"},
+  "BI-MY": {"name": "Muyinga"},
+  "BI-MW": {"name": "Mwaro"},
+  "BI-NG": {"name": "Ngozi"},
+  "BI-RM": {"name": "Rumonge"},
+  "BI-RT": {"name": "Rutana"},
+  "BI-RY": {"name": "Ruyigi"}
+}

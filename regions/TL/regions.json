@@ -1,0 +1,15 @@
+{
+  "TL-AL": {"name": "Aileu"},
+  "TL-AN": {"name": "Ainaro"},
+  "TL-BA": {"name": "Baucau"},
+  "TL-BO": {"name": "Bobonaro"},
+  "TL-CO": {"name": "Cova Lima"},
+  "TL-DI": {"name": "Dili"},
+  "TL-ER": {"name": "Ermera"},
+  "TL-LA": {"name": "Lautém"},
+  "TL-LI": {"name": "Liquiçá"},
+  "TL-MT": {"name": "Manatuto"},
+  "TL-MF": {"name": "Manufahi"},
+  "TL-OE": {"name": "Oecusse"},
+  "TL-VI": {"name": "Viqueque"}
+}

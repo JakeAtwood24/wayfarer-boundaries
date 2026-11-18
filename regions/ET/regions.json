@@ -1,0 +1,13 @@
+{
+  "ET-AA": {"name": "Addis Ababa"},
+  "ET-AF": {"name": "Afar"},
+  "ET-AM": {"name": "Amhara"},
+  "ET-BE": {"name": "Beneshangul Gumu"},
+  "ET-DD": {"name": "Dire Dawa"},
+  "ET-GA": {"name": "Gambela"},
+  "ET-HA": {"name": "Hareri"},
+  "ET-OR": {"name": "Oromia"},
+  "ET-SN": {"name": "SNNPR"},
+  "ET-SO": {"name": "Somali"},
+  "ET-TI": {"name": "Tigray"}
+}

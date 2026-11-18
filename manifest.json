@@ -2028,6 +2028,13 @@
    "v": 1
   }
  },
+ "names": {
+  "bytes": 53,
+  "count": 2,
+  "file": "names.json",
+  "sha256": "55cf857c962d35ed86f9294a05c141ac869a75f166e1fc3b99a0ca3bb5f72b87",
+  "v": 1
+ },
  "source": "geoBoundaries (www.geoboundaries.org)",
  "version": 1
 }

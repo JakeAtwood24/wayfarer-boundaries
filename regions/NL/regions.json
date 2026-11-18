@@ -1,0 +1,14 @@
+{
+  "NL-DR": {"name": "Drenthe"},
+  "NL-FL": {"name": "Flevoland"},
+  "NL-FR": {"name": "Fryslân"},
+  "NL-GE": {"name": "Gelderland"},
+  "NL-GR": {"name": "Groningen"},
+  "NL-LI": {"name": "Limburg"},
+  "NL-NB": {"name": "Noord-Brabant"},
+  "NL-NH": {"name": "Noord-Holland"},
+  "NL-OV": {"name": "Overijssel"},
+  "NL-UT": {"name": "Utrecht"},
+  "NL-ZE": {"name": "Zeeland"},
+  "NL-ZH": {"name": "Zuid-Holland"}
+}

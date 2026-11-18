@@ -1,0 +1,20 @@
+{
+  "LA-AT": {"name": "Attapeu"},
+  "LA-BK": {"name": "Bokeo"},
+  "LA-BL": {"name": "Bolikhamsai"},
+  "LA-CH": {"name": "Champasak"},
+  "LA-HO": {"name": "Houaphan"},
+  "LA-KH": {"name": "Khammouane"},
+  "LA-LM": {"name": "Luang Namtha"},
+  "LA-LP": {"name": "Luang Prabang"},
+  "LA-OU": {"name": "Oudomxay"},
+  "LA-PH": {"name": "Phongsaly"},
+  "LA-SL": {"name": "Salavan"},
+  "LA-SV": {"name": "Savannakhet"},
+  "LA-VI": {"name": "Vientiane"},
+  "LA-VT": {"name": "Vientiane Capital"},
+  "LA-XA": {"name": "Xaignabouli"},
+  "LA-XN": {"name": "Xaisomboun"},
+  "LA-XE": {"name": "Xekong"},
+  "LA-XI": {"name": "Xiangkhouang"}
+}

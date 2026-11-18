@@ -1,0 +1,14 @@
+{
+  "MA-05": {"name": "Béni Mellal-Khénifra"},
+  "MA-06": {"name": "Casablanca-Settat"},
+  "MA-12": {"name": "Dakhla-Oued Ed-Dahab"},
+  "MA-08": {"name": "Drâa-Tafilalet"},
+  "MA-03": {"name": "Fez-Meknes"},
+  "MA-10": {"name": "Guelmim-Oued Noun"},
+  "MA-11": {"name": "Laâyoune-Sakia El Hamra"},
+  "MA-07": {"name": "Marrakech-Safi"},
+  "MA-02": {"name": "Oriental"},
+  "MA-04": {"name": "Rabat-Salé-Kenitra"},
+  "MA-09": {"name": "Souss-Massa"},
+  "MA-01": {"name": "Tangier-Tetouan-Al Hoceima"}
+}

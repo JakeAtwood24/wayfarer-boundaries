@@ -1,0 +1,10 @@
+{
+  "IS-1": {"name": "Capital Region"},
+  "IS-7": {"name": "Eastern Region"},
+  "IS-6": {"name": "Northeastern Region"},
+  "IS-5": {"name": "Northwestern Region"},
+  "IS-2": {"name": "Southern Peninsula"},
+  "IS-8": {"name": "Southern Region"},
+  "IS-3": {"name": "Western Region"},
+  "IS-4": {"name": "Westfjords"}
+}

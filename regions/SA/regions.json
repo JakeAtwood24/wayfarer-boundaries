@@ -1,0 +1,15 @@
+{
+  "SA-14": {"name": "'Asir Region"},
+  "SA-11": {"name": "Al Bahah Region"},
+  "SA-12": {"name": "Al Jawf Region"},
+  "SA-03": {"name": "Al Madinah Region"},
+  "SA-05": {"name": "Al-Qassim Region"},
+  "SA-04": {"name": "Eastern Region"},
+  "SA-06": {"name": "Hayel Region"},
+  "SA-09": {"name": "Jazan Region"},
+  "SA-02": {"name": "Makkah Region"},
+  "SA-10": {"name": "Najran Region"},
+  "SA-08": {"name": "Northern Borders Region"},
+  "SA-01": {"name": "Riyadh Region"},
+  "SA-07": {"name": "Tabuk Region"}
+}

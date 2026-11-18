@@ -1,0 +1,7 @@
+{
+  "TG-C": {"name": "Centrale Region"},
+  "TG-K": {"name": "Kara Region"},
+  "TG-M": {"name": "Maritime Region"},
+  "TG-P": {"name": "Plateaux Region"},
+  "TG-S": {"name": "Savanes Region"}
+}

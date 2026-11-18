@@ -1,0 +1,20 @@
+{
+  "FR-ARA": {"name": "Auvergne-Rhône-Alpes"},
+  "FR-BFC": {"name": "Bourgogne-Franche-Comté"},
+  "FR-BRE": {"name": "Bretagne"},
+  "FR-CVL": {"name": "Centre-Val de Loire"},
+  "FR-20R": {"name": "Corse"},
+  "FR-GES": {"name": "Grand Est"},
+  "FR-971": {"name": "Guadeloupe"},
+  "FR-973": {"name": "Guyane"},
+  "FR-HDF": {"name": "Hauts-de-France"},
+  "FR-974": {"name": "La Réunion"},
+  "FR-972": {"name": "Martinique"},
+  "FR-976": {"name": "Mayotte"},
+  "FR-NOR": {"name": "Normandie"},
+  "FR-NAQ": {"name": "Nouvelle-Aquitaine"},
+  "FR-OCC": {"name": "Occitanie"},
+  "FR-PDL": {"name": "Pays de la Loire"},
+  "FR-PAC": {"name": "Provence-Alpes-Côte d'Azur"},
+  "FR-IDF": {"name": "Île-de-France"}
+}

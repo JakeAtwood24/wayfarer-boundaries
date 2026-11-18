@@ -1,0 +1,14 @@
+{
+  "MU-AG": {"name": "Agaléga"},
+  "MU-BL": {"name": "Black River"},
+  "MU-FL": {"name": "Flacq"},
+  "MU-GP": {"name": "Grand Port"},
+  "MU-MO": {"name": "Moka"},
+  "MU-PA": {"name": "Pamplemousses"},
+  "MU-PW": {"name": "Plaines Wilhems"},
+  "MU-PU": {"name": "Port Louis"},
+  "MU-RR": {"name": "Rivière du Rempart"},
+  "MU-RO": {"name": "Rodrigues"},
+  "MU-SA": {"name": "Savanne"},
+  "MU-CC": {"name": "St. Brandon"}
+}

@@ -1,0 +1,22 @@
+{
+  "PT-01": {"name": "Aveiro"},
+  "PT-02": {"name": "Beja"},
+  "PT-03": {"name": "Braga"},
+  "PT-04": {"name": "Bragança"},
+  "PT-05": {"name": "Castelo Branco"},
+  "PT-06": {"name": "Coimbra"},
+  "PT-08": {"name": "Faro"},
+  "PT-09": {"name": "Guarda"},
+  "PT-10": {"name": "Leiria"},
+  "PT-11": {"name": "Lisboa"},
+  "PT-12": {"name": "Portalegre"},
+  "PT-13": {"name": "Porto"},
+  "PT-30": {"name": "Região Autónoma da Madeira"},
+  "PT-20": {"name": "Região Autónoma dos Açores"},
+  "PT-14": {"name": "Santarém"},
+  "PT-15": {"name": "Setúbal"},
+  "PT-16": {"name": "Viana do Castelo"},
+  "PT-17": {"name": "Vila Real"},
+  "PT-18": {"name": "Viseu"},
+  "PT-07": {"name": "Évora"}
+}

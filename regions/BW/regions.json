@@ -1,0 +1,12 @@
+{
+  "BW-CE": {"name": "Central District"},
+  "BW-CH": {"name": "Chobe District"},
+  "BW-GH": {"name": "Ghanzi District"},
+  "BW-KG": {"name": "Kgalagadi District"},
+  "BW-KL": {"name": "Kgatleng District"},
+  "BW-KW": {"name": "Kweneng District"},
+  "BW-NE": {"name": "North-East District"},
+  "BW-NW": {"name": "North-West District"},
+  "BW-SE": {"name": "South-East District"},
+  "BW-SO": {"name": "Southern District"}
+}

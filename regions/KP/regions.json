@@ -1,0 +1,13 @@
+{
+  "KP-XJAGANG": {"name": "Jagang"},
+  "KP-XKANGWON": {"name": "Kangwon"},
+  "KP-XNAMPO": {"name": "Nampo"},
+  "KP-XNORTHHAM": {"name": "North Hamgyong"},
+  "KP-XNORTHHWA": {"name": "North Hwanghae"},
+  "KP-XNORTHPYO": {"name": "North Pyongan"},
+  "KP-XPYONGYAN": {"name": "Pyongyang"},
+  "KP-XRYANGGAN": {"name": "Ryanggang"},
+  "KP-XSOUTHHAM": {"name": "South Hamgyong"},
+  "KP-XSOUTHHWA": {"name": "South Hwanghae"},
+  "KP-XSOUTHPYO": {"name": "South Pyongan"}
+}

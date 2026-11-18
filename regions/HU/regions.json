@@ -1,0 +1,21 @@
+{
+  "HU-BA": {"name": "Baranya"},
+  "HU-BZ": {"name": "Borsod-Abaúj-Zemplén"},
+  "HU-BK": {"name": "Bács-Kiskun"},
+  "HU-BE": {"name": "Békés"},
+  "HU-CS": {"name": "Csongrád-Csanád"},
+  "HU-FE": {"name": "Fejér"},
+  "HU-GS": {"name": "Győr-Moson-Sopron"},
+  "HU-HB": {"name": "Hajdú-Bihar"},
+  "HU-HE": {"name": "Heves"},
+  "HU-JN": {"name": "Jász-Nagykun-Szolnok"},
+  "HU-KE": {"name": "Komárom-Esztergom"},
+  "HU-NO": {"name": "Nógrád"},
+  "HU-PE": {"name": "Pest"},
+  "HU-SO": {"name": "Somogy"},
+  "HU-SZ": {"name": "Szabolcs-Szatmár-Bereg"},
+  "HU-TO": {"name": "Tolna"},
+  "HU-VA": {"name": "Vas"},
+  "HU-VE": {"name": "Veszprém"},
+  "HU-ZA": {"name": "Zala"}
+}

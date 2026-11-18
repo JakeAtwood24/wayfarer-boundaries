@@ -1,0 +1,11 @@
+{
+  "ZA-EC": {"name": "Eastern Cape"},
+  "ZA-FS": {"name": "Free State"},
+  "ZA-GT": {"name": "Gauteng"},
+  "ZA-KZ": {"name": "KwaZulu-Natal"},
+  "ZA-LI": {"name": "Limpopo"},
+  "ZA-MP": {"name": "Mpumalanga"},
+  "ZA-NW": {"name": "North West"},
+  "ZA-NC": {"name": "Northern Cape"},
+  "ZA-WC": {"name": "Western Cape"}
+}

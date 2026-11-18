@@ -1,0 +1,16 @@
+{
+  "UZ-AN": {"name": "Andijan Region"},
+  "UZ-BU": {"name": "Bukhara Region"},
+  "UZ-FA": {"name": "Fergana Region"},
+  "UZ-JI": {"name": "Jizzakh Region"},
+  "UZ-NG": {"name": "Namangan Region"},
+  "UZ-NW": {"name": "Navoiy Region"},
+  "UZ-QA": {"name": "Qashqadaryo Region"},
+  "UZ-QR": {"name": "Republic of Karakalpakstan"},
+  "UZ-SA": {"name": "Samarqand Region"},
+  "UZ-SI": {"name": "Sirdaryo Region"},
+  "UZ-SU": {"name": "Surxondaryo Region"},
+  "UZ-TK": {"name": "Tashkent"},
+  "UZ-TO": {"name": "Tashkent Region"},
+  "UZ-XO": {"name": "Xorazm Region"}
+}

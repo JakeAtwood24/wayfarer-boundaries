@@ -1,0 +1,16 @@
+{
+  "CI-XBASSASSA": {"name": "Bas-Sassandra"},
+  "CI-XCOMOE": {"name": "Comoe"},
+  "CI-XDENGUELE": {"name": "Denguele"},
+  "CI-XDISTRICT": {"name": "District Autonome D'Abidjan"},
+  "CI-XDISTRICT2": {"name": "District Autonome De Yamoussoukro"},
+  "CI-XGOHDJIBO": {"name": "Goh-Djiboua"},
+  "CI-XLACS": {"name": "Lacs"},
+  "CI-XLAGUNES": {"name": "Lagunes"},
+  "CI-XMONTAGNE": {"name": "Montagnes"},
+  "CI-XSASSANDR": {"name": "Sassandra-Marahoue"},
+  "CI-XSAVANES": {"name": "Savanes"},
+  "CI-XVALLEDUB": {"name": "Valle Du Bandama"},
+  "CI-XWOROBA": {"name": "Woroba"},
+  "CI-XZANZAN": {"name": "Zanzan"}
+}

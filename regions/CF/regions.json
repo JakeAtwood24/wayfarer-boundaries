@@ -1,0 +1,19 @@
+{
+  "CF-BB": {"name": "Bamingui-Bangoran"},
+  "CF-BGF": {"name": "Bangui"},
+  "CF-BK": {"name": "Basse-Kotto"},
+  "CF-HM": {"name": "Haut-Mbomou"},
+  "CF-HK": {"name": "Haute-Kotto"},
+  "CF-KG": {"name": "Kémo"},
+  "CF-LB": {"name": "Lobaye"},
+  "CF-HS2": {"name": "Mambéré-Kadéï"},
+  "CF-MB": {"name": "Mbomou"},
+  "CF-KB": {"name": "Nana-Grébizi"},
+  "CF-NM": {"name": "Nana-Mambéré"},
+  "CF-MP": {"name": "Ombella-M'Poko"},
+  "CF-UK": {"name": "Ouaka"},
+  "CF-AC": {"name": "Ouham"},
+  "CF-XOUHAMPEN": {"name": "Ouham-Pendé"},
+  "CF-HS": {"name": "Sangha-Mbaéré"},
+  "CF-VK": {"name": "Vakaga"}
+}

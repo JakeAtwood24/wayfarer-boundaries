@@ -1,0 +1,19 @@
+{
+  "KR-26": {"name": "Busan"},
+  "KR-27": {"name": "Daegu"},
+  "KR-30": {"name": "Daejeon"},
+  "KR-42": {"name": "Gangwon"},
+  "KR-29": {"name": "Gwangju"},
+  "KR-41": {"name": "Gyeonggi"},
+  "KR-28": {"name": "Incheon"},
+  "KR-49": {"name": "Jeju"},
+  "KR-43": {"name": "North Chungcheong"},
+  "KR-47": {"name": "North Gyeongsang"},
+  "KR-45": {"name": "North Jeolla"},
+  "KR-50": {"name": "Sejong"},
+  "KR-11": {"name": "Seoul"},
+  "KR-44": {"name": "South Chungcheong"},
+  "KR-48": {"name": "South Gyeongsang"},
+  "KR-46": {"name": "South Jeolla"},
+  "KR-31": {"name": "Ulsan"}
+}

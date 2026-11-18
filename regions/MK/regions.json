@@ -1,0 +1,10 @@
+{
+  "MK-XEAST": {"name": "East"},
+  "MK-XNORTHEAS": {"name": "Northeast"},
+  "MK-XPELAGONI": {"name": "Pelagonia"},
+  "MK-XPOLOG": {"name": "Polog"},
+  "MK-XSKOPJE": {"name": "Skopje"},
+  "MK-XSOUTHEAS": {"name": "Southeast"},
+  "MK-XSOUTHWES": {"name": "Southwest"},
+  "MK-XVARDAR": {"name": "Vardar"}
+}

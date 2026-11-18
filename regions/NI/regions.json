@@ -1,0 +1,19 @@
+{
+  "NI-BO": {"name": "Boaco"},
+  "NI-CA": {"name": "Carazo"},
+  "NI-CI": {"name": "Chinandega"},
+  "NI-CO": {"name": "Chontales"},
+  "NI-ES": {"name": "Estelí"},
+  "NI-GR": {"name": "Granada"},
+  "NI-JI": {"name": "Jinotega (Departamento)"},
+  "NI-LE": {"name": "Leon"},
+  "NI-MD": {"name": "Madriz"},
+  "NI-MN": {"name": "Managua"},
+  "NI-MS": {"name": "Masaya"},
+  "NI-MT": {"name": "Matagalpa (Departemento)"},
+  "NI-AN": {"name": "North Carribean Coast Autonomous Region"},
+  "NI-NS": {"name": "Nueva Segovia"},
+  "NI-SJ": {"name": "Rio San Juan"},
+  "NI-RI": {"name": "Rivas"},
+  "NI-AS": {"name": "South Atlantic Autonomous Region"}
+}

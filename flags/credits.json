@@ -7720,6 +7720,12 @@
   "name": "Zabaykalsky Krai",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Zabaykalsky_Krai.svg"
  },
+ "SA-07": {
+  "name": "Tabuk Region"
+ },
+ "SA-14": {
+  "name": "'Asir Region"
+ },
  "SB-CE": {
   "author": "Juergen Krause",
   "file": "Flag of Central Province Solomon Islands.png",
@@ -8699,6 +8705,9 @@
   "license": "CC0",
   "name": "Gafsa",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Gafsa_Governorate.svg"
+ },
+ "TR-31": {
+  "name": "Hatay"
  },
  "TW-CHA": {
   "author": "Original: zh:彰化縣政府 Vector:  Akira123",

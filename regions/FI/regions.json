@@ -1,0 +1,20 @@
+{
+  "FI-08": {"name": "Central Finland"},
+  "FI-19": {"name": "Finland Proper"},
+  "FI-05": {"name": "Kainuu"},
+  "FI-07": {"name": "Keski-Pohjanmaa"},
+  "FI-09": {"name": "Kymenlaakso"},
+  "FI-10": {"name": "Lapland"},
+  "FI-13": {"name": "North Karelia"},
+  "FI-14": {"name": "Northern Ostrobothnia"},
+  "FI-15": {"name": "Northern Savonia"},
+  "FI-12": {"name": "Ostrobothnia"},
+  "FI-11": {"name": "Pirkanmaa"},
+  "FI-16": {"name": "Päijät-Häme"},
+  "FI-17": {"name": "Satakunta"},
+  "FI-02": {"name": "South Karelia"},
+  "FI-03": {"name": "South Ostrobothnia"},
+  "FI-04": {"name": "Southern Savonia"},
+  "FI-06": {"name": "Tavastia Proper"},
+  "FI-18": {"name": "Uusimaa"}
+}

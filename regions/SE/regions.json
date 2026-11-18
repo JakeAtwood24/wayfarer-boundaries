@@ -1,0 +1,23 @@
+{
+  "SE-K": {"name": "Blekinge län"},
+  "SE-W": {"name": "Dalarnas län"},
+  "SE-I": {"name": "Gotlands län"},
+  "SE-X": {"name": "Gävleborgs län"},
+  "SE-N": {"name": "Hallands län"},
+  "SE-Z": {"name": "Jämtlands län"},
+  "SE-F": {"name": "Jönköpings län"},
+  "SE-H": {"name": "Kalmar län"},
+  "SE-G": {"name": "Kronobergs län"},
+  "SE-BD": {"name": "Norrbottens län"},
+  "SE-M": {"name": "Skåne län"},
+  "SE-AB": {"name": "Stockholms län"},
+  "SE-D": {"name": "Södermanlands län"},
+  "SE-C": {"name": "Uppsala län"},
+  "SE-S": {"name": "Värmlands län"},
+  "SE-AC": {"name": "Västerbottens län"},
+  "SE-Y": {"name": "Västernorrlands län"},
+  "SE-U": {"name": "Västmanlands län"},
+  "SE-O": {"name": "Västra Götalands län"},
+  "SE-T": {"name": "Örebro län"},
+  "SE-E": {"name": "Östergötlands län"}
+}

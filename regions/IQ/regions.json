@@ -1,0 +1,20 @@
+{
+  "IQ-AN": {"name": "Al-Anbar"},
+  "IQ-BA": {"name": "Al-Basrah"},
+  "IQ-MU": {"name": "Al-Muthanna"},
+  "IQ-QA": {"name": "Al-Qadisiyah"},
+  "IQ-SU": {"name": "Al-Sulaimaniyah"},
+  "IQ-NA": {"name": "An-Najaf"},
+  "IQ-BB": {"name": "Babil"},
+  "IQ-BG": {"name": "Baghdad"},
+  "IQ-DQ": {"name": "Dhi Qar"},
+  "IQ-DI": {"name": "Diyala"},
+  "IQ-DA": {"name": "Dohuk"},
+  "IQ-AR": {"name": "Erbil"},
+  "IQ-KA": {"name": "Karbala"},
+  "IQ-KI": {"name": "Kirkuk"},
+  "IQ-MA": {"name": "Maysan"},
+  "IQ-NI": {"name": "Ninawa"},
+  "IQ-SD": {"name": "Salah al-Din"},
+  "IQ-WA": {"name": "Wasit"}
+}

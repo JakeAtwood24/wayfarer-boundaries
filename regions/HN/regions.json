@@ -1,0 +1,20 @@
+{
+  "HN-AT": {"name": "Atlántida"},
+  "HN-IB": {"name": "Bay Islands"},
+  "HN-CH": {"name": "Choluteca"},
+  "HN-CL": {"name": "Colón"},
+  "HN-CM": {"name": "Comayagua"},
+  "HN-CP": {"name": "Copán"},
+  "HN-CR": {"name": "Cortés"},
+  "HN-EP": {"name": "El Paraíso"},
+  "HN-FM": {"name": "Francisco Morazán"},
+  "HN-GD": {"name": "Gracias a Dios"},
+  "HN-IN": {"name": "Intibucá"},
+  "HN-LP": {"name": "La Paz"},
+  "HN-LE": {"name": "Lempira"},
+  "HN-OC": {"name": "Ocotepeque"},
+  "HN-OL": {"name": "Olancho"},
+  "HN-SB": {"name": "Santa Bárbara"},
+  "HN-VA": {"name": "Valle"},
+  "HN-YO": {"name": "Yoro"}
+}

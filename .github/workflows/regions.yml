@@ -1,0 +1,70 @@
+# Rebuilds region flags and names whenever regions/ changes, and commits the
+# result (flags/, names.json, manifest.json, FLAGS.md, status pages) so GitHub
+# Pages publishes it. See regions/README.md.
+name: Build regions
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "regions/**"
+      - "build/base-names.json"
+      - "build/auto-flags/**"
+      - "build/auto-credits.json"
+      - "tools/build_regions.py"
+      - "tools/regions-guide.md"
+      - ".github/workflows/regions.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-regions
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install image tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq librsvg2-bin
+          pip install --quiet pillow==11.0.0
+
+      - name: Build flags and names
+        id: build
+        # Exit 2 = some entries had problems but everything else was built (publish it);
+        # anything else is a crash (publish nothing).
+        run: |
+          set +e
+          python3 tools/build_regions.py
+          code=$?
+          set -e
+          if [ "$code" -eq 2 ]; then echo "problems=1" >> "$GITHUB_OUTPUT"; elif [ "$code" -ne 0 ]; then exit "$code"; fi
+
+      - name: Publish
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Rebuild region flags and names"
+            git pull --rebase --quiet
+            git push
+          fi
+
+      - name: Report problems
+        if: steps.build.outputs.problems == '1'
+        run: |
+          echo "::error::Some entries in regions/ have problems. Everything else was published; see the warnings above or the country's README."
+          exit 1

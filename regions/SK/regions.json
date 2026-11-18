@@ -1,0 +1,10 @@
+{
+  "SK-BC": {"name": "Region of Banská Bystrica"},
+  "SK-BL": {"name": "Region of Bratislava"},
+  "SK-KI": {"name": "Region of Košice"},
+  "SK-NI": {"name": "Region of Nitra"},
+  "SK-PV": {"name": "Region of Prešov"},
+  "SK-TC": {"name": "Region of Trenčín"},
+  "SK-TA": {"name": "Region of Trnava"},
+  "SK-ZI": {"name": "Region of Žilina"}
+}

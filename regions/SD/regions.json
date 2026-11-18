@@ -1,0 +1,21 @@
+{
+  "SD-XABYEIPCA": {"name": "Abyei PCA"},
+  "SD-NB": {"name": "Blue Nile"},
+  "SD-DC": {"name": "Central Darfur"},
+  "SD-DE": {"name": "East Darfur"},
+  "SD-GD": {"name": "Gedaref"},
+  "SD-GZ": {"name": "Gezira"},
+  "SD-KA": {"name": "Kassala"},
+  "SD-KH": {"name": "Khartoum"},
+  "SD-DN": {"name": "North Darfur"},
+  "SD-KN": {"name": "North Kordofan"},
+  "SD-NO": {"name": "Northern"},
+  "SD-RS": {"name": "Red Sea"},
+  "SD-NR": {"name": "River Nile"},
+  "SD-SI": {"name": "Sennar"},
+  "SD-DS": {"name": "South Darfur"},
+  "SD-KS": {"name": "South Kordofan"},
+  "SD-DW": {"name": "West Darfur"},
+  "SD-GK": {"name": "West Kordofan"},
+  "SD-NW": {"name": "White Nile"}
+}
