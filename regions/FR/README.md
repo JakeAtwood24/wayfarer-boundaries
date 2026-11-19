@@ -26,4 +26,4 @@ This page is rebuilt automatically, so don't edit it.
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_R%C3%A9gion_Occitanie_Perpiny%C3%A0_variation.svg?width=48" height="20"> | `FR-OCC` | Occitanie | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Pays_de_la_Loire.svg?width=48" height="20"> | `FR-PDL` | Pays de la Loire | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg?width=48" height="20"> | `FR-PAC` | Provence-Alpes-Côte d'Azur | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/File:Cultural_flag_of_%C3%8Ele-de-France.svg#/media/File:Cultural_flag_of_%C3%8Ele-de-France.svg?width=48" height="20"> | `FR-IDF` | Île-de-France | Automatic (Wikidata) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/IDF_flag.svg?width=48" height="20"> | `FR-IDF` | Île-de-France | Automatic (Wikidata) |
