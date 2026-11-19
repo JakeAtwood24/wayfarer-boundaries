@@ -25,7 +25,9 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    # Pinned: ubuntu-latest moved to 26.04, which has no librsvg2-bin (rsvg-convert,
+    # used for uploaded SVG flags).
+    runs-on: ubuntu-24.04
     steps:
       - uses: actions/checkout@v4
 
