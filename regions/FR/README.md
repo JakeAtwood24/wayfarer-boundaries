@@ -15,15 +15,15 @@ This page is rebuilt automatically, so don't edit it.
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Centre-Val_de_Loire.svg?width=48" height="20"> | `FR-CVL` | Centre-Val de Loire | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Corsica.svg?width=48" height="20"> | `FR-20R` | Corse | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Grand_Est_%282022-present%29.svg?width=48" height="20"> | `FR-GES` | Grand Est | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_France.svg?width=48" height="20"> | `FR-971` | Guadeloupe | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_France.svg?width=48" height="20"> | `FR-973` | Guyane | Automatic (Wikidata) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Unofficial_flag_of_Guadeloupe_%28local%29.svg?width=48" height="20"> | `FR-971` | Guadeloupe | Your pick (Commons) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_French_Guiana.svg?width=48" height="20"> | `FR-973` | Guyane | Your pick (Commons) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_Region_of_Hauts-de-France.svg?width=48" height="20"> | `FR-HDF` | Hauts-de-France | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_France.svg?width=48" height="20"> | `FR-974` | La Réunion | Automatic (Wikidata) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_R%C3%A9union_%28unofficial%29.svg?width=48" height="20"> | `FR-974` | La Réunion | Your pick (Commons) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag-of-Martinique.svg?width=48" height="20"> | `FR-972` | Martinique | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Mayotte_%28Local%29.svg?width=48" height="20"> | `FR-976` | Mayotte | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Normandie.svg?width=48" height="20"> | `FR-NOR` | Normandie | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Nouvelle-Aquitaine.svg?width=48" height="20"> | `FR-NAQ` | Nouvelle-Aquitaine | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_R%C3%A9gion_Occitanie_Perpiny%C3%A0_variation.svg?width=48" height="20"> | `FR-OCC` | Occitanie | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Pays_de_la_Loire.svg?width=48" height="20"> | `FR-PDL` | Pays de la Loire | Automatic (Wikidata) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_R%C3%A9gion_Occitanie_%28symbol_only%29.svg?width=48" height="20"> | `FR-OCC` | Occitanie | Your pick (Commons) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cultural_flag_of_Pays-de-la-Loire.svg?width=48" height="20"> | `FR-PDL` | Pays de la Loire | Your pick (Commons) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg?width=48" height="20"> | `FR-PAC` | Provence-Alpes-Côte d'Azur | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/IDF_flag.svg?width=48" height="20"> | `FR-IDF` | Île-de-France | Automatic (Wikidata) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Cultural_flag_of_%C3%8Ele-de-France.svg?width=48" height="20"> | `FR-IDF` | Île-de-France | Your pick (Commons) |

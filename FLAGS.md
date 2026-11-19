@@ -343,10 +343,10 @@ The PNGs are scaled-down copies of the originals.
 | Chuuk | FM-TRK | CC BY-SA 3.0 | Froztbyte, & others | [Flag of Chuuk.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Chuuk.svg) |
 | Yap | FM-YAP | Public domain | – | [Flag of Yap.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yap.svg) |
 | Corse | FR-20R | CC0 | Patricia.fidi | [Flag of Corsica.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Corsica.svg) |
-| Guadeloupe | FR-971 | Public domain | Original: Unknown Vector:  SKopp | [Flag of France.svg](https://commons.wikimedia.org/wiki/File:Flag_of_France.svg) |
+| Guadeloupe | FR-971 | Public domain | drawing by Pierre Gay, uploader User:Denelson83 | [Unofficial flag of Guadeloupe (local).svg](https://commons.wikimedia.org/wiki/File:Unofficial_flag_of_Guadeloupe_(local).svg) |
 | Martinique | FR-972 | Public domain | User:MapGrid/User:HapHaxion/User:Femfem5/User:Triton, based on work by User:Carport | [Flag-of-Martinique.svg](https://commons.wikimedia.org/wiki/File:Flag-of-Martinique.svg) |
-| Guyane | FR-973 | Public domain | Original: Unknown Vector:  SKopp | [Flag of France.svg](https://commons.wikimedia.org/wiki/File:Flag_of_France.svg) |
-| La Réunion | FR-974 | Public domain | Original: Unknown Vector:  SKopp | [Flag of France.svg](https://commons.wikimedia.org/wiki/File:Flag_of_France.svg) |
+| Guyane | FR-973 | Public domain | Madden | [Flag of French Guiana.svg](https://commons.wikimedia.org/wiki/File:Flag_of_French_Guiana.svg) |
+| La Réunion | FR-974 | Public domain | Ch1902 and Ryderpedia | [Flag of Réunion (unofficial).svg](https://commons.wikimedia.org/wiki/File:Flag_of_R%C3%A9union_(unofficial).svg) |
 | Mayotte | FR-976 | CC0 | Germenfer | [Flag of Mayotte (Local).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Mayotte_(Local).svg) |
 | Auvergne-Rhône-Alpes | FR-ARA | Public domain | Ngagnebin | [Flag of the region Auvergne-Rhône-Alpes.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_region_Auvergne-Rh%C3%B4ne-Alpes.svg) |
 | Bourgogne-Franche-Comté | FR-BFC | CC BY-SA 4.0 | Geraldiker | [Flag of the region Bourgogne-Franche-Comté.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_region_Bourgogne-Franche-Comt%C3%A9.svg) |
@@ -354,12 +354,12 @@ The PNGs are scaled-down copies of the originals.
 | Centre-Val de Loire | FR-CVL | Public domain | User:Andrwsc | [Flag of Centre-Val de Loire.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Centre-Val_de_Loire.svg) |
 | Grand Est | FR-GES | CC BY 4.0 | Burjkh | [Flag of Grand Est (2022-present).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Grand_Est_(2022-present).svg) |
 | Hauts-de-France | FR-HDF | CC0 | Germenfer | [Flag of the Region of Hauts-de-France.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Region_of_Hauts-de-France.svg) |
-| Île-de-France | FR-IDF | Public domain | Region Île-de-France | [IDF flag.svg](https://commons.wikimedia.org/wiki/File:IDF_flag.svg) |
+| Île-de-France | FR-IDF | Public domain | Patricia.fidi | [Cultural flag of Île-de-France.svg](https://commons.wikimedia.org/wiki/File:Cultural_flag_of_%C3%8Ele-de-France.svg) |
 | Nouvelle-Aquitaine | FR-NAQ | Public domain | Chabe01 | [Flag of Nouvelle-Aquitaine.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nouvelle-Aquitaine.svg) |
 | Normandie | FR-NOR | Public domain | Saebhiar | [Flag of Normandie.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Normandie.svg) |
-| Occitanie | FR-OCC | CC BY-SA 4.0 | Jfblanc | [Flag of Région Occitanie Perpinyà variation.svg](https://commons.wikimedia.org/wiki/File:Flag_of_R%C3%A9gion_Occitanie_Perpiny%C3%A0_variation.svg) |
+| Occitanie | FR-OCC | CC BY-SA 4.0 | Thom.lanaud | [Flag of Région Occitanie (symbol only).svg](https://commons.wikimedia.org/wiki/File:Flag_of_R%C3%A9gion_Occitanie_(symbol_only).svg) |
 | Provence-Alpes-Côte d'Azur | FR-PAC | CC BY-SA 3.0 | Diades | [Flag of Provence-Alpes-Côte d'Azur.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Provence-Alpes-C%C3%B4te_d%27Azur.svg) |
-| Pays de la Loire | FR-PDL | CC BY-SA 4.0 | Burjkh | [Flag of Pays de la Loire.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Pays_de_la_Loire.svg) |
+| Pays de la Loire | FR-PDL | CC0 | Patricia.fidi, original author: Hervé Pinoteau in 1976. | [Cultural flag of Pays-de-la-Loire.svg](https://commons.wikimedia.org/wiki/File:Cultural_flag_of_Pays-de-la-Loire.svg) |
 | Nyanga | GA-5 | CC BY-SA 4.0 | Original by Louis Mühlemann, vectorised by User:Fenn-O-maniC; derivative work by Flagvisioner | [Flag of Nyanga Province, Gabon.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nyanga_Province,_Gabon.svg) |
 | England | GB-ENG | Public domain | Original: traditional Vector:  Nicholas Shanks | [Flag of England.svg](https://commons.wikimedia.org/wiki/File:Flag_of_England.svg) |
 | Scotland | GB-SCT | Public domain | none known | [Flag of Scotland.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Scotland.svg) |

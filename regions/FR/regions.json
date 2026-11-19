@@ -5,16 +5,16 @@
   "FR-CVL": {"name": "Centre-Val de Loire"},
   "FR-20R": {"name": "Corse"},
   "FR-GES": {"name": "Grand Est"},
-  "FR-971": {"name": "Guadeloupe"},
-  "FR-973": {"name": "Guyane"},
+  "FR-971": {"name": "Guadeloupe", "flag": "commons:Unofficial flag of Guadeloupe (local).svg"},
+  "FR-973": {"name": "Guyane", "flag": "commons:Flag of French Guiana.svg"},
   "FR-HDF": {"name": "Hauts-de-France"},
-  "FR-974": {"name": "La Réunion"},
+  "FR-974": {"name": "La Réunion", "flag": "commons:Flag of Réunion (unofficial).svg"},
   "FR-972": {"name": "Martinique"},
   "FR-976": {"name": "Mayotte"},
   "FR-NOR": {"name": "Normandie"},
   "FR-NAQ": {"name": "Nouvelle-Aquitaine"},
-  "FR-OCC": {"name": "Occitanie"},
-  "FR-PDL": {"name": "Pays de la Loire"},
+  "FR-OCC": {"name": "Occitanie", "flag": "commons:Flag of Région Occitanie (symbol only).svg"},
+  "FR-PDL": {"name": "Pays de la Loire", "flag": "commons:Cultural flag of Pays-de-la-Loire.svg"},
   "FR-PAC": {"name": "Provence-Alpes-Côte d'Azur"},
-  "FR-IDF": {"name": "Île-de-France"}
+  "FR-IDF": {"name": "Île-de-France", "flag": "commons:Cultural flag of Île-de-France.svg"}
 }

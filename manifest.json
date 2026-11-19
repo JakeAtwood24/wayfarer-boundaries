@@ -1510,11 +1510,11 @@
    "v": 1
   },
   "FR": {
-   "bytes": 182049,
+   "bytes": 215402,
    "count": 18,
    "file": "flags/FR.flagpack",
-   "sha256": "16a3513d0299b7d0f6a19d0854553bbc8d82efb76be7381a5d9ce6da71d8524d",
-   "v": 3
+   "sha256": "f28b4a6acd2f3f609b8aa248a1769cb1303114eb063e52dc8dcf377bf9cc9ab8",
+   "v": 4
   },
   "GA": {
    "bytes": 16673,
