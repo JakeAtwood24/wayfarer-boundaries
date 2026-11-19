@@ -227,7 +227,7 @@ The PNGs are scaled-down copies of the originals.
 | Brandenburg | DE-BB | Public domain | – | [Flag of Brandenburg.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Brandenburg.svg) |
 | Berlin | DE-BE | Public domain | Flaggenentwurf: unbekannt diese Datei: Jwnabd | [Flag of Berlin.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Berlin.svg) |
 | Baden-Württemberg | DE-BW | Public domain | Dbenbenn | [Flag of Baden-Württemberg.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Baden-W%C3%BCrttemberg.svg) |
-| Bayern | DE-BY | Public domain | Digitized by User:Boris23, | [Flag of Bavaria (striped).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Bavaria_(striped).svg) |
+| Bayern | DE-BY | Public domain | Flag_of_Bavaria_(lozengy).svg: Jwnabd derivative work: NsMn (talk) | [Rautenflagge (24 Rauten).svg](https://commons.wikimedia.org/wiki/File:Rautenflagge_(24_Rauten).svg) |
 | Bremen | DE-HB | Public domain | – | [Flag of Bremen.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Bremen.svg) |
 | Hessen | DE-HE | Public domain | – | [Flag of Hesse.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Hesse.svg) |
 | Hamburg | DE-HH | Public domain | Greentubing | [Flag of Hamburg.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Hamburg.svg) |
@@ -362,6 +362,7 @@ The PNGs are scaled-down copies of the originals.
 | Pays de la Loire | FR-PDL | CC0 | Patricia.fidi, original author: Hervé Pinoteau in 1976. | [Cultural flag of Pays-de-la-Loire.svg](https://commons.wikimedia.org/wiki/File:Cultural_flag_of_Pays-de-la-Loire.svg) |
 | Nyanga | GA-5 | CC BY-SA 4.0 | Original by Louis Mühlemann, vectorised by User:Fenn-O-maniC; derivative work by Flagvisioner | [Flag of Nyanga Province, Gabon.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nyanga_Province,_Gabon.svg) |
 | England | GB-ENG | Public domain | Original: traditional Vector:  Nicholas Shanks | [Flag of England.svg](https://commons.wikimedia.org/wiki/File:Flag_of_England.svg) |
+| Northern Ireland | GB-NIR | Public domain | Mamadou | [Flag of Northern Ireland (1953–1972).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Northern_Ireland_(1953%E2%80%931972).svg) |
 | Scotland | GB-SCT | Public domain | none known | [Flag of Scotland.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Scotland.svg) |
 | Wales | GB-WLS | Public domain | Unknown  Vector graphics by Tobias Jakobs | [Flag of Wales.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Wales.svg) |
 | Abkhazia | GE-AB | Public domain | The State Council of Heraldry | [Flag of Abkhazia (GE).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Abkhazia_(GE).svg) |
@@ -834,13 +835,17 @@ The PNGs are scaled-down copies of the originals.
 | Guanajuato | MX-GUA | Public domain | Alexis Rojas, VegaMex  Derivative work : Giggette, VegaMex | [Flag of Guanajuato.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Guanajuato.svg) |
 | Hidalgo | MX-HID | Public domain | Heraldry | [Flag of Hidalgo.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Hidalgo.svg) |
 | Jalisco | MX-JAL | Public domain | Gobierno de Jalisco | [Flag of Jalisco.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Jalisco.svg) |
+| Estado de México | MX-MEX | Public domain | Malarz pl | [Flag of the State of Mexico.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Mexico.svg) |
+| Michoacán de Ocampo | MX-MIC | Public domain | Heraldry | [Flag of Michoacan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Michoacan.svg) |
 | Morelos | MX-MOR | Public domain | Heraldry | [Flag of Morelos.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Morelos.svg) |
 | Nayarit | MX-NAY | Public domain | Heraldry | [Flag of Nayarit.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nayarit.svg) |
+| Nuevo León | MX-NLE | Public domain | Heraldry | [Flag of Nuevo Leon.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nuevo_Leon.svg) |
 | Oaxaca | MX-OAX | Public domain | Heraldry | [Flag of Oaxaca.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Oaxaca.svg) |
 | Puebla | MX-PUE | Public domain | Heraldry | [Flag of Puebla.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Puebla.svg) |
 | Querétaro | MX-QUE | Public domain | Heraldry | [Flag of Queretaro.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Queretaro.svg) |
 | Quintana Roo | MX-ROO | Public domain | Heraldry | [Flag of Quintana Roo.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Quintana_Roo.svg) |
 | Sinaloa | MX-SIN | Public domain | Heraldry | [Flag of Sinaloa.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Sinaloa.svg) |
+| San Luis Potosí | MX-SLP | Public domain | Heraldry | [Flag of San Luis Potosi.svg](https://commons.wikimedia.org/wiki/File:Flag_of_San_Luis_Potosi.svg) |
 | Sonora | MX-SON | Public domain | Heraldry | [Flag of Sonora.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Sonora.svg) |
 | Tabasco | MX-TAB | Public domain | Heraldry | [Flag of Tabasco.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tabasco.svg) |
 | Tamaulipas | MX-TAM | Public domain | Heraldry | [Flag of Tamaulipas.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tamaulipas.svg) |

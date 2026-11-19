@@ -10,7 +10,7 @@ This page is rebuilt automatically, so don't edit it.
 | Flag | Code | Name | Flag source |
 |---|---|---|---|
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Baden-W%C3%BCrttemberg.svg?width=48" height="20"> | `DE-BW` | Baden-Württemberg | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Bavaria_%28striped%29.svg?width=48" height="20"> | `DE-BY` | Bayern | Automatic (Wikidata) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Rautenflagge_%2824_Rauten%29.svg?width=48" height="20"> | `DE-BY` | Bayern | Your pick (Commons) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Berlin.svg?width=48" height="20"> | `DE-BE` | Berlin | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Brandenburg.svg?width=48" height="20"> | `DE-BB` | Brandenburg | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Bremen.svg?width=48" height="20"> | `DE-HB` | Bremen | Automatic (Wikidata) |

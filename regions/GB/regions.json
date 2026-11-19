@@ -1,6 +1,6 @@
 {
   "GB-ENG": {"name": "England"},
-  "GB-NIR": {"name": "Northern Ireland"},
+  "GB-NIR": {"name": "Northern Ireland", "flag": "commons:Flag of Northern Ireland (1953–1972).svg"},
   "GB-SCT": {"name": "Scotland"},
   "GB-WLS": {"name": "Wales"}
 }

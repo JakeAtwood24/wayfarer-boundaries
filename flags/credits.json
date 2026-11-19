@@ -1547,11 +1547,11 @@
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Baden-W%C3%BCrttemberg.svg"
  },
  "DE-BY": {
-  "author": "Digitized by User:Boris23,",
-  "file": "Flag of Bavaria (striped).svg",
+  "author": "Flag_of_Bavaria_(lozengy).svg: Jwnabd\nderivative work: NsMn (talk)",
+  "file": "Rautenflagge (24 Rauten).svg",
   "license": "Public domain",
   "name": "Bayern",
-  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Bavaria_(striped).svg"
+  "source": "https://commons.wikimedia.org/wiki/File:Rautenflagge_(24_Rauten).svg"
  },
  "DE-HB": {
   "author": "",
@@ -2490,6 +2490,13 @@
   "license": "Public domain",
   "name": "England",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_England.svg"
+ },
+ "GB-NIR": {
+  "author": "Mamadou",
+  "file": "Flag of Northern Ireland (1953–1972).svg",
+  "license": "Public domain",
+  "name": "Northern Ireland",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Northern_Ireland_(1953%E2%80%931972).svg"
  },
  "GB-SCT": {
   "author": "none known",
@@ -5795,6 +5802,20 @@
   "name": "Jalisco",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Jalisco.svg"
  },
+ "MX-MEX": {
+  "author": "Malarz pl",
+  "file": "Flag of the State of Mexico.svg",
+  "license": "Public domain",
+  "name": "Estado de México",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_State_of_Mexico.svg"
+ },
+ "MX-MIC": {
+  "author": "Heraldry",
+  "file": "Flag of Michoacan.svg",
+  "license": "Public domain",
+  "name": "Michoacán de Ocampo",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Michoacan.svg"
+ },
  "MX-MOR": {
   "author": "Heraldry",
   "file": "Flag of Morelos.svg",
@@ -5808,6 +5829,13 @@
   "license": "Public domain",
   "name": "Nayarit",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Nayarit.svg"
+ },
+ "MX-NLE": {
+  "author": "Heraldry",
+  "file": "Flag of Nuevo Leon.svg",
+  "license": "Public domain",
+  "name": "Nuevo León",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Nuevo_Leon.svg"
  },
  "MX-OAX": {
   "author": "Heraldry",
@@ -5843,6 +5871,13 @@
   "license": "Public domain",
   "name": "Sinaloa",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Sinaloa.svg"
+ },
+ "MX-SLP": {
+  "author": "Heraldry",
+  "file": "Flag of San Luis Potosi.svg",
+  "license": "Public domain",
+  "name": "San Luis Potosí",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_San_Luis_Potosi.svg"
  },
  "MX-SON": {
   "author": "Heraldry",

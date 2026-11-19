@@ -49,7 +49,7 @@ Watch the commas: every entry but the last ends with one.
 
 ## Countries
 
-3202 regions in 197 countries, 1348 with flags.
+3202 regions in 197 countries, 1353 with flags.
 
 | Country | Regions | Flags | Missing | Renamed |
 |---|---|---|---|---|
@@ -113,7 +113,7 @@ Watch the commas: every entry but the last ends with one.
 | [Micronesia](FM/) | 4 | 4 |  |  |
 | [France](FR/) | 18 | 18 |  | 1 |
 | [Gabon](GA/) | 9 | 1 | 8 | 1 |
-| [United Kingdom](GB/) | 4 | 3 | 1 |  |
+| [United Kingdom](GB/) | 4 | 4 |  |  |
 | [Grenada](GD/) | 7 | 0 | 7 |  |
 | [Georgia](GE/) | 12 | 3 | 9 |  |
 | [Ghana](GH/) | 16 | 4 | 12 |  |
@@ -176,7 +176,7 @@ Watch the commas: every entry but the last ends with one.
 | [Mauritius](MU/) | 12 | 1 | 11 |  |
 | [Maldives](MV/) | 21 | 0 | 21 |  |
 | [Malawi](MW/) | 3 | 0 | 3 |  |
-| [Mexico](MX/) | 32 | 28 | 4 |  |
+| [Mexico](MX/) | 32 | 32 |  |  |
 | [Malaysia](MY/) | 16 | 16 |  |  |
 | [Mozambique](MZ/) | 10 | 3 | 7 |  |
 | [Namibia](NA/) | 14 | 0 | 14 |  |

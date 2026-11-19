@@ -1,16 +1,9 @@
 # Mexico (MX)
 
-32 regions · 28 with flags · 4 missing · 0 renamed
+32 regions · 32 with flags · 0 missing · 0 renamed
 
 Edit [`regions.json`](regions.json) to change names and flags; how-to in [regions/README.md](../README.md).
 This page is rebuilt automatically, so don't edit it.
-
-## To do
-
-- [ ] **Estado de México** (`MX-MEX`) has no flag
-- [ ] **Michoacán de Ocampo** (`MX-MIC`) has no flag
-- [ ] **Nuevo León** (`MX-NLE`) has no flag
-- [ ] **San Luis Potosí** (`MX-SLP`) has no flag
 
 ## All regions
 
@@ -26,20 +19,20 @@ This page is rebuilt automatically, so don't edit it.
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Coahuila_de_Zaragoza.svg?width=48" height="20"> | `MX-COA` | Coahuila de Zaragoza | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Colima.svg?width=48" height="20"> | `MX-COL` | Colima | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Durango.svg?width=48" height="20"> | `MX-DUR` | Durango | Automatic (Wikidata) |
-|  | `MX-MEX` | Estado de México | — |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_State_of_Mexico.svg?width=48" height="20"> | `MX-MEX` | Estado de México | Your pick (Commons) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Guanajuato.svg?width=48" height="20"> | `MX-GUA` | Guanajuato | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Guerrero.svg?width=48" height="20"> | `MX-GRO` | Guerrero | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Hidalgo.svg?width=48" height="20"> | `MX-HID` | Hidalgo | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Jalisco.svg?width=48" height="20"> | `MX-JAL` | Jalisco | Automatic (Wikidata) |
-|  | `MX-MIC` | Michoacán de Ocampo | — |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Michoacan.svg?width=48" height="20"> | `MX-MIC` | Michoacán de Ocampo | Your pick (Commons) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Morelos.svg?width=48" height="20"> | `MX-MOR` | Morelos | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Nayarit.svg?width=48" height="20"> | `MX-NAY` | Nayarit | Automatic (Wikidata) |
-|  | `MX-NLE` | Nuevo León | — |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Nuevo_Leon.svg?width=48" height="20"> | `MX-NLE` | Nuevo León | Your pick (Commons) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Oaxaca.svg?width=48" height="20"> | `MX-OAX` | Oaxaca | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Puebla.svg?width=48" height="20"> | `MX-PUE` | Puebla | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Queretaro.svg?width=48" height="20"> | `MX-QUE` | Querétaro | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Quintana_Roo.svg?width=48" height="20"> | `MX-ROO` | Quintana Roo | Automatic (Wikidata) |
-|  | `MX-SLP` | San Luis Potosí | — |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_San_Luis_Potosi.svg?width=48" height="20"> | `MX-SLP` | San Luis Potosí | Your pick (Commons) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Sinaloa.svg?width=48" height="20"> | `MX-SIN` | Sinaloa | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Sonora.svg?width=48" height="20"> | `MX-SON` | Sonora | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Tabasco.svg?width=48" height="20"> | `MX-TAB` | Tabasco | Automatic (Wikidata) |

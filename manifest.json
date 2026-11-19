@@ -1440,11 +1440,11 @@
    "v": 1
   },
   "DE": {
-   "bytes": 63982,
+   "bytes": 74880,
    "count": 16,
    "file": "flags/DE.flagpack",
-   "sha256": "ef69cd19757c04ddd511f9500bee422bbdb2c0075c4a4903ae87feb2522497cd",
-   "v": 1
+   "sha256": "5429fbcc2b517f700e2a7781b6fa2f6d18a1eee2b6d638155b9dc78a7f6c1c19",
+   "v": 2
   },
   "DK": {
    "bytes": 33968,
@@ -1524,11 +1524,11 @@
    "v": 1
   },
   "GB": {
-   "bytes": 24076,
-   "count": 3,
+   "bytes": 28876,
+   "count": 4,
    "file": "flags/GB.flagpack",
-   "sha256": "56e0939b4e781eeca8f7ba41084f7df8419c41596498f637c74ca154ec5f8b40",
-   "v": 3
+   "sha256": "c4cb4359f70d9cd48f3978922ca02a79c8adce99380d32a0f5e2520db17a564b",
+   "v": 4
   },
   "GE": {
    "bytes": 14355,
@@ -1762,11 +1762,11 @@
    "v": 1
   },
   "MX": {
-   "bytes": 378799,
-   "count": 28,
+   "bytes": 441477,
+   "count": 32,
    "file": "flags/MX.flagpack",
-   "sha256": "1597c3476c2b3bebcaa7dd51437129f020b1d8267a9bc073d3d0882af568be70",
-   "v": 5
+   "sha256": "d0c9375d89b2dbfe5e346ed856dee5bd1ed4767af9745c837fbe9da94d7358d0",
+   "v": 6
   },
   "MY": {
    "bytes": 43255,

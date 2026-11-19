@@ -1,6 +1,6 @@
 {
   "DE-BW": {"name": "Baden-Württemberg"},
-  "DE-BY": {"name": "Bayern"},
+  "DE-BY": {"name": "Bayern", "flag": "commons:Rautenflagge (24 Rauten).svg"},
   "DE-BE": {"name": "Berlin"},
   "DE-BB": {"name": "Brandenburg"},
   "DE-HB": {"name": "Bremen"},
