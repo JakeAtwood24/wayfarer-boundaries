@@ -49,7 +49,7 @@ Watch the commas: every entry but the last ends with one.
 
 ## Countries
 
-3202 regions in 197 countries, 1353 with flags.
+3202 regions in 197 countries, 1356 with flags.
 
 | Country | Regions | Flags | Missing | Renamed |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ Watch the commas: every entry but the last ends with one.
 | [Botswana](BW/) | 10 | 0 | 10 |  |
 | [Belarus](BY/) | 7 | 7 |  |  |
 | [Belize](BZ/) | 6 | 0 | 6 |  |
-| [Canada](CA/) | 13 | 12 | 1 |  |
+| [Canada](CA/) | 13 | 13 |  | 1 |
 | [Dem. Rep. Congo](CD/) | 26 | 1 | 25 |  |
 | [Central African Rep.](CF/) | 17 | 0 | 17 |  |
 | [Congo](CG/) | 12 | 0 | 12 |  |
@@ -121,7 +121,7 @@ Watch the commas: every entry but the last ends with one.
 | [Gambia](GM/) | 8 | 1 | 7 |  |
 | [Guinea](GN/) | 8 | 0 | 8 |  |
 | [Eq. Guinea](GQ/) | 7 | 0 | 7 |  |
-| [Greece](GR/) | 14 | 4 | 10 |  |
+| [Greece](GR/) | 14 | 5 | 9 |  |
 | [Guatemala](GT/) | 22 | 0 | 22 |  |
 | [Guinea-Bissau](GW/) | 9 | 1 | 8 |  |
 | [Guyana](GY/) | 10 | 0 | 10 |  |
@@ -139,7 +139,7 @@ Watch the commas: every entry but the last ends with one.
 | [Italy](IT/) | 20 | 20 |  |  |
 | [Jamaica](JM/) | 14 | 0 | 14 |  |
 | [Jordan](JO/) | 12 | 0 | 12 |  |
-| [Japan](JP/) | 47 | 46 | 1 |  |
+| [Japan](JP/) | 47 | 47 |  | 22 |
 | [Kenya](KE/) | 47 | 20 | 27 |  |
 | [Kyrgyzstan](KG/) | 7 | 7 |  |  |
 | [Cambodia](KH/) | 25 | 0 | 25 |  |

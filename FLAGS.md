@@ -128,6 +128,7 @@ The PNGs are scaled-down copies of the originals.
 | Nunavut | CA-NU | Public domain | Kooma (original) | [Flag of Nunavut.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nunavut.svg) |
 | Ontario | CA-ON | Public domain | Kooma | [Flag of Ontario.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Ontario.svg) |
 | Prince Edward Island | CA-PE | Public domain | E Pluribus Anthony | [Flag of Prince Edward Island.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Prince_Edward_Island.svg) |
+| Québec | CA-QB | Public domain | Original: René Chaloult Vector:  Krun | [Flag of Quebec.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Quebec.svg) |
 | Saskatchewan | CA-SK | Public domain | Kooma | [Flag of Saskatchewan.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Saskatchewan.svg) |
 | Yukon | CA-YT | Public domain | Kooma (original) | [Flag of Yukon.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yukon.svg) |
 | Kinshasa | CD-KN | Public domain | Moyogo  derivative by Flagvisioner | [Flag of Kinshasa, DRC.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kinshasa,_DRC.svg) |
@@ -379,6 +380,7 @@ The PNGs are scaled-down copies of the originals.
 | Central Macedonia | GR-B | Public domain | Mysid | [Flag of Greek Macedonia.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Greek_Macedonia.svg) |
 | Thessaly | GR-E | CC0 | GaelVector | [Flag of Thessaly.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Thessaly.svg) |
 | Western Greece | GR-G | CC BY-SA 3.0 gr | Region of Western Greece | [Western Greece logo.png](https://commons.wikimedia.org/wiki/File:Western_Greece_logo.png) |
+| South Aegean | GR-L | CC BY-SA 3.0 | Philly boy92 | [Flag of the Region of South Aegean.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Region_of_South_Aegean.svg) |
 | Bissau | GW-BS | Public domain | Aml-401 | [Bissau City Flag.png](https://commons.wikimedia.org/wiki/File:Bissau_City_Flag.png) |
 | Colón | HN-CL | CC BY-SA 3.0 | Jaume Olle | [Flag of Colon Department (Honduras).gif](https://commons.wikimedia.org/wiki/File:Flag_of_Colon_Department_(Honduras).gif) |
 | Comayagua | HN-CM | CC BY-SA 4.0 | Dwn2022 | [Bandera del departamento de Comayagua.png](https://commons.wikimedia.org/wiki/File:Bandera_del_departamento_de_Comayagua.png) |
@@ -503,36 +505,37 @@ The PNGs are scaled-down copies of the originals.
 | Kanagawa | JP-14 | Public domain | Monaneko, Mike Rohsopht | [Flag of Kanagawa Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kanagawa_Prefecture.svg) |
 | Niigata | JP-15 | Public domain | UnreifeKirsche, Mike Rohsopht | [Flag of Niigata Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Niigata_Prefecture.svg) |
 | Toyama | JP-16 | Public domain | Guilherme Paula and Maanshen | [Flag of Toyama Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Toyama_Prefecture.svg) |
-| Ishikawa Prefecture | JP-17 | Public domain | Kzaral | [Flag of Ishikawa Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Ishikawa_Prefecture.svg) |
-| Fukui Prefecture | JP-18 | Public domain | This logo image consists only of simple geometric shapes or text. It does not meet the threshold of originality needed for copyright protection, and is therefore in the public domain. Although it is f | [Flag of Fukui Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Fukui_Prefecture.svg) |
+| Ishikawa | JP-17 | Public domain | Kzaral | [Flag of Ishikawa Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Ishikawa_Prefecture.svg) |
+| Fukui | JP-18 | Public domain | This logo image consists only of simple geometric shapes or text. It does not meet the threshold of originality needed for copyright protection, and is therefore in the public domain. Although it is f | [Flag of Fukui Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Fukui_Prefecture.svg) |
 | Yamanashi | JP-19 | Public domain | UnreifeKirsche, Mike Rohsopht | [Flag of Yamanashi Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yamanashi_Prefecture.svg) |
 | Nagano | JP-20 | Public domain | Unknown | [Flag of Nagano Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nagano_Prefecture.svg) |
-| Gifu Prefecture | JP-21 | Public domain | Fvasconcellos (talk · contribs). PNG version by Kzaral | [Flag of Gifu Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Gifu_Prefecture.svg) |
+| Gifu | JP-21 | Public domain | Fvasconcellos (talk · contribs). PNG version by Kzaral | [Flag of Gifu Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Gifu_Prefecture.svg) |
 | Shizuoka | JP-22 | Public domain | Mike Rohsopht    Insignia  This image shows a flag, a coat of arms, a seal or some other official insignia. The use of such symbols is restricted in many countries. These restrictions are independent  | [Flag of Shizuoka Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Shizuoka_Prefecture.svg) |
-| Aichi Prefecture | JP-23 | Public domain | en:User:Nameneko | [Flag of Aichi Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Aichi_Prefecture.svg) |
-| Mie Prefecture | JP-24 | Public domain | NalesnikLD, Mike Rohsopht | [Flag of Mie Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Mie_Prefecture.svg) |
+| Aichi | JP-23 | Public domain | en:User:Nameneko | [Flag of Aichi Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Aichi_Prefecture.svg) |
+| Mie | JP-24 | Public domain | NalesnikLD, Mike Rohsopht | [Flag of Mie Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Mie_Prefecture.svg) |
 | Shiga | JP-25 | Public domain | Mike Rohsopht | [Flag of Shiga Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Shiga_Prefecture.svg) |
-| Kyoto Prefecture | JP-26 | Public domain | Emblem of Kyoto Prefecture.svg by Mike Rohsopht Flag of Kyoto Prefecture.png by Machina in the Deep-Blue Sea (based on a work by Shane Markle) This derivative work: Pchapman12345 Minor corrections: Zs | [Flag of Kyoto Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kyoto_Prefecture.svg) |
-| Osaka Prefecture | JP-27 | Public domain | Shane Markle (OsgoodeLawyer) , Mike Rohsopht | [Flag of Osaka Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Osaka_Prefecture.svg) |
-| Hyogo Prefecture | JP-28 | Public domain | Guilherme Paula and Maanshen | [Flag of Hyogo Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Hyogo_Prefecture.svg) |
-| Nara Prefecture | JP-29 | Public domain | Original: PRiMENON Vector:  Wrightbus | [Flag of Nara Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nara_Prefecture.svg) |
-| Wakayama Prefecture | JP-30 | Public domain | PRiMENON, Zscout370, Mike Rohsopht | [Flag of Wakayama Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Wakayama_Prefecture.svg) |
-| Tottori Prefecture | JP-31 | Public domain | Guilherme Paula, Mike Rohsopht    Insignia  This image shows a flag, a coat of arms, a seal or some other official insignia. The use of such symbols is restricted in many countries. These restrictions | [Flag of Tottori Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tottori_Prefecture.svg) |
+| Kyoto | JP-26 | Public domain | Emblem of Kyoto Prefecture.svg by Mike Rohsopht Flag of Kyoto Prefecture.png by Machina in the Deep-Blue Sea (based on a work by Shane Markle) This derivative work: Pchapman12345 Minor corrections: Zs | [Flag of Kyoto Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kyoto_Prefecture.svg) |
+| Osaka | JP-27 | Public domain | Shane Markle (OsgoodeLawyer) , Mike Rohsopht | [Flag of Osaka Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Osaka_Prefecture.svg) |
+| Hyogo | JP-28 | Public domain | Guilherme Paula and Maanshen | [Flag of Hyogo Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Hyogo_Prefecture.svg) |
+| Nara | JP-29 | Public domain | Original: PRiMENON Vector:  Wrightbus | [Flag of Nara Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nara_Prefecture.svg) |
+| Wakayama | JP-30 | Public domain | PRiMENON, Zscout370, Mike Rohsopht | [Flag of Wakayama Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Wakayama_Prefecture.svg) |
+| Tottori | JP-31 | Public domain | Guilherme Paula, Mike Rohsopht    Insignia  This image shows a flag, a coat of arms, a seal or some other official insignia. The use of such symbols is restricted in many countries. These restrictions | [Flag of Tottori Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tottori_Prefecture.svg) |
 | Shimane | JP-32 | Public domain | Guilherme Paula, Mike Rohsopht    Insignia  This image shows a flag, a coat of arms, a seal or some other official insignia. The use of such symbols is restricted in many countries. These restrictions | [Flag of Shimane Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Shimane_Prefecture.svg) |
-| Okayama Prefecture | JP-33 | Public domain | Kzaral | [Flag of Okayama Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Okayama_Prefecture.svg) |
+| Okayama | JP-33 | Public domain | Kzaral | [Flag of Okayama Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Okayama_Prefecture.svg) |
+| Hiroshima | JP-34 | unknown | Unknown | [Flag of Hiroshima Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Hiroshima_Prefecture.svg) |
 | Yamaguchi | JP-35 | Public domain | Alex Tora, Mike Rohsopht | [Flag of Yamaguchi Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Yamaguchi_Prefecture.svg) |
-| Tokushima Prefecture | JP-36 | Public domain | Guilherme Paula, Mike Rohsopht    Insignia  This image shows a flag, a coat of arms, a seal or some other official insignia. The use of such symbols is restricted in many countries. These restrictions | [Flag of Tokushima Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tokushima_Prefecture.svg) |
-| Kagawa Prefecture | JP-37 | CC BY-SA 3.0 | Zscout370, Mike Rohsopht | [Flag of Kagawa Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kagawa_Prefecture.svg) |
-| Ehime Prefecture | JP-38 | Public domain | en:User:Nameneko | [Flag of Ehime Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Ehime_Prefecture.svg) |
-| Kochi Prefecture | JP-39 | Public domain | Kochi prefecture administration Vectorized by Mike Rohsopht | [Flag of Kochi Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kochi_Prefecture.svg) |
-| Fukuoka Prefecture | JP-40 | Public domain | Guilherme Paula, Mike Rohsopht | [Flag of Fukuoka Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Fukuoka_Prefecture.svg) |
-| Saga Prefecture | JP-41 | Public domain | Guilherme Paula, Mike Rohsopht | [Flag of Saga Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Saga_Prefecture.svg) |
-| Nagasaki Prefecture | JP-42 | Public domain | Original: Unknown author Vector:  Alex Tora | [Flag of Nagasaki Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nagasaki_Prefecture.svg) |
+| Tokushima | JP-36 | Public domain | Guilherme Paula, Mike Rohsopht    Insignia  This image shows a flag, a coat of arms, a seal or some other official insignia. The use of such symbols is restricted in many countries. These restrictions | [Flag of Tokushima Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tokushima_Prefecture.svg) |
+| Kagawa | JP-37 | CC BY-SA 3.0 | Zscout370, Mike Rohsopht | [Flag of Kagawa Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kagawa_Prefecture.svg) |
+| Ehime | JP-38 | Public domain | en:User:Nameneko | [Flag of Ehime Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Ehime_Prefecture.svg) |
+| Kochi | JP-39 | Public domain | Kochi prefecture administration Vectorized by Mike Rohsopht | [Flag of Kochi Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kochi_Prefecture.svg) |
+| Fukuoka | JP-40 | Public domain | Guilherme Paula, Mike Rohsopht | [Flag of Fukuoka Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Fukuoka_Prefecture.svg) |
+| Saga | JP-41 | Public domain | Guilherme Paula, Mike Rohsopht | [Flag of Saga Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Saga_Prefecture.svg) |
+| Nagasaki | JP-42 | Public domain | Original: Unknown author Vector:  Alex Tora | [Flag of Nagasaki Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Nagasaki_Prefecture.svg) |
 | Kumamoto | JP-43 | Public domain | Kzaral, Xeror | [Flag of Kumamoto Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kumamoto_Prefecture.svg) |
 | Oita | JP-44 | Public domain | Guilherme Paula, Mike Rohsopht | [Flag of Oita Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Oita_Prefecture.svg) |
-| Miyazaki Prefecture | JP-45 | Public domain | Ninane at nl.wikipedia | [Flag of Miyazaki Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Miyazaki_Prefecture.svg) |
-| Kagoshima Prefecture | JP-46 | Public domain | Guilherme Paula, Mike Rohsopht | [Flag of Kagoshima Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kagoshima_Prefecture.svg) |
-| Okinawa Prefecture | JP-47 | Public domain | Zach Harden (Zscout370)Optimized by Wrightbus | [Flag of Okinawa Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Okinawa_Prefecture.svg) |
+| Miyazaki | JP-45 | Public domain | Ninane at nl.wikipedia | [Flag of Miyazaki Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Miyazaki_Prefecture.svg) |
+| Kagoshima | JP-46 | Public domain | Guilherme Paula, Mike Rohsopht | [Flag of Kagoshima Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Kagoshima_Prefecture.svg) |
+| Okinawa | JP-47 | Public domain | Zach Harden (Zscout370)Optimized by Wrightbus | [Flag of Okinawa Prefecture.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Okinawa_Prefecture.svg) |
 | Baringo | KE-01 | Public domain | Nairobi123 | [Flag of Baringo County.png](https://commons.wikimedia.org/wiki/File:Flag_of_Baringo_County.png) |
 | Bomet | KE-02 | Public domain | Nairobi123 | [Flag of Bomet County.png](https://commons.wikimedia.org/wiki/File:Flag_of_Bomet_County.png) |
 | Busia | KE-04 | Public domain | Nairobi123 | [Flag of Busia County.png](https://commons.wikimedia.org/wiki/File:Flag_of_Busia_County.png) |

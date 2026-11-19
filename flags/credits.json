@@ -853,6 +853,13 @@
   "name": "Prince Edward Island",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Prince_Edward_Island.svg"
  },
+ "CA-QB": {
+  "author": "Original: René Chaloult Vector:  Krun",
+  "file": "Flag of Quebec.svg",
+  "license": "Public domain",
+  "name": "Québec",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Quebec.svg"
+ },
  "CA-SK": {
   "author": "Kooma",
   "file": "Flag of Saskatchewan.svg",
@@ -2610,6 +2617,13 @@
   "name": "Western Greece",
   "source": "https://commons.wikimedia.org/wiki/File:Western_Greece_logo.png"
  },
+ "GR-L": {
+  "author": "Philly boy92",
+  "file": "Flag of the Region of South Aegean.svg",
+  "license": "CC BY-SA 3.0",
+  "name": "South Aegean",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_the_Region_of_South_Aegean.svg"
+ },
  "GW-BS": {
   "author": "Aml-401",
   "file": "Bissau City Flag.png",
@@ -3482,14 +3496,14 @@
   "author": "Kzaral",
   "file": "Flag of Ishikawa Prefecture.svg",
   "license": "Public domain",
-  "name": "Ishikawa Prefecture",
+  "name": "Ishikawa",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Ishikawa_Prefecture.svg"
  },
  "JP-18": {
   "author": "This logo image consists only of simple geometric shapes or text. It does not meet the threshold of originality needed for copyright protection, and is therefore in the public domain. Although it is f",
   "file": "Flag of Fukui Prefecture.svg",
   "license": "Public domain",
-  "name": "Fukui Prefecture",
+  "name": "Fukui",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Fukui_Prefecture.svg"
  },
  "JP-19": {
@@ -3510,7 +3524,7 @@
   "author": "Fvasconcellos (talk · contribs). PNG version by Kzaral",
   "file": "Flag of Gifu Prefecture.svg",
   "license": "Public domain",
-  "name": "Gifu Prefecture",
+  "name": "Gifu",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Gifu_Prefecture.svg"
  },
  "JP-22": {
@@ -3524,14 +3538,14 @@
   "author": "en:User:Nameneko",
   "file": "Flag of Aichi Prefecture.svg",
   "license": "Public domain",
-  "name": "Aichi Prefecture",
+  "name": "Aichi",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Aichi_Prefecture.svg"
  },
  "JP-24": {
   "author": "NalesnikLD, Mike Rohsopht",
   "file": "Flag of Mie Prefecture.svg",
   "license": "Public domain",
-  "name": "Mie Prefecture",
+  "name": "Mie",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Mie_Prefecture.svg"
  },
  "JP-25": {
@@ -3545,42 +3559,42 @@
   "author": "Emblem of Kyoto Prefecture.svg by Mike Rohsopht\nFlag of Kyoto Prefecture.png by Machina in the Deep-Blue Sea (based on a work by Shane Markle)\nThis derivative work: Pchapman12345\nMinor corrections: Zs",
   "file": "Flag of Kyoto Prefecture.svg",
   "license": "Public domain",
-  "name": "Kyoto Prefecture",
+  "name": "Kyoto",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Kyoto_Prefecture.svg"
  },
  "JP-27": {
   "author": "Shane Markle (OsgoodeLawyer) , Mike Rohsopht",
   "file": "Flag of Osaka Prefecture.svg",
   "license": "Public domain",
-  "name": "Osaka Prefecture",
+  "name": "Osaka",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Osaka_Prefecture.svg"
  },
  "JP-28": {
   "author": "Guilherme Paula and Maanshen",
   "file": "Flag of Hyogo Prefecture.svg",
   "license": "Public domain",
-  "name": "Hyogo Prefecture",
+  "name": "Hyogo",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Hyogo_Prefecture.svg"
  },
  "JP-29": {
   "author": "Original: PRiMENON Vector:  Wrightbus",
   "file": "Flag of Nara Prefecture.svg",
   "license": "Public domain",
-  "name": "Nara Prefecture",
+  "name": "Nara",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Nara_Prefecture.svg"
  },
  "JP-30": {
   "author": "PRiMENON, Zscout370, Mike Rohsopht",
   "file": "Flag of Wakayama Prefecture.svg",
   "license": "Public domain",
-  "name": "Wakayama Prefecture",
+  "name": "Wakayama",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Wakayama_Prefecture.svg"
  },
  "JP-31": {
   "author": "Guilherme Paula, Mike Rohsopht\n\n\n\nInsignia\n\nThis image shows a flag, a coat of arms, a seal or some other official insignia. The use of such symbols is restricted in many countries. These restrictions",
   "file": "Flag of Tottori Prefecture.svg",
   "license": "Public domain",
-  "name": "Tottori Prefecture",
+  "name": "Tottori",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Tottori_Prefecture.svg"
  },
  "JP-32": {
@@ -3594,8 +3608,15 @@
   "author": "Kzaral",
   "file": "Flag of Okayama Prefecture.svg",
   "license": "Public domain",
-  "name": "Okayama Prefecture",
+  "name": "Okayama",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Okayama_Prefecture.svg"
+ },
+ "JP-34": {
+  "author": "Unknown",
+  "file": "Flag of Hiroshima Prefecture.svg",
+  "license": "unknown",
+  "name": "Hiroshima",
+  "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Hiroshima_Prefecture.svg"
  },
  "JP-35": {
   "author": "Alex Tora, Mike Rohsopht",
@@ -3608,49 +3629,49 @@
   "author": "Guilherme Paula, Mike Rohsopht\n\n\n\nInsignia\n\nThis image shows a flag, a coat of arms, a seal or some other official insignia. The use of such symbols is restricted in many countries. These restrictions",
   "file": "Flag of Tokushima Prefecture.svg",
   "license": "Public domain",
-  "name": "Tokushima Prefecture",
+  "name": "Tokushima",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Tokushima_Prefecture.svg"
  },
  "JP-37": {
   "author": "Zscout370, Mike Rohsopht",
   "file": "Flag of Kagawa Prefecture.svg",
   "license": "CC BY-SA 3.0",
-  "name": "Kagawa Prefecture",
+  "name": "Kagawa",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Kagawa_Prefecture.svg"
  },
  "JP-38": {
   "author": "en:User:Nameneko",
   "file": "Flag of Ehime Prefecture.svg",
   "license": "Public domain",
-  "name": "Ehime Prefecture",
+  "name": "Ehime",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Ehime_Prefecture.svg"
  },
  "JP-39": {
   "author": "Kochi prefecture administration\nVectorized by Mike Rohsopht",
   "file": "Flag of Kochi Prefecture.svg",
   "license": "Public domain",
-  "name": "Kochi Prefecture",
+  "name": "Kochi",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Kochi_Prefecture.svg"
  },
  "JP-40": {
   "author": "Guilherme Paula, Mike Rohsopht",
   "file": "Flag of Fukuoka Prefecture.svg",
   "license": "Public domain",
-  "name": "Fukuoka Prefecture",
+  "name": "Fukuoka",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Fukuoka_Prefecture.svg"
  },
  "JP-41": {
   "author": "Guilherme Paula, Mike Rohsopht",
   "file": "Flag of Saga Prefecture.svg",
   "license": "Public domain",
-  "name": "Saga Prefecture",
+  "name": "Saga",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Saga_Prefecture.svg"
  },
  "JP-42": {
   "author": "Original: Unknown author Vector:  Alex Tora",
   "file": "Flag of Nagasaki Prefecture.svg",
   "license": "Public domain",
-  "name": "Nagasaki Prefecture",
+  "name": "Nagasaki",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Nagasaki_Prefecture.svg"
  },
  "JP-43": {
@@ -3671,21 +3692,21 @@
   "author": "Ninane at nl.wikipedia",
   "file": "Flag of Miyazaki Prefecture.svg",
   "license": "Public domain",
-  "name": "Miyazaki Prefecture",
+  "name": "Miyazaki",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Miyazaki_Prefecture.svg"
  },
  "JP-46": {
   "author": "Guilherme Paula, Mike Rohsopht",
   "file": "Flag of Kagoshima Prefecture.svg",
   "license": "Public domain",
-  "name": "Kagoshima Prefecture",
+  "name": "Kagoshima",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Kagoshima_Prefecture.svg"
  },
  "JP-47": {
   "author": "Zach Harden (Zscout370)Optimized by Wrightbus",
   "file": "Flag of Okinawa Prefecture.svg",
   "license": "Public domain",
-  "name": "Okinawa Prefecture",
+  "name": "Okinawa",
   "source": "https://commons.wikimedia.org/wiki/File:Flag_of_Okinawa_Prefecture.svg"
  },
  "KE-01": {

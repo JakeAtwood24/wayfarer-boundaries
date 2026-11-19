@@ -1,13 +1,9 @@
 # Canada (CA)
 
-13 regions · 12 with flags · 1 missing · 0 renamed
+13 regions · 13 with flags · 0 missing · 1 renamed
 
 Edit [`regions.json`](regions.json) to change names and flags; how-to in [regions/README.md](../README.md).
 This page is rebuilt automatically, so don't edit it.
-
-## To do
-
-- [ ] **Quebec** (`CA-QB`) has no flag
 
 ## All regions
 
@@ -23,6 +19,6 @@ This page is rebuilt automatically, so don't edit it.
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Nunavut.svg?width=48" height="20"> | `CA-NU` | Nunavut | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Ontario.svg?width=48" height="20"> | `CA-ON` | Ontario | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Prince_Edward_Island.svg?width=48" height="20"> | `CA-PE` | Prince Edward Island | Automatic (Wikidata) |
-|  | `CA-QB` | Quebec | — |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Quebec.svg?width=48" height="20"> | `CA-QB` | Québec <sub>was Quebec</sub> | Your pick (Commons) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Saskatchewan.svg?width=48" height="20"> | `CA-SK` | Saskatchewan | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Yukon.svg?width=48" height="20"> | `CA-YT` | Yukon | Automatic (Wikidata) |

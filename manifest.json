@@ -1207,11 +1207,11 @@
    "v": 2
   },
   "CA": {
-   "bytes": 5009192,
+   "bytes": 975224,
    "file": "admin2-CA.geopack",
    "license": "Open Government Canada 2.0",
-   "sha256": "6d0a68037ac5a9aefca7898de69b05976e478cab23e3408800f3e1326c093234",
-   "v": 2
+   "sha256": "f2505905dc82513a8d44957a887dd4d49aaf00c7ae8f16ea673d2202f21b3a61",
+   "v": 3
   },
   "DE": {
    "bytes": 415184,
@@ -1391,11 +1391,11 @@
    "v": 1
   },
   "CA": {
-   "bytes": 150926,
-   "count": 12,
+   "bytes": 154108,
+   "count": 13,
    "file": "flags/CA.flagpack",
-   "sha256": "1e786147e726dc6f6f8810136036b12b82c706cd12f8edd7e43a4965a29f180e",
-   "v": 1
+   "sha256": "6145fa8ac667965ff534dd2a5112536ab61818b938146fe9f44ceacfa58f6262",
+   "v": 2
   },
   "CD": {
    "bytes": 19649,
@@ -1559,11 +1559,11 @@
    "v": 1
   },
   "GR": {
-   "bytes": 58296,
-   "count": 4,
+   "bytes": 72674,
+   "count": 5,
    "file": "flags/GR.flagpack",
-   "sha256": "a3b32c309e8f295c6d850eb8aae1db1044b0e4fbc41c940207e954594d2037e8",
-   "v": 4
+   "sha256": "3aa2eca124dcd4499dc2149c4a9a92e0e38a108e8518e714060c236d08090b37",
+   "v": 5
   },
   "GW": {
    "bytes": 24081,
@@ -1622,11 +1622,11 @@
    "v": 1
   },
   "JP": {
-   "bytes": 160099,
-   "count": 46,
+   "bytes": 162668,
+   "count": 47,
    "file": "flags/JP.flagpack",
-   "sha256": "4a4c8b36f86bbbb5d9ec37c68c785db3c2c0cf5b8e000f690e69ce1f087451c9",
-   "v": 2
+   "sha256": "c06729d22d0b7d012ed58ab334998799af33da9e90186981d15e8e3813d4dbf5",
+   "v": 3
   },
   "KE": {
    "bytes": 452696,
@@ -2029,11 +2029,11 @@
   }
  },
  "names": {
-  "bytes": 118,
-  "count": 5,
+  "bytes": 581,
+  "count": 28,
   "file": "names.json",
-  "sha256": "2f84490dc496484a4d6b1457fcc9ddca55bac1f3ee751b24c3393b18184a108a",
-  "v": 3
+  "sha256": "78ac124540627f28ebbf2a97acac706ab10ad305f5c2d86f0572aa02a290cebe",
+  "v": 4
  },
  "source": "geoBoundaries (www.geoboundaries.org)",
  "version": 1

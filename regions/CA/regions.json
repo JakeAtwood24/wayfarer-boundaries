@@ -9,7 +9,7 @@
   "CA-NU": {"name": "Nunavut"},
   "CA-ON": {"name": "Ontario"},
   "CA-PE": {"name": "Prince Edward Island"},
-  "CA-QB": {"name": "Quebec"},
+  "CA-QB": {"name": "Québec", "flag": "commons:Flag of Quebec.svg"},
   "CA-SK": {"name": "Saskatchewan"},
   "CA-YT": {"name": "Yukon"}
 }
