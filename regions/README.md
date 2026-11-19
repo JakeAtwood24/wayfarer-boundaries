@@ -111,7 +111,7 @@ Watch the commas: every entry but the last ends with one.
 | [Finland](FI/) | 18 | 15 | 3 |  |
 | [Fiji](FJ/) | 4 | 0 | 4 |  |
 | [Micronesia](FM/) | 4 | 4 |  |  |
-| [France](FR/) | 18 | 18 |  |  |
+| [France](FR/) | 18 | 18 |  | 1 |
 | [Gabon](GA/) | 9 | 1 | 8 | 1 |
 | [United Kingdom](GB/) | 4 | 3 | 1 |  |
 | [Grenada](GD/) | 7 | 0 | 7 |  |

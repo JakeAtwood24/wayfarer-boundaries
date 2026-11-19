@@ -2029,11 +2029,11 @@
   }
  },
  "names": {
-  "bytes": 97,
-  "count": 4,
+  "bytes": 118,
+  "count": 5,
   "file": "names.json",
-  "sha256": "0e3e41c72c2158ff0c42dfd32f7dfc1173b04f09a2d3584e361d71eaed5aa87d",
-  "v": 2
+  "sha256": "2f84490dc496484a4d6b1457fcc9ddca55bac1f3ee751b24c3393b18184a108a",
+  "v": 3
  },
  "source": "geoBoundaries (www.geoboundaries.org)",
  "version": 1

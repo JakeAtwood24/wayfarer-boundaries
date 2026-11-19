@@ -350,7 +350,7 @@ The PNGs are scaled-down copies of the originals.
 | Mayotte | FR-976 | CC0 | Germenfer | [Flag of Mayotte (Local).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Mayotte_(Local).svg) |
 | Auvergne-Rhône-Alpes | FR-ARA | Public domain | Ngagnebin | [Flag of the region Auvergne-Rhône-Alpes.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_region_Auvergne-Rh%C3%B4ne-Alpes.svg) |
 | Bourgogne-Franche-Comté | FR-BFC | CC BY-SA 4.0 | Geraldiker | [Flag of the region Bourgogne-Franche-Comté.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_region_Bourgogne-Franche-Comt%C3%A9.svg) |
-| Bretagne | FR-BRE | CC BY-SA 4.0 | Lexicon and GwenofGwened | [Flag of Brittany.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Brittany.svg) |
+| Breizh | FR-BRE | CC BY-SA 4.0 | Lexicon and GwenofGwened | [Flag of Brittany.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Brittany.svg) |
 | Centre-Val de Loire | FR-CVL | Public domain | User:Andrwsc | [Flag of Centre-Val de Loire.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Centre-Val_de_Loire.svg) |
 | Grand Est | FR-GES | CC BY 4.0 | Burjkh | [Flag of Grand Est (2022-present).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Grand_Est_(2022-present).svg) |
 | Hauts-de-France | FR-HDF | CC0 | Germenfer | [Flag of the Region of Hauts-de-France.svg](https://commons.wikimedia.org/wiki/File:Flag_of_the_Region_of_Hauts-de-France.svg) |
