@@ -2042,6 +2042,13 @@
   "sha256": "be51b74b58f31c2b27bc1d359fc63129e22b3cd5baca1521a6cd4c209aa57d83",
   "v": 5
  },
+ "scores": {
+  "bytes": 64716,
+  "count": 3495,
+  "file": "scores.json",
+  "sha256": "d81a7e5f90ad0e60fd55e3126cac35089aa84382793b56ad2ea6d8b73b7d4831",
+  "v": 1
+ },
  "source": "geoBoundaries (www.geoboundaries.org)",
  "version": 1
 }
