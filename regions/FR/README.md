@@ -11,7 +11,7 @@ This page is rebuilt automatically, so don't edit it.
 |---|---|---|---|
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_region_Auvergne-Rh%C3%B4ne-Alpes.svg?width=48" height="20"> | `FR-ARA` | Auvergne-Rhône-Alpes | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_region_Bourgogne-Franche-Comt%C3%A9.svg?width=48" height="20"> | `FR-BFC` | Bourgogne-Franche-Comté | Automatic (Wikidata) |
-| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Brittany.svg?width=48" height="20"> | `FR-BRE` | Breizh <sub>was Bretagne</sub> | Automatic (Wikidata) |
+| <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Brittany.svg?width=48" height="20"> | `FR-BRE` | Breizh | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Centre-Val_de_Loire.svg?width=48" height="20"> | `FR-CVL` | Centre-Val de Loire | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Corsica.svg?width=48" height="20"> | `FR-20R` | Corse | Automatic (Wikidata) |
 | <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Grand_Est_%282022-present%29.svg?width=48" height="20"> | `FR-GES` | Grand Est | Automatic (Wikidata) |
