@@ -2043,11 +2043,12 @@
   "v": 5
  },
  "scores": {
-  "bytes": 64007,
+  "bytes": 64013,
+  "content": "d9ca2bce2fe262dea8930869dcbd5cfca7cb589a37841c525b6ff0fe658e218a",
   "count": 3495,
   "file": "scores.json",
-  "sha256": "6caa4cd1442816bd8252d81fb8e12cdcbdc8aed5daabcbf3aa0835468a0af85a",
-  "v": 3
+  "sha256": "113491e38aff20747be38d4127505322c002681081a1fdc139beb3530e7f9e5b",
+  "v": 4
  },
  "source": "geoBoundaries (www.geoboundaries.org)",
  "version": 1
