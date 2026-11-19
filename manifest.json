@@ -1411,6 +1411,13 @@
    "sha256": "eeba17a71c78350c82d3832e5e0855138afdb78ef558223a59efee76a12ce084",
    "v": 1
   },
+  "CN": {
+   "bytes": 18479,
+   "count": 1,
+   "file": "flags/CN.flagpack",
+   "sha256": "00156e40e727fce95ac596f8caf3c77397a439ea675bca569bd12ec326480ab5",
+   "v": 1
+  },
   "CO": {
    "bytes": 88023,
    "count": 33,
@@ -2029,11 +2036,11 @@
   }
  },
  "names": {
-  "bytes": 581,
-  "count": 28,
+  "bytes": 1233,
+  "count": 59,
   "file": "names.json",
-  "sha256": "78ac124540627f28ebbf2a97acac706ab10ad305f5c2d86f0572aa02a290cebe",
-  "v": 4
+  "sha256": "be51b74b58f31c2b27bc1d359fc63129e22b3cd5baca1521a6cd4c209aa57d83",
+  "v": 5
  },
  "source": "geoBoundaries (www.geoboundaries.org)",
  "version": 1

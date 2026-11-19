@@ -49,7 +49,7 @@ Watch the commas: every entry but the last ends with one.
 
 ## Countries
 
-3202 regions in 197 countries, 1356 with flags.
+3202 regions in 197 countries, 1357 with flags.
 
 | Country | Regions | Flags | Missing | Renamed |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ Watch the commas: every entry but the last ends with one.
 | [Côte d'Ivoire](CI/) | 14 | 0 | 14 |  |
 | [Chile](CL/) | 16 | 0 | 16 |  |
 | [Cameroon](CM/) | 10 | 0 | 10 |  |
-| [China](CN/) | 31 | 0 | 31 |  |
+| [China](CN/) | 31 | 1 | 30 | 31 |
 | [Colombia](CO/) | 33 | 33 |  |  |
 | [Costa Rica](CR/) | 7 | 7 |  |  |
 | [Cuba](CU/) | 16 | 0 | 16 |  |

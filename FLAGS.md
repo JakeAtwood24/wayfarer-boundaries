@@ -158,6 +158,7 @@ The PNGs are scaled-down copies of the originals.
 | Valais | CH-VS | Public domain | Original: Unknown author Vector:  SpinnerLaserzthe2nd | [CHE Valais Flag.svg](https://commons.wikimedia.org/wiki/File:CHE_Valais_Flag.svg) |
 | Zug | CH-ZG | Public domain | Unknown authorUnknown author | [Flag of Canton of Zug.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Canton_of_Zug.svg) |
 | Zürich | CH-ZH | Public domain | Original: Unknown author Vector:  SpinnerLaserzthe2nd | [CHE Zürich Flag.svg](https://commons.wikimedia.org/wiki/File:CHE_Z%C3%BCrich_Flag.svg) |
+| Tibet | CN-XZ | Public domain | Unknown authorUnknown author | [Flag of Tibet.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Tibet.svg) |
 | Amazonas | CO-AMA | CC BY-SA 4.0 | Milenioscuro | [Flag of Amazonas (Colombia).svg](https://commons.wikimedia.org/wiki/File:Flag_of_Amazonas_(Colombia).svg) |
 | Antioquia | CO-ANT | Public domain | Madden | [Flag of Antioquia Department.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Antioquia_Department.svg) |
 | Arauca | CO-ARA | Public domain | Fibonacci | [Flag of Arauca.svg](https://commons.wikimedia.org/wiki/File:Flag_of_Arauca.svg) |
